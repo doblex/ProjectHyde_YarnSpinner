@@ -1,0 +1,8 @@
+title: Start2
+---
+Io: Cosa mi porto al parco?
+-> Un libro
+    <<Add "libro">>
+-> Le scarpe da ginnastica
+    <<Add "scarpe da ginnastica">>
+===
