@@ -1,0 +1,27 @@
+title: Sassi
+position: -130,89
+---
+Buoni i Sassi
+NPC: Sono il mio cibo preferito!
+Anche il mio!
+===
+
+title: Start1
+position: 203,-132
+---
+Yarn Spinner is a language for writing conversations in games!
+You can use it to write branching dialogue, and use that in a game engine!
+
+
+Prova: For example, here's a choice between some options!
+===
+
+title: Start2
+position: -30,-205
+---
+Yarn Spinner is a language for writing conversations in games!
+You can use it to write branching dialogue, and use that in a game engine!
+<<prova dadsds>>
+
+Prova: For example, here's a choice between some options!
+===
