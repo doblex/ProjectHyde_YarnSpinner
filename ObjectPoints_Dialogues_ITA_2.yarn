@@ -78,7 +78,7 @@ Daniel: (<i>Una strana bambola in uno strano posto. Meglio chiedere informazioni
 title: ID_Object_OldDoll_Collected_ITA
 tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
 ---
-Daniel: (<i>Una delle bambole di Melissa. Probabilmente è la più vecchia che possiede. Lo si vede dalle sue condizioni</i>) #tone:neutral
+Daniel: (<i>Una delle bambole di Melissa. Probabilmente è la più vecchia che possiede. Lo si vede dalle sue condizioni.</i>) #tone:neutral
 Daniel: (<i>Se la porta persino a scuola, deve essere davvero importante per lei. Ma potrebbe esserci dell'altro?</i>) #tone:thinking
 Daniel: (<i>Dovrei prenderla con me. Potrei chiedere a Melissa o a Mary più informazioni a riguardo.</i>) #tone:neutral
 <<SetTag EventFlags.OldDoll.PickedUp true>>

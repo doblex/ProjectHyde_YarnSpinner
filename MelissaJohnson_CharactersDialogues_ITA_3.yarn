@@ -51,7 +51,7 @@ title: CD_MelissaJohnson_AboutYou_ITA
 name: Parlami di te
 ---
 Daniel: Melissa conosco tuo padre da molto tempo, ma non ho mai avuto l'opportunità di conoscere te. #tone:neutral
-Melissa: Oh-oh, Mr. Detective vuole saperne di più sul mio conto? Come biasimarlo. #tone:laugh
+Melissa: Oh-oh, Mr. Detective vuole saperne di più sul mio conto? Come biasimarti. #tone:laugh
 Melissa: Melissa Johnson, 16 anni, la bellissima studentessa coi voti più alti della scuola, e la stella del suo coro.  #tone:haughty
 Melissa: Non c'è studente che non conosca il mio nome, e i professori non fanno altro che tessere le mie lodi. #tone:laugh
 Melissa: Odio perdere tempo, gli incapaci e le persone che non mi ascoltano. Mi piacciono la musica, i dolci e le bambole. #tone:haughty
@@ -154,7 +154,7 @@ Melissa: BASTA! #tone:angry
 Daniel: ... #tone:serious
 Melissa: ... #tone:nervous
 Daniel: ...Quindi? #tone:neutral
-Melissa: I-Io... D'accordo. ti dirò tutto. Ma chiudi quella bocca, per favore. #tone:sad
+Melissa: I-Io... D'accordo. Ti dirò tutto. Ma chiudi quella bocca, per favore. #tone:sad
 <<SetTag EventFlags.Melissa.Dialogues.YourDiary.Completed true>>
 ===
 
