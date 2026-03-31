@@ -1,0 +1,284 @@
+title: ID_Object_Candlestick_Collected_ITA
+---
+Daniel: (<i>Il candelabro che Richard tiene da sempre nel suo studio. Le fiamme lo hanno danneggiato, ma non sembra deformato.</i>) #tone:neutral
+Daniel: (<i>Non ho mai capito perché lo tenesse qui. Questa stanza è ben illuminata anche se le luci sono spente.</i>) #tone:sigh
+Daniel: (<i>Forse voleva solo ostentare la sua ricchezza, ma a chi? A sua moglie e sua figlia?</i>)
+Daniel: (...) #tone:distressed
+Daniel: (<i>Ad ogni modo, non può rimanere qui. Meglio prenderlo.</i>) #tone:serious
+<<SetTag EventFlags.Candlestick.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_ImportantStudyDocuments_Collected_ITA
+---
+Daniel: Ma...! #tone:surprised
+Daniel: (<i>Come hanno fatto questi documenti a sopravvivere all'incendio?!</i>) #tone:distressed
+Daniel: (<i>Ci sono delle parole coperte da inchiostro di colori diversi. A giudicare dalla struttura delle frasi, devono essere nomi.</i>) #tone:nervous
+Daniel: (<i>Devo trovare il modo di leggerli. Forse in giro per la casa c'è qualcosa che può aiutarmi a farlo.<i>) #tone:serious
+===
+//FINE
+
+
+title: ID_Object_Whisky_Collected_ITA
+---
+Daniel: (<i>Una bottiglia di Whisky. Sembra pregiato. E costoso. E deve essere anche buono, perché la bottiglia è mezza vuota.</i>) #tone:neutral
+Daniel: (<i>A Richard è sempre piaciuto bere, non mi stupirei se avesse una cantina piena di bottiglie come queste.</i>) #tone:sarcastic
+Daniel: (<i>Non ci sono bicchieri sul tavolo, però. Mi chiedo chi lo abbia bevuto, e da quanto tempo sia qui.</i>) #tone:thinking
+Daniel: (<i>Posso provare a chiederlo in giro.</i>) #tone:neutral
+===
+//FINE
+
+
+title: ID_Object_ColoredGlasses_Collected_ITA
+---
+Daniel: (<i>Bicchieri di vetro dal fondo colorato. Immagino che comprarli sia stato un'idea di Mary.</i>) #tone:neutral
+Daniel: (<i>Sono molto puliti. Se li usassi come cannocchiale, vedrei la stanza di un colore completamente diverso.</i>) #tone:thinking
+Daniel: (<i>Sarebbe divertente. Chissà se può tornarmi utile in qualche modo.</i>) #tone:happy
+===
+//FINE
+
+
+title: ID_Object_Salt_Seen_ITA
+---
+Daniel: (<i>Un barattolo di sale. O forse zucchero? Non posso esserne sicuro guardandolo e basta.</i>) #tone:question
+Daniel: (<i>C'è solo un modo per scoprirlo...</i>) #tone:thinking
+Daniel: Mmhg...! #tone:surprised
+Daniel: (<i>Decisamente sale.</i>) #tone:sigh
+===
+
+title: ID_Object_Salt_AlreadySeen_ITA
+---
+Daniel: (<i>Non ho bisogno di ricontrollare. E' sale.</i>) #tone:neutral
+===
+
+title: ID_Object_Salt_Collected_ITA
+tag: EventFlags.Mary.NotebookCase.Solved
+--- 
+Daniel: (<i>Devo far sembrare verosimile che l'accendino di Mary fosse nello studio al momento dell'incendio.</i>) #tone:serious
+Daniel: (<i>Esposto a quelle fiamme, un oggetto del genere ossiderebbe in fretta, quindi...</i>) #tone:thinking
+Daniel: (<i>Questo sale potrebbe tornarmi utile.</i>) #tone:serious
+===
+//FINE
+
+
+title:ID_Object_OldDoll_Seen_ITA
+---
+Daniel: (<i>Una bambola di pezza qui? Questa non è la borsa che Melissa si porta a scuola?</i>) #tone:question
+Daniel: (<i>Sembra piuttosto vecchia, ma per il resto è ben conservata. Da quanto tempo la avrà Melissa?</i>) #tone:thinking
+Daniel: (<i>Se la porta persino a scuola, col rischio che i suoi compagni la trovino, deve essere davvero importante per lei.</i>) #tone:thinking
+Daniel: (<i>Dovrei parlarne con Melissa.</i>) #tone:neutral
+===
+
+title: ID_Object_OldDoll_AlreadySeen_ITA
+---
+Daniel: (<i>Una strana bambola in uno strano posto. Meglio chiedere informazioni alla proprietaria.</i>) #tone:neutral
+===
+
+title: ID_Object_OldDoll_Collected_ITA
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<i>Una delle bambole di Melissa. Probabilmente è la più vecchia che possiede. Lo si vede dalle sue condizioni</i>) #tone:neutral
+Daniel: (<i>Se la porta persino a scuola, deve essere davvero importante per lei. Ma potrebbe esserci dell'altro?</i>) #tone:thinking
+Daniel: (<i>Dovrei prenderla con me. Potrei chiedere a Melissa o a Mary più informazioni a riguardo.</i>) #tone:neutral
+<<SetTag EventFlags.OldDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_RuinedDoll_Seen_ITA
+---
+Daniel: (<i>C'è una bambola di pezza sulla scrivania. E' circondata da libri e quaderni.</i>) #tone:neutral
+Daniel: (<i>Stona un po' con tutto il resto. E' tutto così nuovo, mentre lei sembra essere piuttosto vecchia.</i>) #tone:thinking
+Daniel: (<i>Perché Melissa la tiene qui? La aiuta a concentrarsi? O forse è lei a farle i compiti...?</i>) #tone:question
+Daniel: (<i>No, non è il momento di scherzare. Meglio chiedere direttamente a Melissa.</i>) #tone:serious
+===
+
+title: ID_Object_RuinedDoll_AlreadySeen_ITA
+---
+Daniel: (<i>Una strana bambola in uno strano posto. Meglio chiedere informazioni alla proprietaria.</i>) #tone:neutral
+===
+
+title: ID_Object_RuinedDoll_Collected_ITA
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<i>Una delle bambole di Melissa. Sembra essere una delle più vecchie. E' in bella vista sulla sua scrivania, ed è girata a guardare la sedia.</i>) #tone:neutral
+Daniel: (<i>Che Melissa ripeta le cose che studia per le interrogazioni a questa bambola? E' divertente da immaginare.</i>) #tone:sarcastic
+Daniel: (<i>Ma non è il momento di pensarci. E in ogni caso, è palese che sia un oggetto importante.</i>) #tone:serious
+Daniel: (<i>Sono sicuro che nessuno si offenderà se la porto un po' in giro.</i>) #tone:sarcastic
+<<SetTag EventFlags.RuinedDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_PorcelainDoll_Seen_ITA
+---
+Daniel: (<i>Là in alto nell'armadio c'è una bambola di porcellana. Sembra in buone condizioni ma è impolverata.</i>) #tone:neutral
+Daniel: (<i>E' di ottima fattura, non può essere costata poco. Non che i soldi siano un problema per questa famiglia.</i>) #tone:sarcastic
+Daniel: (<i>E' un po' inquietante lassù, in ombra, a guardarti con quello sguardo impassibile...</i>) #tone:distressed
+Daniel: (<i>Forse dovrei chiedere a Melissa perché la tiene lì.</i>) #tone:sigh
+===
+
+title: ID_Object_PorcelainDoll_AlreadySeen_ITA
+---
+Daniel: (<i>Una strana bambola in uno strano posto. Meglio chiedere informazioni alla proprietaria.</i>) #tone:neutral
+===
+
+title: ID_Object_PorcelainDoll_Collected_ITA
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<i>Una delle bambole di Melissa. Sembra nuova ma è piena di polvere.</i>) #tone:neutral
+Daniel: (<i>Non credo sia la sua preferita, dato che la tiene così nascosta. Ma non c'è un filo fuori posto nel suo vestito, quindi deve prendersene cura.</i>) #tone:thinking
+Daniel: (<i>Davvero non le piace, o c'è un'altra ragione per cui la tiene in questo posto? Mmh...</i>) #tone:thinking
+Daniel: (<i>Credo sia giunto il momento di farla scendere dal suo trono impolverato e chiedere a Melissa perchè l'abbia messa lì.</i>) #tone:sarcastic
+<<SetTag EventFlags.PorcelainDoll.PickedUp true>>
+===
+//FINE
+
+
+title:ID_Object_NewPorcelainDoll_Seen_ITA
+---
+Daniel: (<i>Una bambola di porcellana sotto il letto di Melissa? Com’è finita qui?</i>) #tone:surprised
+Daniel: (<i>E' nuova di zecca, e non è sporca o impolverata. Non deve essere qui da molto.</i>) #tone:neutral
+Daniel: (<i>Questo è davvero strano. E sospetto. Che l'abbia voluta nascondere? Ma perché?</i>) #tone:thinking
+Daniel: (<i>Beh, c'è solo un modo per scoprirlo. Meglio parlarne con Melissa.</i>) #tone:serious
+===
+
+title: ID_Object_NewPorcelainDoll_AlreadySeen_ITA
+---
+Daniel: (<i>Una strana bambola in uno strano posto. Meglio chiedere informazioni alla proprietaria.</i>) #tone:neutral
+===
+
+title: ID_Object_NewPorcelainDoll_Collected_ITA
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<i>Una delle bambole di Melissa, nascosta sotto il letto, per qualche ragione.</i>) #tone:neutral
+Daniel: (<i>E' sicuramente la più nuova che possiede. Credo anche di averla vista esposta in qualche vetrina in città.</i>) #tone:neutral
+Daniel: (<i>Dato quanto tiene alle sue bambole, mi sembra strano che questo sia il suo solito posto. E dato che non ha neanche un graffio dubito sia caduta per errore.</i>) #tone:thinking
+Daniel: (<i>Se l'ha nascosta significa che è importante,e che può servire a qualcosa. Meglio prenderla.</i>) #tone:serious
+<<SetTag EventFlags.NewPorcelainDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_MelissaSecretDiary_Collected_ITA
+---
+Daniel: (<i>Un diario segreto dentro un cassetto chiuso con un lucchetto. Certo che anche le ragazzine viziate sanno applicarsi quando vogliono.</i>) #tone:thinking
+Daniel: (<i>Se Melissa si è data tanta pena per nascondere il suo diario di certo deve contenere informazioni che non vuole si sappiano in giro.</i>) #tone:serious
+Daniel: (<i>Mi sento un po' a disagio a leggere i pensieri privati di una sedicenne, ma dopo tutta la fatica per trovarlo sarebbe stupido non leggerlo.</i>) #tone:distressed
+Daniel: (<i>E poi, potrebbe esserci scritto qualcosa su Richard. Potrei trovare un movente, o anche di più...</i>) #tone:serious
+<<SetTag EventFlags.MelissaSecretDiary.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_BedroomAshtray_Collected_ITA
+---
+Daniel: (<i>Un posacenere usato, appoggiato sul comodino. Mary non avrà avuto il tempo di pulirlo con tutto quello che è successo.</i>) #tone:neutral
+Daniel: (<i>Questo comodino è di Richard o di Mary? Sono uguali, non riesco a capirlo.</i>) #tone:question
+Daniel: (<i>Ad ogni modo, fumare in camera non mi sembra una grande idea. Spero almeno aprissero la finestra.</i>) #tone:sigh
+Daniel: (<i>Posso sempre prenderlo e chiedere in giro chi lo usasse.</i>) #tone:neutral
+===
+//FINE
+
+
+title: ID_Object_WeddingSheets_Collected_ITA
+---
+Daniel: (<i>Questi fogli... sono il contratto prematrimoniale di Richard e Mary. Perché tenere una cosa così importante in un posto del genere?</i>) #tone:surprised
+Daniel: (<i>Beh, era ovvio che Richard avrebbe chiesto persino a sua moglie dei firmare un accordo prima di condividere i suoi beni.</i>) #tone:sarcastic
+Daniel: (<i>Ma non credo che questi fogli possano avvantaggiarlo in qualche modo dove si trova adesso.</i>) #tone:grim
+Daniel: (<i>Sicuramente però, contengono informazioni utili. Meglio prenderli.</i>) #tone:serious
+<<SetTag EventFlags.WeddingSheets.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_MaryLighter_Seen_ITA
+---
+Daniel: (<i>Cos'è quella, una piccola scatola di metallo? Non si capisce col buio.</i>) #tone:question
+Daniel: (<i>Sembra colorata e decorata in qualche modo. Che sia caduta qui sotto per sbaglio?</i>) #tone:question
+Daniel: (<i>Posso provare a parlare con Mary, forse sa qualcosa.</i>) #tone:neutral
+===
+
+title: ID_Object_MaryLighter_AlreadySeen_ITA
+---
+Daniel: (<i>Se c'è una persona che sa cos'è quello, è Mary.</i>) #tone:neutral
+===
+
+title: ID_Object_MaryLighter_Collected_ITA
+tag: EventFlags.Mary.Dialogues.AboutYou.Completed
+---
+Daniel: (<i>Ora che ci guardo meglio, quello sembra un accendino. E' decorato con delle lettere, probabilmente le iniziali di qualcuno.</i>) #tone:thinking
+Daniel: (<i>Un accendino sotto un letto in una casa in cui un uomo è morto a causa di un incendio. Mmh...</i>) #tone:thinking
+Daniel: (<i>Sto iniziando a dubitare che sia scivolato qui sotto "per sbaglio".</i>) #tone:serious
+Daniel: (<i>Devo parlare con Mary.</i>) #tone:serious
+<<SetTag EventFlags.MaryLighter.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_ToiletPaper_Seen_ITA
+---
+Daniel: (<i>Dei fazzoletti di carta sul banco della cucina. Non ci vedo niente di strano</i>) #tone:neutral
+Daniel: (<i>Potrei usarne uno per prendere una fetta di torta ed evitare di lasciare una scia di briciole per terra.</i>) #tone:sarcastic
+Daniel: (<i>Se solo ci fosse una torta.</i>) #tone:neutral
+===
+
+title: ID_Object_ToiletPaper_AlreadySeen_ITA
+---
+Daniel: (<i>Ancora nessuna torta.</i>) #tone:sarcastic
+===
+
+title: ID_Object_ToiletPaper_Collected_ITA
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<i>Non è credibile che questo accendino sia stato l'innesco dell'incendio. E' in condizioni troppo buone.</i>) #tone:thinking
+Daniel: (<i>Perché sia credibile, dovrebbe essere ammaccato, o rovinato. Devo trovare il modo di danneggiarlo.</i>) #tone:serious
+Daniel: (<i>Mmh... Forse alla fine dovrò usare questi fazzoletti.</i>) #tone:serious
+===
+//FINE
+
+
+title: ID_Object_HydrogenPeroxide_Seen_ITA
+---
+Daniel: (<i>Una bottiglia di acqua ossigenata. E' ancora quasi del tutto piena.</i>) #tone:neutral
+Daniel: (<i>Se nessuno l'ha usata, immagino non ce ne sia stato bisogno. Almeno Mary e Melissa non sono rimaste ferite...</i>) #tone:relieved
+Daniel: (<i>Neanche a me serve usare una cosa del genere. Meglio lasciarla al suo posto.</i>) #tone:neutral
+===
+
+title: ID_Object_HydrogenPeroxide_AlreadySeen_ITA
+---
+Daniel: (<i>Niente ferite, nessun bisogno di usare questa cosa.</i>) #tone:neutral
+===
+
+title: ID_Object_HydrogenPeroxide_Collected_ITA
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<i>Devo far sembrare verosimile che l'accendino di Mary fosse nello studio al momento dell'incendio.</i>) #tone:serious
+Daniel: (<i>Esposto a quelle fiamme, un oggetto del genere ossiderebbe in fretta, quindi...</i>) #tone:thinking
+Daniel: (<i>Non credo nessuno se ne accorgerà se uso un po' di questo liquido...</i>) #tone:neutral
+===
+//FINE
+
+
+title: ID_Object_Tweezers_Seen_ITA
+---
+Daniel: (<i>Delle pinzette molto piccole, immagino le usino Mary o Melissa.</i>) #tone:neutral
+Daniel: (<i>Mi sono sempre chiesto, non fa male sistemarsi le sopracciglia in questo modo? Ti stai strappando i peli dalla faccia!</i>) #tone:surprised
+Daniel: (<i>Beh, non credo che lo scoprirò mai, e mi va bene così.</i>) #tone:sigh
+===
+
+title: ID_Object_Tweezers_AlreadySeen_ITA
+---
+Daniel: (<i>Non ho intenzione di usarle.</i>) #tone:serious
+===
+
+title: ID_Object_Tweezers_Collected_ITA
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<i>Non è credibile che questo accendino sia stato l'innesco dell'incendio. E' in condizioni troppo buone.</i>) #tone:serious
+Daniel: (<i>Perché sia credibile, dovrebbe essere ammaccato, o rovinato. Devo trovare il modo di danneggiarlo.</i>) #tone:serious
+Daniel: (<i>Queste pinzette potrebbero tornarmi utili.</i>) #tone:neutral
+===
+//FINE
+

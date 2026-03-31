@@ -1,0 +1,185 @@
+title: CD_MelissaJohnson_Introduction_ITA
+name: Introduzione
+---
+Melissa: Oh, Mr. Detective. Cosa devi chiedermi ancora? #tone:neutral
+===
+
+
+title: CD_MelissaJohnson_AboutTheVictim_ITA
+name: La vittima
+---
+Daniel: Melissa, te la senti di parlarmi di tuo padre? #tone:question
+Melissa: C-Cosa? Certo che sì! Perché non dovrei? #tone:nervous
+Daniel: Volevo solo essere sicuro. Mi rendo conto che la tua sia una situazione difficile. #tone:neutral
+Melissa: Ha! Se pensi che basti questo a turbarmi, allora dovresti ricrederti! Posso rispondere alla tua domanda senza problemi! #tone:nervous
+Melissa: Papà era il migliore. Riusciva sempre a raggiungere tutti i suoi obiettivi, non importava quanto sembrassero impossibili. Voglio essere come lui da adulta. #tone:happy
+Daniel: ... #tone:distressed
+Melissa: Però era anche molto severo. Aveva alte aspettative con tutti, e quando non erano rispettate si arrabbiava. #tone:sad
+Melissa: Ma è una cosa naturale no? Non tutti possono essere perfetti come me e lui. E se qualcuno non sa fare il suo lavoro allora va punito. #tone:haughty 
+Daniel: ...Capisco. E si comportava in questo modo anche con te? #tone:question
+Melissa: ...Io sono sua figlia e la sua erede. Papà si aspettava molto da me, e io dovevo essere all'altezza. Se si arrabbiava era solo perché sapeva che potevo fare meglio. #tone:nervous
+Melissa: Ma non succedeva spesso. Perché anche io, come lui, sono bravissima in tutto quello che faccio. Si vede che il successo mi scorre nel sangue. #tone:laugh //nell'ultima frase Melissa si sta vantando, non è sarcastica o retorica. E' proprio un "dalle mie azioni tutti riescono a vedere che sono la migliore in tutto."
+Daniel: (<i>Vedo che ha ereditato il meglio dal padre...</i>) #tone:sarcastic
+Daniel: (<i>Dovrei chiederle maggiori informazioni sulla relazione che aveva con lui.</i>) #tone:thinking
+<<SetTag EventFlags.Melissa.Dialogues.AboutTheVictim.Completed true>>
+===
+
+title: CD_MelissaJohnson_YouAndYourFather_ITA
+name: Tu e tuo padre
+tag: EventFlags.Melissa.Dialogues.AboutTheVictim.Completed
+---
+Daniel: Ultimamente ci sono stati problemi tra te e tuo padre? #tone:question
+Melissa: C-Come mai questa domanda? #tone:scared
+Daniel: Hai detto che Richard si arrabbiava facilmente. Avete litigato nell'ultimo periodo? #tone:question 
+Melissa: C-Che domanda stupida, o-ovviamente no. #tone:nervous
+Melissa: E comunque, anche se si arrabbiava non era mai per molto tempo. Bastava che mi impegnassi di più e riuscissi a fare quello che voleva. #tone:haughty
+Daniel: Capisco, e immagino che tu fossi una figlia modello... #tone:sarcastic
+Melissa: Esattamente! #tone:haughty
+Daniel: (<i>Io-- Ero ironico... Lasciamo stare.</i>) #tone:tired
+Daniel: E te invece? #tone:question
+Melissa: Io cosa? #tone:question
+Daniel: Tuo padre ha fatto arrabbiare te ultimamente? #tone:question
+Daniel: (<i>Se il suo comportamento a casa era anche solo lontanamente simile a quello che aveva al lavoro, non farei fatica a crederci...</i>) #tone:grim
+Melissa: A-Ahah, Mr. Detective, perché mai avrei dovuto essere arrabbiata con papà? Ovviamente non ne avevo alcun motivo. #tone:nervous
+Melissa: Adesso, se hai finito di perdere tempo con queste domande, torna a fare il tuo lavoro! #tone:angry
+Daniel: (<i>Ha chiuso il discorso troppo in fretta. C'è qualcosa che non vuole dirmi.</i>) #tone:thinking
+Daniel: (<i>Ma non credo che riuscirò a farla parlare adesso. Devo trovare qualcosa che la obblighi a farlo.</i>) #tone:serious
+<<SetTag EventFlags.Melissa.Dialogues.YouAndYourFather.Completed true>>
+===
+
+title: CD_MelissaJohnson_AboutYou_ITA
+name: Parlami di te
+---
+Daniel: Melissa conosco tuo padre da molto tempo, ma non ho mai avuto l'opportunità di conoscere te. #tone:neutral
+Melissa: Oh-oh, Mr. Detective vuole saperne di più sul mio conto? Come biasimarlo. #tone:laugh
+Melissa: Melissa Johnson, 16 anni, la bellissima studentessa coi voti più alti della scuola, e la stella del suo coro.  #tone:haughty
+Melissa: Non c'è studente che non conosca il mio nome, e i professori non fanno altro che tessere le mie lodi. #tone:laugh
+Melissa: Odio perdere tempo, gli incapaci e le persone che non mi ascoltano. Mi piacciono la musica, i dolci e le bambole. #tone:haughty
+Melissa: Ma la cosa più importante da sapere su di me è che se voglio qualcosa, la ottengo. Sempre. #tone:laugh
+Daniel: ...Okay. #tone:sigh
+Daniel: Potresti spiegarmi meglio cosa intendi con quest'ultima frase? #tone:question
+Melissa: Cosa c'è da spiegare? Se si vuole qualcosa basta prendersela, o fare in modo che te la diano. E chi potrebbe mai dirmi di no? #tone:laugh
+Melissa: Prendi la mamma. Lei mi dice sempre di sì. Con papà era un'altra storia, ma non importa. #tone:haughty
+Melissa: Non può dirmi di non fare qualcosa se non sa che la sto facendo. #tone:laugh
+Daniel: Quindi avevi dei segreti con tuo padre? #tone:question
+Melissa: Tutte le ragazze hanno i loro segreti. E non sono cose che i maschi possono capire. #tone:laugh
+Daniel: (Non credo che mi dirà altro, per adesso. Cambiamo argomento.) #tone:sigh
+<<SetTag EventFlags.Melissa.Dialogues.AboutYou.Completed true>>
+===
+
+title: CD_MelissaJohnson_YouAndYourMother_ITA
+name: Tu e tua madre
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: Quindi tuo padre era il genitore cattivo e tua madre quello buono? #tone:thinking
+Daniel: (<i>Non mi stupirebbe...</i>) #tone:sigh
+Melissa: N-Non direi proprio così. Papà non era cattivo. Solo esigente. #tone:sad
+Daniel: ...Scusa, mi sono espresso male. Puoi parlarmi di tua madre? #tone:serious
+Melissa: La mamma? Lei sì che si può definire buona. #tone:happy
+Melissa: Mi accontenta sempre, anche quando papà non è d'accordo. E mi ha insegnato un sacco di cose. #tone:neutral
+Melissa: E poi fa dei dolci buonissimi. Ogni volta che sono triste cucina il mio preferito e me lo porta in camera. #tone:happy
+Daniel: (<i>Quindi avevo ragione. Richard è il cattivo e Mary la buona...</i>) #tone:tired
+Daniel: Cosa ti ha insegnato Mary? #tone:question
+Melissa: Oh, non sono cose che tornerebbero utili a te. In fondo sei un maschio. #tone:laugh
+Melissa: Diciamo che le ragazze devono stare attente a molte più cose, come ad esempio il loro aspetto. #tone:neutral
+Melissa: Ma purtroppo la società non richiede lo stesso agli uomini. #tone:laugh
+Daniel: (<i>Cosa-- Mi sono appena fatto prendere in giro da una ragazzina con la metà dei miei anni?!</i>) #tone:surprised
+Melissa: Oh, ma c'è qualcosa che neanche lei mi ha insegnato. #tone:neutral
+Daniel: E sarebbe? #tone:question
+Melissa: Che il vero amore esiste. #tone:laugh
+===
+
+title: CD_MelissaJohnson_YourDolls_ITA
+name: Le tue bambole
+tag: EventFlags.Doll.PickedUp
+---
+Daniel: Melissa, stavo investigando camera tua e-- #tone:neutral
+Melissa: Stavi facendo cosa?! #tone:angry
+Daniel: Ho il permesso del distretto di polizia... #tone:tired
+Melissa: Ma non ti ho mai dato il mio! #tone:angry
+Daniel: Sì, ma... (<i>No, perderei solo tempo a spiegarglielo.</i>) #tone:sigh
+Daniel: Ho visto le tue bambole e-- #tone:neutral
+Melissa: Hai toccato le mie bambole?! #tone:angry
+Daniel: N-No io... Prima hai detto che ti piacciono. Volevo chiederti il perché. #tone:conflicted
+Melissa: Sono il mio tesoro! Me le ha regalate tutte mio papà. Sono bellissime e fatte benissimo e nessuno tranne me le deve toccare. #tone:angry
+Melissa: La prima me l'ha regalata al mio quinto compleanno. Ci giocavo tantissimo, quindi ora è rovinata, ma non importa. Le conserverò tutte per sempre. #tone:happy
+Daniel: Quindi sono regali di Richard... #tone:thinking
+Melissa: S-Sì, sono... Sono gli unici regali che papà mi abbia mai fatto. #tone:nervous
+Melissa: Per lui non erano importanti i compleanni o il Natale. Importava solo quanto ero brava. #tone:sad
+Melissa: Quindi bastava che fossi la migliore. Così papà mi avrebbe fatto un altro regalo, e io sarei potuta essere sicura che mi volesse davvero... #tone:sad //è una frase lasciata a metà. Melissa stava dicendo "e io sarei potuta essere sicura che lui mi volesse davvero bene"
+Daniel: (<i>...Richard...</i>) #tone:grim
+Melissa: C-Comunque, questo è il motivo. Ora lascia in pace me e le mie bambole e torna a fare il tuo lavoro! #tone:haughty
+Daniel: Certo, grazie per avermi risposto. #tone:serious
+Daniel: (<i>Quindi queste bambole sono davvero importanti. Potrebbe essermi utile in futuro.</i>) #tone:thinking
+===
+
+title: CD_MelissaJohnson_YourAlibi_ITA
+name: Il tuo alibi
+---
+Daniel: Melissa, ho bisogno di sapere il tuo alibi. #tone:serious 
+Melissa: H-Huh? Non sospetterai di me. #tone:nervous
+Daniel: No, no. Ma devo avere le testimonianze di tutti i presenti al momento del crimine. #tone:neutral
+Melissa: Se può aiutarti a trovare il colpevole... #tone:nervous
+Melissa: Io, mamma e papà abbiamo cenato verso le 20. Abbiamo chiacchierato finchè io e la mamma non siamo andate a letto. #tone:neutral
+Daniel: Avete parlato di qualcosa di particolare? #tone:question
+Melissa: N-No, no. Papà mi ha chiesto se andavo d'accordo coi miei compagni. Ma a scuola va tutto bene, come sempre. #tone:nervous
+Melissa: Sono andata a letto circa alle 21:40. Ma mi sono svegliata nel cuore della notte sentendo dei rumori. #tone:nervous
+Melissa: Avevo paura che fosse entrato qualcuno, quindi ho aspettato un po' prima di uscire. #tone:scared
+Melissa: Nel corridoio ho incontrato la mamma, e siamo andate insieme in salotto. E lì... #tone:nervous
+Melissa: Era caldo e c'era puzza di fumo. Io non riuscivo a muovermi, ma poi la mamma ha urlato il nome di papà e io...  #tone:scared
+Melissa: Non ricordo bene cosa è successo. Ad un certo punto ho capito che lo studio di papà stava andando a fuoco. Poi la mamma mi ha afferrata e siamo corse fuori. #tone:nervous
+Melissa: Ha chiamato i pompieri col telefono pubblico, ma... Sono arrivati troppo tardi... #tone:sad
+Daniel: ... #tone:distressed
+Daniel: Ti senti bene? #tone:serious
+Melissa: S-Sì. Avevi bisogno della mia testimonianza, no? Beh, eccotela. #tone:haughty
+===
+
+title: CD_MelissaJohnson_YourDiary_ITA
+name: Il tuo diario segreto
+tag: EventFlags.SecretDiary.PickedUp, EventFlags.Melissa.Dialogues.AboutTheVictim.Completed 
+---
+Daniel: Melissa, devo chiederti una cosa. #tone:serious
+Melissa: Oh, ancora? Credevo mi avessi chiesto tutto, ormai. #tone:haughty
+Daniel: Prima ti ho chiesto se tu e tuo padre aveste litigato, e tu mi hai risposto di no. #tone:serious
+Melissa: E-E quindi? #tone:nervous
+Daniel: Devi sapere che in camera tua ho trovato una cosa interessante. Il tuo diario. #tone:serious
+Melissa: T-Tu...?! #tone:angry
+Melissa: Hai trovato il mio diario segreto?! N-Non dirmi che lo hai letto... #tone:scared
+Daniel: Certo che l'ho letto. E c'è un passaggio che ha colto la mia attenzione. La pagina che hai scritto ieri. Eri davvero arrabbiata. #tone:serious
+Melissa: No! Basta! Ridammelo subito! #tone:scared
+Daniel: Non sapevo che avessi un ragazzo. Ma a quanto pare Richard non approvava. #tone:sarcastic
+Melissa: Stai zitto, stai zitto! #tone:angry
+Daniel: E su questa questione eri davvero intransigente. Così tanto che piuttosto che lasciarlo ti sarebbe andato bene che tuo padre mo- #tone:serious
+Melissa: BASTA! #tone:angry
+Daniel: ... #tone:serious
+Melissa: ... #tone:nervous
+Daniel: ...Quindi? #tone:neutral
+Melissa: I-Io... D'accordo. ti dirò tutto. Ma chiudi quella bocca, per favore. #tone:sad
+<<SetTag EventFlags.Melissa.Dialogues.YourDiary.Completed true>>
+===
+
+title: CD_MelissaJohnson_YouAndYourFather2_ITA
+name: Tu e tuo Padre 2
+tag: EventFlags.Melissa.Dialogues.YourDiary.Completed
+---
+Daniel: Quindi? #tone:question
+Melissa: I-Io... Io voglio davvero bene a mio papà. Ma lui... Non so se me ne ha mai voluto. #tone:sad
+Melissa: Ho sempre fatto tutto quello che voleva. Dovevo essere perfetta. Ma per lui non sembrava essere mai abbastanza. #tone:sad
+Melissa: ...Un giorno ero col coro, ma non riuscivo a cantare. E presa dalla rabbia, a metà lezione sono corsa via. #tone:nervous
+Melissa: Mi ero nascosta in giardino, ma James mi ha trovata. Prima di allora non sapevo nemmeno chi fosse. #tone:neutral
+Melissa: E' rimasto con me finché non ho smesso di piangere. #tone:happy
+Melissa: Quando mi ha detto che dovevamo tornare in classe, mi sono rifiutata. Sarebbe stato troppo imbarazzante. #tone:nervous
+Melissa: E in risposta lui... Ha iniziato a cantare. E insisteva perché lo seguissi. #tone:hopeful
+Melissa: Alla fine mi sono lasciata convincere, e ce la stavo facendo. Anche se prima mi sembrava impossibile, stavo cantando. #tone:happy
+Melissa: Io... Amo davvero James. Lui non mi ha mai chiesto niente. Anzi, ha sempre fatto tutto quello che gli chiedevo io. #tone:nervous
+Melissa: Quando ieri sera papà ha scoperto della nostra relazione, mi ha detto di lasciarlo subito. Quando fa così io... Lo odio. #tone:angry
+Melissa: E poi questa notte... C'era l'incendio, e papà non si trovava, e quando sono arrivati i pompieri e la polizia ci hanno detto che lui... Che lui era... #tone:scared
+Melissa: H-Ho pensato che fosse colpa mia, perché lo avevo desiderato davvero. Ma non sono stata io! Non potrei mai fare del male a mio papà! #tone:scared
+Daniel: ... #tone:distressed
+Daniel: (<i>Quindi questa è la verità...</i>) #tone:serious
+Daniel: Grazie per l'onestà, Melissa, e scusa se ti ho pressato in quel modo. #tone:serious
+Melissa: ... #tone:nervous
+Daniel: Ora sono un passo più vicino a risolvere il caso. Lascia fare a me. #tone:serious
+Melissa: Grazie, Mr. Detective. Per favore, trova il colpevole. #tone:hopeful
+===
+
