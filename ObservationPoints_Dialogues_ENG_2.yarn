@@ -1,0 +1,237 @@
+title: ID_Observation_BrokenGlass_Interacted_ENG
+---
+Daniel: (What remains of a broken glass. It fell during the fight that happened just before the room was destroyed by flames.) #tone:neutral
+//Deve essere lasciato ambiguo il momento preciso in cui il bicchiere è caduto e il sesso della persona con cui la colluttazione è avvenuta.
+Daniel: (Destoyed beyond repair, like Richard's life... and the ones of his relatives.) #tone:grim
+Daniel: ... #tone:distressed
+Daniel: I need to close this case quickly. #tone:serious
+//No, non mi sono scordata le parentesi 
+===
+//FINE
+
+
+title: ID_Observation_VictimOutline_Interacted_ENG
+---
+Daniel: (This is where Richard's body was found. They told me the flames made him unrecognisable, but he did die of asphyxiation.) #tone:serious
+Daniel: (The aggressor hit him and he passed out, stuck in a locked room that was set on fire.) #tone:thinking
+Daniel: (It was certainly murder, but it is yet to be determined of which degree.) #tone:distressed
+Daniel: (Richard... died a slow and painful death. Burnt to the bones. Nothing of him remains.) #tone:grim
+Daniel: (...) #tone:distressed
+Daniel: (At least I don't have to see the body.) #tone:grim
+//Le ultime due battute devono essere interpretabili sia come qualcuno che era legato alla vittima e si sta ripetendo mentalmente quello che è successo per metabolizzarlo meglio, che come un possibile colpevole, vittima di Richard, che sta cercando di convincersi che la sua "prigionia" è finita.
+===
+//FINE
+
+
+title: ID_Observation_BurnedCurtains_Interacted_ENG
+---
+Daniel: (The fire started from these curtains. No wonders pretty much nothing remains of them.) #tone:neutral
+Daniel: (Usually this room is filled by daylight, but the curtains were able to block it all.) #tone:neutral
+Daniel: (Now everything that happens here will happen in broad daylight.) #tone:serious
+===
+//FINE
+
+
+title: ID_Observation_DestroyedWindow_Interacted_ENG
+---
+Daniel: (The window exploded during the fire.) #tone:neutral
+Daniel: (It's not likely the aggressor would have escaped from here. They would have cut themself, if the fire didn't get them first.) #tone:thinking
+Daniel: (So the culprti must have gotten out from the door, which was locked with a key.) #tone:thinking
+Daniel: (... I better keep it in mind.) #tone:serious
+===
+//FINE
+
+
+title: ID_Observation_StudyChair_Interacted_ENG
+---
+Daniel: (Richard's throne, he spent most of his time here if he was in his study.) #tone:sarcastic
+Daniel: (If someone was to sit down on it now it would break, bringing the fool to the floor with it.) #tone:thinking
+Daniel: (... A throne that doesn't take kindly to usurpers.) #tone:grim
+===
+//FINE
+
+
+title: ID_Observation_StudyDeskDrawer_Interacted_ENG
+---
+//TRIGGER:Si comporterà come Observation Point finché non si sarà risolto il puzzle ambientale dello studio.
+Daniel: (This drawer seems to have magically survived, but it does look strange.) #tone:thinking
+Daniel: (It doesn't have a handle nor a keyhole. I don't understand how one would open it.) #tone:thinking
+Daniel: (Maybe there's some internal mechanism. I wonder if it still works.) #tone:question
+===
+//FINE
+
+
+title: ID_Observation_Books_Interacted_ENG
+---
+Daniel: (Books, books, books. Burnt books. Law books. History books.) #tone:sarcastic
+Daniel: ( An entire encyclopedia. And a book on how to win debates.) #tone:neutral
+Daniel: (... The last one should have burned.) #tone:distressed
+//"Questo" si riferisce al manuale
+===
+//FINE
+
+
+title: ID_Observation_Sofa_Interacted_ENG
+---
+Daniel: (A really nice sofa, seems comfy too.) #tone:neutral
+Daniel: (Thinking about it... I am tired. Oof... I really can't afford to seel as little as I did when I was twenty...) #tone:tired
+Daniel: (If I rested for a couple of minutes I'm sure no one would blame me...) #tone:thinking
+Daniel: (No, no. I can't. I have a case to close. Were I to sit on this I would never stand up again.) #tone:serious
+//Per contesto, Daniel è stanco perché dopo aver commesso un omicidio e dato fuoco ad una casa non è che abbia avuto proprio un sonno ristoratore 
+===
+//FINE
+
+
+title: ID_Observation_TV_Interacted_ENG
+---
+Daniel: (A modern TV, covered in dust except for the knobs.) #tone:neutral
+Daniel: (I wonder if the idea of children being the ones that stand up to change the channel is true. In this household that would be Melissa...) #tone:thinking
+Daniel: (No, no. That's not possible. I just can't see her doing something like that. It is funny to think about it.) #tone:sarcastic
+Daniel: (Still, if there was someone able to convice people to do thing for him, it was Richard...) #tone:grim
+===
+//FINE
+
+
+title: ID_Observation_Radio_Interacted_ENG
+---
+Daniel: (A radio, silent and clean. I think Mary uses it a lot. I wonder what transmission she listens to.) #tone:neutral
+Daniel: (... If I had to guess, she listens to soap operas. The ones so long and overly complex only women can like them.) #tone:sercastic
+//Ho fatto qualche ricerca ed erano viste abbastanza male le soap opera e il fatto che le ascoltassero praticamente solo le donne non aiutava. Inoltre, erano strutturate per durare nel tempo ed era una delle prime volte che si vedeva qualcosa di così narrativamente complesso e quindi come ogni cosa nuova la gente dell'epoca pensava facesse schifo.
+Daniel: (Superficial just like the people who listen to it.) #tone:neutral
+===
+//FINE
+
+
+title: ID_Observation_Centerpiece_Interacted_ENG
+---
+Daniel: (Uuh, there's some cookies. Beh, if they left it here on the table, it must be to offer them...) #tone:happy
+Daniel: (No Daniel, you must be strong. You can't ditrub the crime scene.) #tone:distressed
+Daniel: (Still that smell is really begging me to tamper with evidence.) #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_LivingRoomAshtray_Interacted_ENG
+---
+Daniel: (An ashtray no one bothered to clean. Whoever used it must have really nedded the smoke.) #tone:neutral
+Daniel: (I wonder who smoke so much. Could have been either Richard or Mary. I hope it wasn't Melissa.) #tone:thinking
+Daniel: (And it better not have been Paul.) #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_Stove_Interacted_ENG
+---
+Daniel: (Some well kept stoves, but you can see they are used often.) #tone:neutral
+Daniel: (This must have been Mary's queendom. Better leave it untouched, I don't want to deal with one of her earsful.) #tone:sigh
+Daniel: (Or... I could just be careful not to get noticed. I cannot get a lecture for something they don't I've done.) #tone:sarcastic
+===
+//FINE
+
+
+title: ID_Observation_Oven_Interacted_ENG
+---
+Daniel: (An empty oven. I did wish to find something in it.) #tone:neutral
+Daniel: (Like a pie. One of the sweet ones. A chocolate one. Those that melt in your mouth...) #tone:happy
+Daniel: (No Daniel. Focus. You msut focus. This is an important case.) #tone:serious
+===
+//FINE
+
+
+title: ID_Observation_RefrigeratorInside_Interacted_ENG
+---
+Daniel: (The fridge has so many things in it, still most of it are leftovers. They do still look good.) #tone:neutral
+Daniel: (Knowing the salary Richard got, I'm sure no one here will risk going hungry. And considering Mary is an housewives, dinner is always homemade.) #tone:thinking
+Daniel: (There's day where for it's a win to even get home in time for dinner.) #tone:tired
+Daniel: (Blessed be the invetor of the microwave.) #tone:sarcastic
+===
+//FINE
+
+
+title: ID_Observation_MelissaMakeup_Interacted_ENG
+---
+Daniel: (Melissa wears makeup? At her age? But she's still a teenager...) #tone:surprised
+Daniel: (I didn't even notice. She either is really into natural looking makeup or she just wanted to feel like an adult and asked for a vanity.) #tone:thinking
+Daniel: (But, why am I thinking about this? I have a case to close.) #tone:serious
+===
+//FINE
+
+
+title: ID_Observation_SchoolMaterial_Interacted_ENG
+---
+Daniel: (Melissa's school material. Counting both books and notebooks, there really is a lot, it must be so heavy.) #tone:thinking
+Daniel: (They are organised by subject, and each notebook has her name and class written on it. She really put a lot of care in this.) #tone:neutral
+Daniel: (I didn't think her such a diligent student.) #tone:surprised
+===
+//FINE
+
+
+title: ID_Observation_MelissaChair_Interacted_ENG
+---
+Daniel: (Melissa's chair. This must be where she studies.) #tone:neutral
+Daniel: (It's not that it is a bad chair, but she can't be comfortable when she sits on it for hours. I almost feel bad.) #tone:sigh
+Daniel: (Almost, the one I have in my office is even worse. Maybe I should try to get a better one.) #tone:thinking
+===
+//FINE
+
+
+title: ID_Observation_MelissaClothes_Interacted_ENG
+---
+Daniel: (These are Melissa's clothes. I feel like I'm watching something forbidden.) #tone:distressed
+Daniel: (There's some spare school uniforms and a bunch of clothes I don't want to know the price of. I don't even want to begin guessing the price.) #tone:tired
+Daniel: (But still, what should I have expected from Mary and Richard's daughter? Only the best clothes for their princess...) #tone:sarcastic
+===
+//FINE
+
+
+title: ID_Observation_MelissaPillow_Interacted_ENG
+---
+Daniel: (Melissa's pillow. Did it really need the ruffles?) #tone:question
+Daniel: (They must tickle her every time she moves. I don't get it.) #tone:question
+Daniel: (But, why should I care? I don't have to sleep in this bed.) #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_MaryWardrobe_Interacted_ENG
+---
+Daniel: (This wardrobe must be Mary's. Does she really need that much space?) #tone:question
+Daniel: (Knowing her, this is the minimum for all of her things. I'll never get this side of women.) #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_RichardDresser_Interacted_ENG
+---
+Daniel: (This dresser must be Richard's. It's half the size of the wardrobe.) #tone:neutral
+Daniel: (I'm not looking inside that. I don't feel good going through a dead man's laundry. Most importantly I don't want to end up touching his boxers.) #tone:grim
+===
+//FINE
+
+
+title: ID_Observation_RichardNightstand_Interacted_ENG
+---
+Daniel: (One of the nightstands by the bed. I don't know who sleeps on this side, so I don't know who uses it.) #tone:neutral
+Daniel: (There's a book on here. <i>The murder Robert Ockrayd</i>...) #tone:thinking
+// E' una citazione al libro "L'assassinio di Roger Ackroyd" di Agatha Christie perché il narratore lì è il colpevole e mi piaceva fare meta-narrazione
+Daniel: ... Ok, I have no more of an idea about the owner of the nightstand. #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_MaryMakeup_Interacted_ENG
+---
+Daniel: (Are all of these Mary's? There's... so much makeup.) #tone:surprised
+Daniel: (Still... it would have surprised me more to know she had little. Now that I think about it, I don't think I have ever seen her without makeup.) #tone:thinking
+Daniel: (And judging by her vanity, I don't think I'll ever see it.) #tone:sigh
+===
+//FINE
+
+
+title: ID_Observation_DoubleBed_Interacted_ENG
+---
+Daniel: (Richard and Mary's bed. It's so big three people could easily fit in here.) #tone:neutral
+Daniel: (Now that Richard is gone, Mary will have all of this for herself. She'll be comfortable. Alone, but comfortable.) #tone:sarcastic
+===
+//FINE
+
