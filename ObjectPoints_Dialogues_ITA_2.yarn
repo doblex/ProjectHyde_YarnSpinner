@@ -206,7 +206,7 @@ Daniel: (<i>Se c'è una persona che sa cos'è quello, è Mary.</i>) #tone:neutra
 ===
 
 title: ID_Object_MaryLighter_Collected_ITA
-tag: EventFlags.Mary.Dialogues.AboutYou.Completed
+tag: EventFlags.Mary.Dialogues.AtHome.Completed
 ---
 Daniel: (<i>Ora che ci guardo meglio, quello sembra un accendino. E' decorato con delle lettere, probabilmente le iniziali di qualcuno.</i>) #tone:thinking
 Daniel: (<i>Un accendino sotto un letto in una casa in cui un uomo è morto a causa di un incendio. Mmh...</i>) #tone:thinking
