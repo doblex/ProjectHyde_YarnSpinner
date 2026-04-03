@@ -1,0 +1,57 @@
+title: ID_Interactable_DeskButton_Interacted_ITA
+---
+Daniel: (E questo cos'è? Sembra un pulsante. Ma perché dovrebbe esserci una cosa del genere qui?) #tone:question
+Daniel: (Potrebbe essere collegato ad un meccanismo, ma chissà se funzionerà ancora dopo l'incendio.) #tone:thinking
+Daniel: (Se provo a premerlo non si muove... Forse il peso deve essere distribuito in modo uniforme?) #tone:thinking
+Daniel: (In questo caso, devo trovare un oggetto che abbia la stessa forma del pulsante.) #tone:neutral
+===
+
+title: ID_Interactable_DeskButton_NotSolved_ITA
+---
+//TRIGGER: Partirà ogni volta che si prova ad interagire con questo Point avendo selezionato l'oggetto sbagliato nell'inventario.
+Daniel: (No, niente da fare. Devo trovare qualcosa di pesante e con la base tonda.) #tone:sigh
+===
+
+title: ID_Interactable_DeskButton_Solved_ITA
+---
+//TRIGGER: Partirà quando si interagirà con questo Point avendo selezionato il Candlestick nell'inventario. 
+Daniel: (...! Ha funzionato!) #tone:surprised
+Daniel: (Quindi la soluzione era il candelabro... Ironico.) #tone:sarcastic
+Daniel: (Ora il cassetto della scrivania si è aperto. Farei meglio a controllare cosa contiene.) #tone:serious
+===
+
+title: ID_Interactable_DeskButton_AlreadySolved_ITA
+---
+Daniel: (Questo pulsante apre il cassetto della scrivania. Un meccanismo perfetto per nascondere qualcosa di importante.) #tone:sarcastic
+===
+//FINE
+
+
+title: ID_Interactable_DresserLock_Interacted_ITA
+---
+Daniel: (Melissa ha chiuso un suo cassetto con un lucchetto...? Non c'è davvero modo peggiore di provare a nascondere qualcosa.) #tone:sigh
+Daniel: (Ha una combinazione a quattro cifre, con numeri che vanno da uno a nove. Ma non ho idea di quale possa essere la combinazione.) #tone:thinking
+Daniel: (Quella ragazzina sarà anche insopportabile, ma non è stupida. Qualsiasi sia la soluzione, non sarà facile da trovare.) #tone:thinking
+Daniel: (Devo provare a pensare come Melissa... Qualcosa che per lei è importante, e che non sia scontato da capire...) #tone:thinking
+===
+
+title: ID_Interactable_DresserLock_NotSolved_ITA
+---
+//TRIGGER: Partirà ogni volta che si prova ad interagire con questo Point avendo selezionato la combinazione sbagliata.
+Daniel: (Combinazione sbagliata.) #tone:sigh
+Daniel: (Se non riesco a capire la soluzione da solo, posso provare a tirare fuori qualche indizio da Melissa. Sono sicuro che con le domande giuste si lascerà sfuggire qualcosa.) #tone:neutral
+===
+
+title: ID_Interactable_DresserLock_Solved_ITA
+---
+//TRIGGER: Partirà quando il giocatore avrà inserito la descrizione giusta.
+Daniel: (Oh! Si è aperto. 6253... Che sia una data?) #tone:surprised
+Daniel: (Non importa. Ora posso aprire il cassetto, e sicuramente dentro c'è qualcosa di importante.) #tone:serious
+===
+
+title: ID_Interactable_DresserLock_AlreadySolved_ITA
+---
+Daniel: (Non è stato facile trovare la soluzione. Immagino questo sia quello che si intende con "mai giudicare qualcuno dalle apparenze".) #tone:sigh
+===
+//FINE
+

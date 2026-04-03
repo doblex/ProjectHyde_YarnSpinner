@@ -1,0 +1,199 @@
+title: CD_MaryJohnson_Introduction_ITA
+name: Introduzione
+---
+Mary: Sì, tesoro? Volevi chiedermi qualcosa? #tone:question
+===
+
+title: CD_MaryJohnson_AboutTheVictim_ITA
+name: La vittima
+---
+Daniel: Mary, com'era il rapporto tra te e Richard fino a ieri? #tone:question
+Mary: Come al solito, tesoro. #tone:tired
+Mary: Non dei migliori, non dei peggiori. Ci sono migliaia di coppie come noi là fuori. #tone:sigh
+Daniel: Non avete litigato, vero? #tone:question
+Mary: Non vorrai insinuare quello che credo. #tone:surprised
+Mary: Se stai cercando un movente, ti risparmio la fatica. Non ho ucciso mio marito. #tone:serious
+Mary: Non posso negare che io e Richard abbiamo avuto pochi alti e molti bassi, ma credimi quando ti dico che questa situazione è l'ultima cosa che volevo. #tone:neutral
+Mary: E' più una seccatura che altro. #tone:sigh
+Daniel: (Lo dice con leggerezza, ma questa donna è appena diventata vedova.) #tone:thinking
+Daniel: (Possibile che non sia minimamente triste per la morte del marito?) #tone:question
+<<SetTag EventFlags.Mary.Dialogues.AboutTheVictim.Completed true>>
+===
+
+title: CD_MaryJohnson_StrangeBehavior_ITA
+name: Il tuo comportamento
+tag: EventFlags.Mary.Dialogues.AboutTheVictim.Completed
+---
+Daniel: Mary, a costo di risultare irrispettoso, vorrei mi chiarissi un dubbio. #tone:serious
+Mary: Chiedi pure, tesoro. #tone:laugh
+Daniel: Allora sarò diretto. #tone:serious
+Daniel: Ieri sera tuo marito è morto, e la tua casa è andata a fuoco. Eppure non mi sembri agitata. #tone:thinking
+Mary: E che ci vogliamo fare? #tone:sigh
+Daniel: ...Prego? #tone:surprised
+Mary: In tutta onestà, non sono sicura di aver metabolizzato quello che è successo. #tone:tired
+Mary: Ovviamente sono scossa dalla morte di Richard, ma al momento chi mi preoccupa è Melissa. #tone:thinking
+Mary: Povera stella, cerca di nascondere il suo dolore, ma io so quanto soffre dentro. #tone:sigh
+Mary: Quindi, piuttosto che disperarmi per la nostra perdita, preferisco concentrarmi sulla famiglia che mi è rimasta. 
+Daniel: Un comportamento nobile... E inaspettato. #tone:surprised
+Mary: Cosa? Pensavi di trovarmi in lacrime? #tone:scornful
+Mary: Questo trucco non si merita di essere rovinato per una cosa del genere. #tone:laugh
+Daniel: (Eppure... C'è qualcosa che continua a non tornarmi...) #tone:thinking
+<<SetTag EventFlags.Mary.Dialogues.StrangeBehavior.Completed true>>
+===
+
+title: CD_MaryJohnson_TheFuture_ITA
+name: Il futuro
+tag:EventFlags.Mary.Dialogues.StrangeBehavior.Completed
+---
+Daniel: Adesso che Richard non c'è più, chi manterrà questa famiglia? #tone:question
+Mary: Visto? Nient'altro che una seccatura. #tone:sigh
+Mary: Melissa è ancora troppo piccola per ricevere qualsiasi eredità, quindi ci penserò io a lei. #tone:neutral
+//Da quello che ho trovato, si possono gestire in vari modi le eredità se l'erede è un minore. Uno di questi è definire un tutore che gestisce tutto o finché il bambino non diventa maggiorenne, oppure finché non raggiunge un'età specificata in un documento ufficiale (tipo il testamento). Ovviamente per definire il tutore ci vuole un processo, ma date le circostanze mi sembra ovvio che Mary dia per scontato che il tutore sarà lei.
+Mary: Ciò che ci accadrà da qui in avanti non ti riguarda. Resta concentrato sul trovare l'assassino di mio marito, d'accordo? #tone:laugh
+Daniel: Eppure mi sembra un problema piuttosto importante. Non sei preoccupata? #tone:question
+Mary: Se non lo sono forse è perché ho già una soluzione. Ora, possiamo cambiare argomento? Sto iniziando a stancarmi. #tone:tired
+Daniel: ... #tone:angry
+Daniel: (Se insistessi ancora la farei innervosire e basta.) #tone:tired
+Daniel: (Questa questione mi puzza, ma non ha intenzione di parlarne. Dovrò trovare informazioni in un altro modo.) #tone:serious
+<<SetTag EventFlags.Mary.Dialogues.TheFuture.Completed true>>
+===
+
+title: CD_MaryJohnson_AboutYou_ITA
+name: Parlami di te
+---
+Daniel: Mary, non ci sentiamo da un po'. Come sono stati gli ultimi mesi? #tone:neutral
+Mary: Oh, tesoro, da quanto tempo! Mi dispiace deluderti, ma l'ultimo periodo è stato abbastanza monotono. #tone:neutral
+Mary: Pulisci, cucina, accompagna Melissa a scuola. Le solite cose.  #tone:sigh
+Mary: Però girano certe voci nel vicinato. Lo sapevi che il figlio della nostra vicina usciva con tre ragazze contemporaneamente? Tre! #tone:surprised
+Mary: Poi una di loro lo ha scoperto, e lui non ha passato un bel pomeriggio. #tone:laugh
+Daniel: Wow, che situazione... Complicata. #tone:conflicted
+Daniel: E invece a casa come va? #tone:question
+Mary: Anche a casa è sempre la solita cosa. #tone:tired
+Mary: Melissa ha ereditato il caratterino del padre, e sai bene quanto poco ci vuole a far arrabbiare Richard. #tone:sigh
+Mary: I litigi di quei due mi hanno fatto venire le rughe. #tone:sigh
+Mary: Anche se, ora, non dovrò più preoccuparmene. #tone:neutral
+Daniel: (La situazione a casa Johnson sembra essere piuttosto tesa. Dovrei chiederle di più.)
+<<SetTag EventFlags.Mary.Dialogues.AboutYou.Completed true>>
+===
+
+title: CD_MaryJohnson_AtHome_ITA
+name: La situazione a casa
+tag: EventFlags.Mary.Dialogues.AboutYou.Completed
+---
+Daniel: Non deve essere stato facile vivere con due persone del genere in casa. #tone:neutral
+Mary: No, no, per niente tesoro. Ma non biasimo mia figlia. #tone:sigh
+Mary: La mia dolce Melissa è solo una bambina. Suo padre, invece, avrebbe dovuto comportarsi più da adulto. #tone:angry
+Mary: Ma sappiamo bene entrambi com'era fatto Richard, vero? #tone:tired
+Mary: Tutto doveva sempre andare come voleva lui, altrimenti la tua vita sarebbe diventata un inferno. #tone:grim
+Daniel: ... #tone:nervous
+Daniel: ... Non sapevo fosse così pesante anche con la sua famiglia. #tone:distressed
+Mary: Oh, non hai un'idea, tesoro. Ma in qualche modo si sopportava. In fondo, è così che va la vita. #tone:sigh
+Mary: Ma nessuno ha una pazienza infinita. Anche io di tanto in tanto devo concedermi qualche sfizio. #tone:laugh
+Daniel: In che senso? #tone:question
+Mary: Ahah, anche una signora ha diritto ad avere i suoi piccoli segreti. #tone:laugh
+<<SetTag EventFlags.Mary.Dialogues.AtHome.Completed true>>
+===
+
+title: CD_MaryJohnson_YourAlibi_ITA
+name: Il tuo alibi
+---
+Daniel: Mary, puoi confermarmi il tuo alibi? #tone:question
+Mary: Certo tesoro. #tone:laugh
+Mary: Ieri sera abbiamo finito di cenare verso le 20, e dopo siamo rimasti in salotto. #tone:thinking
+Mary: Richard e Melissa si sono messi a discutere, ma niente che non sia la norma, purtroppo. #tone:sigh
+Mary: Solo che questa volta Richard ha esagerato. Ho provato a parlarci ma non ha voluto sentire ragioni, quindi sono andata a consolare la mia Melissa. #tone:sigh
+Daniel: Perché hanno litigato? #tone:question
+Mary: Questo è meglio se lo chiedi a lei. Saprà spiegartelo meglio di me. #tone:sigh
+Mary: Dopo poco io e Melissa siamo andate a letto. Se mi ricordo bene mancavano 20 minuti alle 10. #tone:thinking
+Mary: Quando mi sono svegliata a mezzanotte ero da sola nel letto, ma che Richard faccia tardi è normale. #tone:nervous
+Mary: Però sentivo che qualcosa non andava, quindi sono uscita nel corridoio e ho trovato Melissa. Siamo andate insieme in salotto e... Beh... #tone:nervous
+Mary: L'odore di fumo era opprimente. Mi sono precipitata alla porta dello studio, ma era chiusa a chiave. #tone:grim
+Mary: Quando ho capito che non c'era niente da fare, ho preso Melissa e sono corsa a chiamare i soccorsi. Sono arrivati troppo tardi. #tone:grim
+Daniel: Mi dispiace. #tone:grim
+Mary: Non scusarti tesoro, non è colpa tua. #tone:sigh
+Mary: Ma se vuoi aiutarci, trova il colpevole il prima possibile, e fai finire questo incubo per me e la mia bambina. #tone:neutral
+Daniel: ...Sì. #tone:serious
+===
+
+title: CD_MaryJohnson_TheFuture2_ITA
+name: Tu e tuo marito
+tag: EventFlags.WeddingSheets.PickedUp, EventFlags.Mary.Dialogues.TheFuture.Completed
+---
+Daniel: Mary, quale sarebbe il tuo piano per il futuro? #tone:serious
+Mary: Scusami? #tone:surprised
+Daniel: Hai detto che avevi già trovato una soluzione per questa situazione, ma ho motivo di pensare il contrario. #tone:serious
+Daniel: Ho trovato il tuo contratto prematrimoniale. A quanto ho letto, Richard non intende lasciarti nulla. #tone:neutral
+Mary: ... #tone:nervous
+Daniel: Sarà tutto intestato a Melissa, una volta che raggiungerà l'età prestabilita. E non manca molto tempo. #tone:neutral
+Daniel: Cosa pensi di fare dopo? #tone:serious
+Daniel: Per quanto Richard fosse un uomo... Difficile, non posso credere che non ci sia un motivo dietro tutto questo. Spiegamelo. #tone:serious
+Mary: ... #tone:sigh
+Mary: Se ti aspetti che io gli abbia fatto qualche torto, tesoro, preparati a rimanere deluso. #tone:scornful
+Mary: Ma se raccontarti questa storia ti farà stare più tranquillo, così sia. #tone:grim
+<<SetTag EventFlags.Mary.Dialogues.TheFuture2.Completed true>>
+===
+
+title: CD_MaryJohnson_YouAndYourHusband_ITA
+name: Tu e tuo marito
+tag:EventFlags.Mary.Dialogues.TheFuture2.Completed
+---
+Mary: Non ho mai fatto nulla che andasse contro gli interessi di mio marito. Anzi... #tone:tired
+Mary: Proprio perché ero disposta ad accettare quelle condizioni ha scelto di sposarmi. #tone:serious
+Mary: Il nostro matrimonio non è certo nato dall'amore: solo dalla convenienza. #tone:grim
+Mary: Avevo più di vent'anni ed ero l'unica in casa a non avere un marito. Ero solo un peso economico. #tone:sigh
+Mary: I miei genitori non vedevano l'ora che mi sistemassi e andassi via. E come si sono impegnati per trovarmi un marito. #tone:grim
+Mary: Nessun'altra donna di buona famiglia avrebbe accettato le condizioni di Richard. Il vero interesse di tutti non sono i soldi e, sposandolo, la mia famiglia non avrebbe guadagnato niente. #tone:scornful
+Mary: Ma io non avevo alternative, e ho firmato il suo stupido contratto. Era il prezzo da pagare per una vita agiata. #tone:tired
+Mary: Sapevo che prima o poi sarei finita in questa situazione, ma il destino è stato clemente e mi ha dato una soddisfazione. #tone:grim
+Mary: Melissa. #tone:neutral
+<<SetTag EventFlags.Mary.Dialogues.YouAndYourHusband.Completed true>>
+===
+
+title: CD_MaryJohnson_MelissaBirth_ITA
+name: La nascita di Melissa
+tag: EventFlags.Mary.Dialogues.YouAndYourHusband.Completed 
+---
+Mary: Non ci è voluto molto perché Richard cominciasse a parlare di eredi, e presto io rimasi in dolce attesa. #tone:pleased
+Mary: Ma Richard non era felice quanto me il giorno della nascita del bambino. #tone:grim
+Mary: Gli avevo dato un'erede femmina. E per quanto ci provassimo, non riuscivo più a rimanere incinta. #tone:scornful
+Mary: Da allora ha iniziato a trattarmi con ancora più freddezza, ma non mi importava. Se voleva mantenere la sua immagine perfetta io non potevo uscire dalla sua vita. #tone:scornful
+Mary: Melissa è quella che ha sofferto davvero, ad avere un padre del genere. Ma non importa più, ormai.  #tone:sigh
+Mary: Erediterà tutto quello che Richard possedeva, e potrà essere felice. Come madre, non potrei chiedere altro. #tone:pleased
+Daniel: (Quindi Richard davvero... Non gli importava fino a questo punto...) #tone:distressed
+Daniel: (No, sono un ingenuo a stupirmi.) #tone:grim
+Daniel: (E poi, c'è ancora una cosa che vorrei chiarire.) #tone:thinking
+<<SetTag EventFlags.Mary.Dialogues.MelissaBirth.Completed true>>
+===
+
+title: CD_MaryJohnson_TheFuture3_ITA
+name: Il futuro 3
+tag: EventFlags.Mary.Dialogues.MelissaBirth.Completed
+---
+Daniel: Hai detto che ti importa solo del benessere di Melissa, ma attualmente l'eredità di Richard è nelle tue mani. #tone:neutral
+Daniel: Chiamala deformazione professionale, ma non credo nelle coincidenze. E questa situazione mi sembra troppo conveniente per te. #tone:serious
+Mary: Se stai insinuando quello che penso, chiudi in fretta quella boccaccia, tesoro. #tone:angry
+Mary: Non ho ucciso mio marito. Sono solo felice che il destino mi abbia sorriso, per una volta. #tone:serious 
+Mary: Adesso siamo solo io e la mia Melissa, la mia unica vera famiglia. Voglio che lei abbia la libertà che non ho potuto avere io. #tone:relieved
+Mary: Starò con lei finché me lo permetterà, e poi troverò un'altra soluzione. Ma è inutile pensarci adesso, no? #tone:laugh
+Daniel: (Non credo si sia inventata tutto, ma la situazione rimane in suo favore.) #tone:thinking
+Daniel: (Mary... Forse l'ho giudicata male.) #tone:conflicted
+Daniel: (Ma non importa. Gli umani sono capaci di cose indicibili. Non devo escludere nulla.) #tone:serious
+===
+
+title: CD_MaryJohnson_DoYouSmoke_ITA
+name: Fumi?
+tag: EventFlags.MaryLighter.PickedUp, EventFlags.WeddingSheets.PickedUp
+---
+Daniel: Mary, per caso fumi? #tone:question
+Mary: Ahah tesoro, hai scoperto il mio segreto. Non sai cosa darei per una sigaretta. #tone:sigh
+Mary: Ma purtroppo, non trovo il mio accendino da nessuna parte. Cosa deve fare una donna per avere un po' di tranquillità? #tone:tired
+Daniel: Hai perso il tuo accendino? #tone:question
+Mary: Sì, tesoro, una disgrazia. Era decorato con le mie iniziali. Un regalo su misura per me. #tone:tired
+Mary: Finite le indagini, pulirò questa casa da cima a fondo. E magari, se sono fortunata, lo ritroverò. #tone:neutral
+Mary: Ma nel frattempo, non è che il mio caro amico Daniel ha un accendino da prestare ad una povera donna col disperato bisogno di rilassarsi? #tone:question
+Daniel: Mi dispiace Mary, ma non fumo. #tone:sigh
+Mary: Oh ma tesoro, si vive una volta sola. Lasciati andare un pochino. #tone:laugh
+Daniel: No grazie. #tone:neutral
+Mary: Come siamo seri. Un vero peccato, se fossi un po' più socievole sono sicura che avresti un gran successo con le donne. #tone:sigh
+Daniel: (Se devo avere successo con donne come te, allora sto bene così.) #tone:sarcastic
+===
