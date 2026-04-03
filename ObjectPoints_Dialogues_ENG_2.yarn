@@ -206,7 +206,7 @@ Daniel: (<i>The one person that knows what that is, is Mary.</i>) #tone:neutral
 ===
 
 title: ID_Object_MaryLighter_Collected_ENG
-tag: EventFlags.Mary.Dialogues.AboutYou.Completed
+tag: EventFlags.Mary.Dialogues.AtHome.Completed
 ---
 Daniel: (<i>Thinking about it, that looks like a lighter. It's ornated with some letters, maybe the initials of the owner.</i>) #tone:thinking
 Daniel: (<i>A lighter under the bed of a man died in a fire. Mmh...</i>) #tone:thinking
