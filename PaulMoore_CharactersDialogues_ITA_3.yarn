@@ -1,0 +1,193 @@
+title: CD_PaulMoore_Introduction_ITA
+name: Introduzione
+---
+Paul: Capo, voleva chiedermi qualcosa?
+===
+
+title: CD_PaulMoore_AboutTheVictim_ITA
+name: La vittima
+---
+Paul: Capo, lei e la vittima vi conoscevate, giusto? #tone:uncertain
+Daniel: ...Sì. È stato il mio mentore tempo fa. #tone:neutral
+Paul: Incredibile, anche il mio capo era un assistente una volta... #tone:happy
+Daniel: Sì, ma non avevo una vita facile come la tua. #tone:sarcastic
+Daniel: Per Richard non esistevano orari di lavoro. Solo risultati e quanto ci mettevi a raggiungerli. #tone:serious 
+Daniel: Si circondava delle persone giuste, e gli affidava i compiti giusti per riuscire a raggiungere il suo obiettivo. #tone:sigh
+Daniel: Le convinceva che solo loro potevano farcela, che <Italic>dovevano</> farcela... #tone:grim
+Daniel: C-Comunque, il tempo passato con lui mi ha formato. E mi ha anche insegnato che si può chiudere un occhio, a volte. #tone:nervous
+Daniel: Per esempio, se Richard mi avesse sorpreso a leggere fumetti durante l'orario di lavoro... #tone:sarcastic
+Paul: È stata solo una volta! #tone:embarrassed
+Daniel: E se ci fossi stato io al tuo posto, il fumetto sarebbe finito tra le fiamme. Quindi ringraziami se te l'ho soltanto sequestrato. #tone:serious
+Paul: Grazie, capo... #tone:sigh
+===
+
+title: CD_PaulMoore_AboutYou_ITA
+name: Parlami di te
+---
+Paul: Ormai sono cinque anni che ci conosciamo, capo. È davvero tanto tempo... #tone:thinking
+Daniel: Perché pensi a queste cose adesso? C'è un'intera casa da esaminare. #tone:serious
+Paul: Ma capo! Questa storia della morte del suo mentore mi ha fatto riflettere... #tone:embarrassed
+Paul: E comunque, lei svolge sempre le indagini da solo dicendo che la intralcio... #tone:sad
+Daniel: Questo è perché sei ancora troppo ingenuo. Quando imparerai a diffidare delle persone potrai aiutarmi sul serio. #tone:sigh
+Paul: Ma... Noi siamo la polizia, il nostro compito è proteggere gli innocenti. Come posso diffidare delle stesse persone che devo aiutare? #tone:sad
+Daniel: Visto? Ancora troppo ingenuo. La tua mentalità è sbagliata. #tone:sigh
+Daniel: Lascia che ti chiarisca le idee su cosa consiste il nostro lavoro. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.AboutYou.Completed true>>
+===
+
+title: CD_PaulMoore_OurJob_ITA
+name: Il nostro lavoro
+tag: EventFlags.Paul.Dialogues.AboutYou.Completed
+---
+Daniel: Il nostro compito è ricostruire le circostanze dei crimini, e per farlo dobbiamo basarci su prove e testimonianze. #tone:neutral
+Daniel: Ma la gente è egoista. Mente, inganna, fa tutto per il proprio tornaconto. E la memoria può fallire, le parole cambiare, le emozioni guidare le nostre azioni. #tone:grim
+Daniel: Per questi motivi, dobbiamo fidarci solo delle prove che troviamo. Se credi a tutto ciò che ti dicono non riuscirai mai a vedere le cose per come sono davvero. #tone:serious
+Paul: Capo... #tone:sad
+Daniel: ... #tone:distressed
+Daniel: Facendo questo lavoro ho visto molte persone. Alcune hanno avuto quello che si meritavano, altre sono state ingiustamente condannate e altre ancora erano troppo potenti per pagare le conseguenze delle loro azioni. #tone:grim
+Daniel: Ciò che importa non è la verità, ma quale colpevole indichiamo alla fine delle indagini. Dobbiamo solo assicurarci che sia la persona giusta. #tone:serious
+Paul: ... #tone:sad
+Paul: Mi dispiace capo, ma non condivido affatto la sua visione. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.OurJob.Completed true>>
+===
+
+title: CD_PaulMoore_DifferentViews_ITA
+name: Punti di vista diversi
+tag: EventFlags.Paul.Dialogues.OurJob.Completed
+---
+Paul: Proprio perché il nostro compito è quello di trovare i veri colpevoli dobbiamo credere nelle persone. #tone:firm
+Paul: Se siamo i primi a non fidarci, neanche gli altri si fideranno mai di noi, e non ci diranno mai la verità. #tone:serious
+Paul: Ma se tutti collaborano, sono sicuro che sia possibile trovare il vero colpevole e punirlo secondo la legge. #tone:firm
+Paul: Quindi, capo, mi permetta di svolgere con lei queste indagini! #tone:happy
+Daniel: (<Italic>Questa sua ingenua innocenza... Quanto tempo ci vorrà prima che apra gli occhi?</>) #tone:angry
+Daniel: (<Italic>Non riesce a riconoscere una bugia neanche quando gli viene detta in faccia. Ma una persona come lui può essere pericolosa. È meglio tenerselo vicino...</>) #tone:thinking
+Daniel: Quando la smetterai di parlare come i supereroi dei tuoi fumetti, certo, potrai aiutarmi. #tone:sarcastic
+Paul: Aww... #tone:sad
+Daniel: Ma avere qualcuno con cui confrontarsi fa sempre comodo. Se scoprirò qualcosa verrò a parlarne con te. #tone:neutral
+Paul: Grazie, capo! #tone:happy
+===
+
+title: CD_PaulMoore_YourAlibi_ITA
+name: Il tuo alibi
+---
+Daniel: Paul, dov'eri ieri notte? #tone:question
+Paul: Ieri notte? Ero a casa mia. Ho comprato dei fumetti nuovi e mi hanno preso così tanto che mi sono addormentato leggendoli... #tone:thinking
+Paul: Aspetta! Perché me lo sta chiedendo?! #tone:surprised
+Daniel: Volevo solo farti un po' paura. #tone:sarcastic
+Paul: Non mi faccia questi scherzi. Però... #tone:sigh
+Paul: Lei dov'era ieri, capo?! #tone:haughty
+Daniel: I-Io? #tone:distressed
+Paul: Sì! Se io devo fornire un alibi allora deve farlo anche lei. #tone:firm
+Daniel: ... #tone:nervous
+Daniel: Dopo che sei tornato a casa ieri, io sono rimasto in ufficio fino alle 21 per lavorare su un caso importante. #tone:neutral
+Daniel: Mi sono reso conto di che ora fosse solo quando il mio stomaco si è messo a brontolare. #tone:tired
+Paul: Capo... #tone:sigh
+Daniel: Quando sono arrivato a casa mi sono scaldato qualcosa al microonde. Ma non so quanto mi abbia fatto bene, perché ho avuto problemi di stomaco tutta la notte... #tone:tired
+Paul: Cosa ci fa qui allora? Sarebbe dovuto rimanere a casa! #tone:firm
+Daniel: No, ora sto bene. Dopo aver saputo quello che era successo non potevo non venire. #tone:serious
+Paul: Oh, capo, lei sì che è un vero eroe! #tone:happy
+Daniel: (<Italic>Ho dovuto insistere per farmi affidare questo caso, ma poco importa. Devo risolverlo.</>) #tone:serious
+===
+
+title: CD_PaulMoore_HowDidTheFireStart_ITA
+name: Cosa ha causato l'incendio?
+tag: EventFlags.Candlestick.PickedUp, EventFlags.MaryLighter.PickedUp 
+---
+Paul: Capo la vedo pensieroso. Ha scoperto qualcosa? #tone:question
+Daniel: Sì, ho trovato due prove sospette, e vorrei discuterne con te. #tone:neutral
+Paul: Sono qui per aiutarla! #tone:happy
+Daniel: Sappiamo già che l'incendio non è stato un incidente, quindi qualcuno deve aver appiccato fuoco allo studio di Richard. #tone:thinking
+Daniel: È verosimile che le fiamme siano partite dal lato della finestra, perché quella parte dello studio è messa peggio. #tone:serious
+Daniel: Sappiamo anche che Richard è stato colpito alla tempia con un oggetto contundente, e che è rimasto svenuto tra le fiamme. #tone:neutral
+Daniel: E chiunque abbia causato l'incendio, possedeva anche le chiavi di questa casa, perché la porta dello studio era chiusa a chiave. #tone:thinking
+Daniel: Ma per adesso la mia domanda è: cosa ha causato l'incendio? #tone:question
+Paul: Ha già qualche idea, capo? #tone:question
+Daniel: Sì. Ho in mente due possibilità. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed true>>
+===
+
+title: CD_PaulMoore_TheCandlestick_ITA
+name: Il candelabro
+tag: EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed
+---
+Daniel: Sul pavimento dello studio, accanto alla scrivania, ho trovato un candelabro. #tone:neutral
+Daniel: Sarebbe logico pensare che sia stato questo l'innesco dell'incendio. La posizione, la forma... Torna tutto. #tone:thinking
+Daniel: Il colpevole potrebbe aver appiccato fuoco e colpito Richard solo con quest'arma. Ma la strada più ovvia spesso è quella sbagliata. #tone:serious
+Daniel: E quando le cose sembrano tornare così bene, alla fine si rivelano sempre molto più complesse. #tone:sigh
+Paul: Però rimane un'arma del delitto plausibile. E poi non sappiamo se il crimine era premeditato o meno. #tone:thinking
+Paul: Se non lo fosse stato, magari il colpevole si è fatto prendere dal panico e non l'ha nascosta. #tone:serious
+Daniel: ... Hai ragione. #tone:nervous
+Daniel: Ma finché non scopriamo chi è il colpevole, o troviamo prove incriminanti, non è qualcosa che possiamo capire. #tone:sigh
+Paul: Posso sempre aiutarla con le indagini... #tone:happy
+Daniel: No. #tone:serious
+Paul: Aww... #tone:sad
+===
+
+title: CD_PaulMoore_TheLighter_ITA
+name: L'accendino
+tag: EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed
+---
+Daniel: Ho trovato un accendino sotto il letto di Mary e Richard. Non credo di doverti spiegare perché sia sospetto. #tone:neutral
+Daniel: Potrebbe anche solo essere caduto, ma sarebbe una coincidenza davvero assurda. #tone:thinking
+Daniel: Un accendino nascosto sotto ad un letto la mattina dopo in cui è stato appiccato un incendio... È molto strano. #tone:serious
+Paul: Però, in questo caso, quale sarebbe il corpo contundente usato per colpire Richard? #tone:thinking
+Daniel: Potrebbe essere di tutto, anche lo stesso candelabro. Un'arma non esclude l'altra. #tone:neutral
+Paul: Ha ragione. In effetti, mi sembra più facile appiccare un incendio con un accendino che con un candelabro. #tone:thinking
+Paul: Ma penso comunque che questa strada lasci ancora troppe domande senza risposta. #tone:neutral
+Daniel: ...Sì. Dovrò investigare di meglio. #tone:neutral
+Daniel: (<Italic>E trovare una spiegazione a perché questa è l'arma del delitto.</>) #tone:serious
+===
+
+title: CD_PaulMoore_WhoIsTheCulprit_ITA
+name: Chi è il colpevole?
+tag: EventFlags.ForgedLighter.Obtained, EventFlags.MelissaSecretDiary.PickedUp, EventFlags.Case.Mary.Solved, EventFlags.Case.Melissa.Solved
+---
+Daniel: Paul vorrei che mi aiutassi a capire chi è il colpevole. #tone:serious
+Paul: Ooh, davvero? Sono a sua disposizione capo! #tone:happy
+Daniel: Ho raccolto molte prove e parlato sia con Mary che con Melissa. La mia conclusione è che entrambe potrebbero aver ucciso Richard. #tone:serious
+Paul: Ma come? Una moglie che uccide il marito o una figlia che uccide il padre? #tone:surprised 
+Paul: Non so cosa sia peggio... #tone:sad
+Daniel: ... #tone:nervous
+Daniel: Lo so, è difficile da credere, ma loro erano le uniche persone presenti in casa al momento dell'incendio. #tone:grim
+Daniel: Per quanto sia brutta, una di queste due piste conduce alla verità e vorrei discuterne con te per avere un altro punto di vista. #tone:serious
+Paul: Certo... #tone:nervous
+<<SetTag EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed true>>
+===
+
+title: CD_PaulMoore_MelissaIsTheCulprit_ITA
+name: Il colpevole è Melissa
+tag: EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed
+---
+Daniel: La notte del delitto Melissa e Richard hanno litigato. #tone:neutral
+Daniel: Lui è venuto a sapere della sua relazione con un ragazzo che non approvava. Da quanto ho capito, il litigio è stato serio. #tone:serious
+Daniel: Melissa era così infuriata da desiderare la morte del padre. Ha scritto tutto nel suo diario. #tone:grim
+Paul: Non le sembra un movente un po' infantile...? #tone:uncertain
+Daniel: Non cambia il fatto che lei ha desiderato la morte del padre, e quella stessa notte lui è morto. #tone:serious
+Paul: ... #tone:nervous
+Daniel: Presa dalla furia, Melissa è entrata nello studio del padre, lo ha tramortito col candelabro e ha dato fuoco allo studio. #tone:thinking
+Daniel: Poi, dopo averlo chiuso a chiave, ha fatto finta di svegliarsi e ha seguito la madre in salotto. #tone:thinking
+Paul: E perché Melissa avrebbe lasciato il candelabro nello studio? #tone:question
+Daniel: Forse si pentita di ciò che ha fatto subito dopo e, persa la lucidità, ha lasciato cadere il candelabro a terra. #tone:thinking
+Paul: È difficile da credere... #tone:uncertain
+Daniel: Lo so, ma è una possibilità. #tone:serious
+===
+
+title: CD_PaulMoore_MaryIsTheCulprit_ITA
+name: Il colpevole è Mary
+tag: EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed
+---
+Daniel: Il movente di Mary è semplice: anni di maltrattamenti nei confronti sia suoi che di Melissa. #tone:serious
+Daniel: Tuttavia, anche se Richard fosse morto, Mary non avrebbe ereditato nulla. Questo sembrerebbe scagionarla, ma in realtà fa l'opposto. #tone:thinking
+Daniel: A Mary importa solo di Melissa e, per lei, solo ora che ha l'eredità del padre può essere davvero felice. #tone:serious
+Paul: ... #tone:uncertain
+Daniel: Mary, furiosa dopo il litigio tra Melissa e Richard, ha preso il suo accendino ed ha dato fuoco allo studio del marito dopo averlo tramortito. #tone:serious
+Daniel: Poi è tornata in camera sua, nascondendo l'accendino sotto al letto. #tone:thinking
+Paul: E ha mantenuto la lucidità mentale per nascondere l'arma del delitto? #tone:question
+Daniel: Mary ha... Una forza mentale sorprendente. E poi, un accendino è molto più facile da nascondere di un candelabro. #tone:neutral
+Paul: Ma è stata lei a chiamare i soccorsi... #tone:nervous
+Daniel: Non significa nulla. Sai quanti colpevoli chiamano i soccorsi sperando di convincere gli altri che sono innocenti? #tone:serious
+Paul: Capo... #tone:sad
+Daniel: So come suona, ma credimi. Non dobbiamo sottovalutare Mary. #tone:serious
+===
+
+

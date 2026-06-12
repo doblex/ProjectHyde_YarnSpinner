@@ -1,0 +1,113 @@
+title: TD_DanielNorman_Beginning_ITA
+---
+Richard_Hidden: E quindi, questo è il tuo prossimo caso. Hai domande?
+Daniel_Hidden: ...No.
+Richard_Hidden: Bene. So che farai un ottimo lavoro, ma stai attento. Non possiamo permetterci errori.
+Daniel_Hidden: ...
+Richard_Hidden: Cos'è quell'espressione? Se hai qualcosa da dire, dillo.
+Daniel_Hidden: ...
+Daniel_Hidden: Quanti altri casi dovrò risolvere prima che sia finita?
+Richard_Hidden: Ragazzo mio, sai che chiedo il tuo aiuto solo per i casi più difficili, perché so che sei l'unico in grado di gestirli.
+Richard_Hidden: Ma ormai fai questo lavoro da anni, e dovresti aver imparato che...
+Richard_Hidden: Una volta che ci si sporca le mani, non è così facile ripulirsele.
+Richard_Hidden: Quindi tieni duro ancora per un po'. Perché non finirà tanto presto.
+===
+
+title: TD_DanielNorman_Introduction_ITA
+---
+//Parte appena si apre il livello, prima che il personaggio possa muoversi
+Daniel: (<Italic>Eccomi nella residenza Johnson...</>) #tone:neutral
+Daniel: (<Italic>Ieri notte questa casa è andata a fuoco e un uomo è morto nell'incendio.</>) #tone:serious
+Daniel: Richard... #tone:grim
+Daniel: (<Italic>Se voglio avere più informazioni dovrò parlare con sua moglie e sua figlia. Non so chi delle due sia peggio...</>) #tone:tired
+Daniel: (<Italic>Posso andare da loro muovendomi con WASD, e parlarci premendo il tasto sx del mouse quando il puntatore è su di loro.</>) #tone:neutral
+Daniel: (<Italic>Dovrò anche raccogliere le prove. Premendo shift saranno evidenziati tutti gli oggetti interagibili, e potrò raccoglierli sempre premendo il tasto sx del mouse.</>) #tone:neutral
+Daniel: Bene, cominciamo. #tone:serious
+===
+
+title: TD_DanielNorman_Notebook_ITA
+tag: HintSys.Tutorial.Notebook.Open
+---
+//Alla prima apertura del notebook
+Daniel: (<Italic>Questo è il mio <Bold>Notebook</>. Qui posso scrivere tutto quello che ritengo rilevante. Posso aprirlo e chiuderlo premendo Q.</>) #tone:neutral
+Daniel: (<Italic>Perché qualcosa venga registrato nel <Bold>Notebook</> devo farne una <Bold>Nota</>.</>) #tone:neutral
+Daniel: (<Italic>Posso fare una <Bold>Nota</> di qualsiasi cosa: persone, oggetti... Anche quelli che ho già aggiunto all'Inventario. Basta passarci sopra e premere la rotella del mouse</>) #tone:thinking
+Daniel: (<Italic>Dovrei fare una <Bold>Nota</> ogni volta che posso. Non si sa mai cosa potrebbe tornarmi utile...</>) #tone:thinking
+===
+
+title: TD_DanielNorman_NotebookBookmarks_ITA
+---
+Daniel: (<Italic>Questa è la scheda <Bold>Bookmarks</> del mio <Bold>Notebook</>. Qui saranno raccolte tutte le <Bold>Note</> degli oggetti.</>) #tone:neutral
+Daniel: (<Italic>Ogni Nota di ogni oggetto avrà due sezioni: un <Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</>) #tone:neutral
+Daniel: (<Italic>Nella prima sezione potrò rileggere tutti i dialoghi relativi a quell'oggetto. Nella seconda, invece, potrò scrivere liberamente tutto ciò che ritengo importante.</>) #tone:thinking
+Daniel: (<Italic>Posso segnarmi i dettagli, o le domande senza risposta, in modo da non scordarmeli.</>) #tone:neutral
+===
+
+title: TD_DanielNorman_NotebookPeople_ITA
+---
+Daniel: (<Italic>Questa è la scheda <Bold>People</> del mio <Bold>Notebook</>. Qui saranno raccolte le <Bold>Note</> delle persone collegate al crimine.</>) #tone:neutral
+Daniel: (<Italic>Ogni Nota di ogni persona avrà due sezioni: un <Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</>) #tone:neutral
+Daniel: (<Italic>Nella prima sezione potrò rileggere le testimonianze delle persone. Nella seconda, invece, potrò scrivere liberamente tutto ciò che ritengo importante.</>) #tone:thinking
+Daniel: (<Italic>Ogni volta che completerò un dialogo con qualcuno, verrà automaticamente aggiunto alla sua sezione.</>) #tone:neutral
+Daniel: (<Italic>Mi risparmierà la seccatura di dover parlare coi testimoni troppo spesso.</>) #tone:sigh
+===
+
+title: TD_DanielNorman_NotebookCase_ITA
+---
+Daniel: (<Italic>Questa è la scheda <Bold>Case</> del mio <Bold>Notebook</>. Qui potrò fare delle ipotesi in base agli indizi che ho raccolto.</>) #tone:neutral
+Daniel: (<Italic>Una volta fatta una Nota, potrò selezionarla assieme ad altre due e provare a costruire un caso.</>) #tone:neutral
+Daniel: (<Italic>Potrò usarla per <Bold>ipotizzare come i sospettati potrebbero aver commesso il crimine</>, o per capire come <Bold>risolvere alcuni puzzle</>.</>) #tone:thinking
+Daniel: (<Italic><Bold>Se il caso che costruisco sarà giusto, si sbloccheranno nuove interazioni con l'ambiente</>. Quindi farei bene a sperimentare.</>) #tone:serious
+===
+
+title: TD_DanielNorman_Inventory_ITA
+---
+//Al primo oggetto che si aggiunge all'inventario
+Daniel: (<Italic>L'oggetto che ho appena raccolto è stato aggiunto al mio <Bold>Inventario</>. Posso aprirlo e chiuderlo premendo E.</>) #tone:neutral
+Daniel: (<Italic>Nell'inventario saranno aggiunti tutti gli oggetti che raccoglierò. Potrò riordinarli come voglio e ispezionarli da vicino nella finestra a destra.</>) #tone:neutral
+Daniel: (<Italic>Potrò anche combinare alcuni oggetti tra loro. Per farlo, basterà premere il tasto <Bold>Combine</> in basso a sinistra.</>) #tone:thinking
+Daniel: (<Italic>Finché quell'opzione sarà selezionata, <Bold>se trascinerò un oggetto sopra ad un altro invece che scambiarli di posto proverò a combinarli</>.</>) #tone:thinking
+Daniel: (<Italic>Se due oggetti sono combinabili tra loro, spariranno dall'inventario e al loro posto rimarrà il risultato della combinazione</>) #tone:neutral
+Daniel: (<Italic>Questa cosa mi tornerà molto utile più avanti.</>) #tone:serious
+===
+
+title: TD_DanielNorman_Finale_ITA
+---
+//Dopo aver completato sia il dialogo CD_PaulMoore_MaryIsTheCulprit_ITA e CD_PaulMoore_MelissaIsTheCulprit_ITA
+Daniel: Chi delle due incolperò alla fine? Mary o Melissa? #tone:conflicted
+Daniel: Chiunque sceglierò, oggi un innocente verrà condannato per un crimine che non ha commesso. #tone:grim
+Daniel: Ma se questo è il prezzo da pagare per la libertà... #tone:distressed
+Daniel: Sono disposto a sporcarmi le mani un'ultima volta. Solo un'ultima volta. #tone:grim
+Daniel: Nessuno scoprirà mai il vero assassino di Richard Johnson. #tone:serious
+===
+
+title: TD_DanielNorman_MaryCaseSolved_ITA
+---
+Daniel: (<Italic>Quindi Mary potrebbe aver commesso l'omicidio... L'arma sarebbe l'accendino e il movente sua figlia...</>) #tone:thinking
+Daniel: (<Italic>Sì, ha senso. Ora devo solo renderlo credibile... A partire dall'accendino.</>) #tone:serious
+===
+
+title: TD_DanielNorman_MelissaCaseSolved_ITA
+---
+Daniel: (<Italic>Il movente di Melissa potrebbe essere infantile, è vero, ma in fondo è ancora una bambina.</>) #tone:neutral
+Daniel: (<Italic>Se consideriamo che potrebbe aver usato il candelabro come arma... Tutto diventa molto più credibile</>) #tone:serious
+===
+
+title: TD_DanielNorman_StudyPuzzleSolved_ITA
+---
+Daniel: (<Italic>Un cassetto senza maniglia e un pulsante sulla scrivania. E ora che ci penso...</>) #tone:thinking
+Daniel: (<Italic>Il candelabro ha la stessa forma del pulsante. Quindi se provassi a mettercelo sopra...</>) #tone:surprised
+Daniel: (<Italic>Tentar non nuoce.</>) #tone:serious
+===
+
+title: TD_DanielNorman_CaseFailed_ITA
+---
+Daniel: (<Italic>No, questa pista è sbagliata. Riproviamo.</>) #tone:sigh
+===
+
+title: TD_DanielNorman_NewInteractionUnlocked_ITA
+---
+Daniel: (<Italic>Ora che so qualcosa in più, dovrei andare a ricontrollare in giro.</>) #tone:thinking
+Daniel: (<Italic>Alcuni oggetti che mi sembravano inutili potrebbero aver acquisito una certa importanza.</>) #tone:neutral
+<<ShowHint HintSys.Hint.Object.Unlocked>>
+===

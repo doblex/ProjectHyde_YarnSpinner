@@ -1,0 +1,278 @@
+title: ID_Object_Candlestick_Collected_ENG
+---
+Daniel: (<Italic>The candlestick Richard would always keep in his study. The flames damaged it, but it doesn't look deformed.</>) #tone:neutral
+Daniel: (<Italic>I never really got why he kept it here. This was a well lit room even with the lamps off.</>) #tone:sigh
+Daniel: (<Italic>Maybe he just wanted to show off his money...?</>)
+Daniel: (<Italic>...</>) #tone:distressed
+Daniel: (<Italic>Anyways, it can't stay here.</>) #tone:serious
+<<SetTag EventFlags.Candlestick.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_ImportantStudyDocuments_Collected_ENG
+---
+Daniel: What...! #tone:surprised
+Daniel: (<Italic>How did these documents survive the fire?!</>) #tone:distressed
+Daniel: (<Italic>There's words covered with different color ink.</>) #tone:nervous
+Daniel: (<Italic>I must find a way to read them. Maybe around the house there's something that can help me.</>) #tone:serious
+===
+//FINE
+
+
+title: ID_Object_Whisky_Collected_ENG
+---
+Daniel: (<Italic>A bottle of Whisky. Seems pricey. Must taste good too, the bottle is half gone.</>) #tone:neutral
+Daniel: (<Italic>Richard always liked to drink, I wouldn't be surprised to find a cellar filled with bottles like this one.</>) #tone:sarcastic
+Daniel: (<Italic>There are no glasses on the counter, however. Wonder how long it has been sitting here.</>) #tone:thinking
+===
+//FINE
+
+
+title: ID_Object_ColoredGlasses_Collected_ENG
+---
+Daniel: (<Italic>Glasses with a colored bottom. I'm sure they're Mary's idea.</>) #tone:neutral
+Daniel: (<Italic>They are extremely clean. Were I to use them as a scope, I'd see the room in a completely different color.</>) #tone:thinking
+Daniel: (<Italic>Sounds fun. I wonder if it will ever come in handy.</>) #tone:happy
+===
+//FINE
+
+
+title: ID_Object_Salt_Seen_ENG
+---
+Daniel: (<Italic>A salt container. Maybe sugar? I cannot be certain by only looking at it.</>) #tone:question
+Daniel: (<Italic>Just one way to be certain...</>) #tone:thinking
+Daniel: Mmhg...! #tone:surprised
+Daniel: (<Italic>Salt.</>) #tone:sigh
+===
+
+title: ID_Object_Salt_AlreadySeen_ENG
+---
+Daniel: (<Italic>No need to check again. It's salt.</>) #tone:neutral
+===
+
+title: ID_Object_Salt_Collected_ENG
+tag: EventFlags.Mary.NotebookCase.Solved
+--- 
+Daniel: (<Italic>I have to make it look like Mary's lighter was in the study when the fire started.</>) #tone:serious
+Daniel: (<Italic>Exposed to the flames, and object like that would rust quickly, so...</>) #tone:thinking
+Daniel: (<Italic>This could turn out useful.</>) #tone:serious
+===
+//FINE
+
+
+title:ID_Object_OldDoll_Seen_ENG
+---
+Daniel: (<Italic>A rag doll in Melissa's schoolbag?</>) #tone:question
+Daniel: (<Italic>The doll seems quite old, but it well taken care for.</>) #tone:thinking
+Daniel: (<Italic>She even brings it with her at school, risking schoolmates finding it, it must be really important for her.</>) #tone:thinking
+===
+
+title: ID_Object_OldDoll_AlreadySeen_ENG
+---
+Daniel: (<Italic>A strange doll in a strange place. Better ask about it to the owner.</>) #tone:neutral
+===
+
+title: ID_Object_OldDoll_Collected_ENG
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<Italic>One of Melissa's dolls. Probably the oldest one still in her possession.</>) #tone:neutral
+Daniel: (<Italic>If she brings it with her at school, it must be really important for her. Could there be more?</>) #tone:thinking
+Daniel: (<Italic>I should take it with me.</>) #tone:neutral
+<<SetTag EventFlags.OldDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_RuinedDoll_Seen_ENG
+---
+Daniel: (<Italic>There's a rag doll on the desk, and it's surrounded by books and notebooks.</>) #tone:neutral
+Daniel: (<Italic>Why does Melissa keep it here? Does it help her focus? Or maybe it's a doll capable of doing homework...?</>) #tone:question
+Daniel: (<Italic>No, it's not the time to joke around. Better ask Melissa.</>) #tone:serious
+===
+
+title: ID_Object_RuinedDoll_AlreadySeen_ENG
+---
+Daniel: (<Italic>A strange doll in a strange place. Better ask about it to the owner.</>) #tone:neutral
+===
+
+title: ID_Object_RuinedDoll_Collected_ENG
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<Italic>One of Melissa's oldest dolls. It's on display on the desk, looking at the chair.</>) #tone:neutral
+Daniel: (<Italic>Maybe Melissa practices with the doll when she has to study? That's a funny image.</>) #tone:sarcastic
+Daniel: (<Italic>I shouldn't waste time wondering about it. Still, it's an interesting object.</>) #tone:serious
+Daniel: (<Italic>I'm sure no one would be offended if I made her take a stroll around the house.</>) #tone:sarcastic
+<<SetTag EventFlags.RuinedDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_PorcelainDoll_Seen_ENG
+---
+Daniel: (<Italic>Up there, there's a porcelain doll. It seems in good condition, despite the dust.</>) #tone:neutral
+Daniel: (<Italic>It can't have costed little. Not that money is really a concern for this family.</>) #tone:sarcastic
+Daniel: (<Italic>It's a bit unsettling up there, in the shadows, looking at you with that stern look...</>) #tone:distressed
+Daniel: (<Italic>I should ask Melissa why she keeps it there.</>) #tone:sigh
+===
+
+title: ID_Object_PorcelainDoll_AlreadySeen_ENG
+---
+Daniel: (<Italic>A strange doll in a strange place. Better ask about it to the owner.</>) #tone:neutral
+===
+
+title: ID_Object_PorcelainDoll_Collected_ENG
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<Italic>One of Melissa's dolls. It seems new, but it's dusty.</>) #tone:neutral
+Daniel: (<Italic>I don't think it's one of her favorites, since she keeps it hidden. But there isn't even a loose thread on it, she still looks after it.</>) #tone:thinking
+Daniel: (<Italic>I think it's time to take her down from her dusty refuge and take it for a walk.</>) #tone:sarcastic
+<<SetTag EventFlags.PorcelainDoll.PickedUp true>>
+===
+//FINE
+
+
+title:ID_Object_NewPorcelainDoll_Seen_ENG
+---
+Daniel: (<Italic>A porcelain doll under Melissa's bed? How did it end up here?</>) #tone:surprised
+Daniel: (<Italic>It's brand new, not dirty nor dusty.</>) #tone:neutral
+Daniel: (<Italic>Now this is suspicious. Did she try to hide it? Why?</>) #tone:thinking
+Daniel: (<Italic>Well, there is only one way to discover it. Better talk about it with Melissa.</>) #tone:serious
+===
+
+title: ID_Object_NewPorcelainDoll_AlreadySeen_ENG
+---
+Daniel: (<Italic>A strange doll in a strange place. Better ask about it to the owner.</>) #tone:neutral
+===
+
+title: ID_Object_NewPorcelainDoll_Collected_ENG
+tag: EventFlags.Melissa.Dialogues.AboutYou.Completed
+---
+Daniel: (<Italic>One of Melissa's dolls, hidden under the bed... for some reason.</>) #tone:neutral
+Daniel: (<Italic>It must be the newest one she owns. I think I've seen the same doll in the shops last month.</>) #tone:neutral
+Daniel: (<Italic>I doubt this is its usual spot. And it cannot have ended up here as a mistake.</>) #tone:thinking
+Daniel: (<Italic>If she hid it it must be important. Better take it with me.</>) #tone:serious
+<<SetTag EventFlags.NewPorcelainDoll.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_MelissaSecretDiary_Collected_ENG
+---
+Daniel: (<Italic>A secret diary hidden behind a locket. Even spoiled girly can be crafty when needed.</>) #tone:thinking
+Daniel: (<Italic>If Melissa went to such length to hide her diary, it must hold some really important secrets.</>) #tone:serious
+Daniel: (<Italic>It's a bit uncomfortable reading the intimate thoughts of a sixteen years old, but after all this effort to find the diary, it would be dumb not to read it.</>) #tone:distressed
+Daniel: (<Italic>Plus, there could be written something regarding Richard. I could find a motive, or maybe something even more important...</>) #tone:serious
+<<SetTag EventFlags.MelissaSecretDiary.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_BedroomAshtray_Collected_ENG
+---
+Daniel: (<Italic>A used ashtray. Mary mustn't have had the time to clean it up, seeing all that happened.</>) #tone:neutral
+Daniel: (<Italic>Is this Richard's or Mary's nightstand? They look the same so I can't really tell them apart.</>) #tone:question
+Daniel: (<Italic>Anyways, smoking in the bedroom doesn't seem like a great idea. I hope they at least opened the window.</>) #tone:sigh
+===
+//FINE
+
+
+title: ID_Object_WeddingSheets_Collected_ENG
+---
+Daniel: (<Italic>These papers... They are the prenup between Richard and Mary. Why would they keep something so important here?</>) #tone:surprised
+Daniel: (<Italic>Well, obviously Richard had his wife sign a contract before sharing his wealth.</>) #tone:sarcastic
+Daniel: (<Italic>I don't think these papers could benefit him now.</>) #tone:grim
+Daniel: (<Italic>Still, I'm sure the hold important information. I should take a look.</>) #tone:serious
+<<SetTag EventFlags.WeddingSheets.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_MaryLighter_Seen_ENG
+---
+Daniel: (<Italic>What's this? A tin box? I can't really make it out.</>) #tone:question
+Daniel: (<Italic>It looks like it has some colorful decoration. Maybe it fell here?</>) #tone:question
+Daniel: (<Italic>Mary should know about it.</>) #tone:neutral
+===
+
+title: ID_Object_MaryLighter_AlreadySeen_ENG
+---
+Daniel: (<Italic>The one person that knows what that is, is Mary.</>) #tone:neutral
+===
+
+title: ID_Object_MaryLighter_Collected_ENG
+tag: EventFlags.Mary.Dialogues.AtHome.Completed
+---
+Daniel: (<Italic>That looks like a lighter ornated with some letters.</>) #tone:thinking
+Daniel: (<Italic>A lighter under the bed of a man died in a fire. Mmh...</>) #tone:thinking
+Daniel: (<Italic>I'm starting to doubt it merely "fell" here.</>) #tone:serious
+Daniel: (<Italic>I need to talk to Mary.</>) #tone:serious
+<<SetTag EventFlags.MaryLighter.PickedUp true>>
+===
+//FINE
+
+
+title: ID_Object_ToiletPaper_Seen_ENG
+---
+Daniel: (<Italic>Some paper towel on the kitchen's counter. Nothing unusual.</>) #tone:neutral
+Daniel: (<Italic>I could take one so that I don't leave crumbles of cake around the kitchen.</>) #tone:sarcastic
+Daniel: (<Italic>If there was a cake for me to eat.</>) #tone:neutral
+===
+
+title: ID_Object_ToiletPaper_AlreadySeen_ENG
+---
+Daniel: (<Italic>Still no cake.</>) #tone:sarcastic
+===
+
+title: ID_Object_ToiletPaper_Collected_ENG
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<Italic>It's not really believable that the lighter was found on the crime scene.</>) #tone:thinking
+Daniel: (<Italic>It should be dented. I need to find a way to ruin it.</>) #tone:serious
+Daniel: (<Italic>Mmh... Maybe cake isn't the only thing paper towels are useful for.</>) #tone:serious
+===
+//FINE
+
+
+title: ID_Object_HydrogenPeroxide_Seen_ENG
+---
+Daniel: (<Italic>A bottle of peroxide. Still pretty much full.</>) #tone:neutral
+Daniel: (<Italic>If no one used it, no one needed it. At least Mary and Melissa didn't injure themselves...</>) #tone:relieved
+Daniel: (<Italic>As of me, I don't yet need it. Better leave it there.</>) #tone:neutral
+===
+
+title: ID_Object_HydrogenPeroxide_AlreadySeen_ENG
+---
+Daniel: (<Italic>No injuries, no need for that.</>) #tone:neutral
+===
+
+title: ID_Object_HydrogenPeroxide_Collected_ENG
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<Italic>I need to make it believable that Mary's lighter has been in a fire.</>) #tone:serious
+Daniel: (<Italic>Exposed by the flames an item like that should rust, so...</>) #tone:thinking
+Daniel: (<Italic>I don't think anyone will notice if I use a bit of Peroxide...</>) #tone:neutral
+===
+//FINE
+
+
+title: ID_Object_Tweezers_Seen_ENG
+---
+Daniel: (<Italic>Some tiny tweezers, I guess either Mary or Melissa use them.</>) #tone:neutral
+Daniel: (<Italic>I've always wondered, doesn't it hurt to take care of eyebrows? You're yanking off your facial hair!</>) #tone:surprised
+Daniel: (<Italic>Well, I don't care about it enough to try it out.</>) #tone:sigh
+===
+
+title: ID_Object_Tweezers_AlreadySeen_ENG
+---
+Daniel: (<Italic>I don't want to use them.</>) #tone:serious
+===
+
+title: ID_Object_Tweezers_Collected_ENG
+tag: EventFlags.Mary.NotebookCase.Solved
+---
+Daniel: (<Italic>It's not really believable that the lighter was found on the crime scene. It's in good condition.</>) #tone:serious
+Daniel: (<Italic>It should be dented. I need to find a way to ruin it.</>) #tone:serious
+Daniel: (<Italic>Maybe the tweezers will came in handy.</>) #tone:neutral
+===
+//FINE

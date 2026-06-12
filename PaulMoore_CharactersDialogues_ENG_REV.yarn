@@ -1,0 +1,193 @@
+title: CD_PaulMoore_Introduction_ENG
+name: Introduction
+---
+Paul: Did you need something, boss?
+===
+
+title: CD_PaulMoore_AboutTheVictim_ENG
+name: The Victim
+---
+Paul: You and the victim knew each other, right boss? #tone:uncertain
+Daniel: ...Yes. He was my mentor long ago. #tone:neutral
+Paul: Wow, to think my boss was once an assistant... #tone:happy
+Daniel: I was, but my life wasn't as easy as yours. #tone:sarcastic
+Daniel: For Richard, working hours didn't exist. He only cared about results, and how long it took to achieve them. #tone:serious 
+Daniel: He surrounded himself with the right people, and gave them the right tasks to achieve his goals. #tone:sigh
+Daniel: He convinced them that only they could do it, that they <Italic>had</> to do it... #tone:grim
+Daniel: A-Anyway, the time I spent with him formed me. It taught me that I could let some things slide, too. #tone:nervous
+Daniel: For example, if Richard had caught me reading comics during work hours... #tone:sarcastic
+Paul: It only happened once! #tone:embarrassed
+Daniel: And if it had happened to me, the comic would have been eaten by flames. So thank me since I only confiscated it. #tone:serious
+Paul: Thank you, boss... #tone:sigh
+===
+
+title: CD_PaulMoore_AboutYou_ENG
+name: Let's Talk About You
+---
+Paul: It's been five years since we met, boss. It's a long time... #tone:thinking
+Daniel: Why bring it up now? We have a house to investigate. #tone:serious
+Paul: But boss! Your mentor died, and it got me thinking... #tone:embarrassed
+Paul: Plus, you always investigate alone, saying I stand in your way... #tone:sad
+Daniel: That's because you're too naive. Once you've learned to not trust people, we'll investigate together. #tone:sigh
+Paul: But... We are the police, our job is to protect the innocent. How could I not trust those I'm supposed to help? #tone:sad
+Daniel: See? You're still too naive. Your mentality is wrong. #tone:sigh
+Daniel: Let me tell you what our job is really about. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.AboutYou.Completed true>>
+===
+
+title: CD_PaulMoore_OurJob_ENG
+name: Our Job
+tag: EventFlags.Paul.Dialogues.AboutYou.Completed
+---
+Daniel: Our job is to find out how crimes were committed, and to do that we must build on evidence and testimonies. #tone:neutral
+Daniel: But people are selfish. They lie, they cheat, they do everything for their own benefit. And our memory can fail, words can change, emotions can blind us. #tone:grim
+Daniel: That's why evidence is the only thing we can trust. If you believe everything they say, you'll never see things for what they really are. #tone:serious
+Paul: Boss... #tone:sad
+Daniel: ... #tone:distressed
+Daniel: I've seen all kinds of people by working this job. Some got what they deserved, some were wrongly convicted, and some were too powerful to pay for their crimes. #tone:grim
+Daniel: What matters isn't the truth, but who we say is the culprit at the end of the investigations. We just have to make sure it's the right person. #tone:serious
+Paul: ... #tone:sad
+Paul: I'm sorry boss, but I don't share your vision at all. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.OurJob.Completed true>>
+===
+
+title: CD_PaulMoore_DifferentViews_ENG
+name: Different Views
+tag: EventFlags.Paul.Dialogues.OurJob.Completed
+---
+Paul: It's exactly because our job is to find the real culprit that we have to trust people. #tone:firm
+Paul: If we don't trust others, they won't trust us either, and so they'll never tell us the truth. #tone:serious
+Paul: But if we all work together, I'm sure we can find the real culprit and punish them according to the law. #tone:firm
+Paul: So, boss, let's investigate together! #tone:happy
+Daniel: (<Italic>His naive innocence... How long will it take for him to open his eyes?</>) #tone:angry
+Daniel: (<Italic>He can't recognize a lie even when you tell him directly. But people like him can be dangerous. Better to keep him close...</>) #tone:thinking
+Daniel: Once you stop speaking like the superheroes from your comics, of course, we will. #tone:sarcastic
+Paul: Aww... #tone:sad
+Daniel: But talking with someone with different views is always useful. If I find something out, I'll tell you. #tone:neutral
+Paul: Thank you boss! #tone:happy
+===
+
+title: CD_PaulMoore_YourAlibi_ENG
+name: Your Alibi
+---
+Daniel: Paul, where were you last night? #tone:question
+Paul: Last night? I was at home. I bought some new comics and ended up reading them all night... #tone:thinking
+Paul: Wait! Why are you asking ME this?! #tone:surprised
+Daniel: I wanted to scare you a little. #tone:sarcastic
+Paul: Please, don't. But... #tone:sigh
+Paul: Where were YOU last night, boss?! #tone:haughty
+Daniel: M-Me? #tone:distressed
+Paul: Yes, you! If I have to tell you my alibi, then so do you. #tone:firm
+Daniel: ... #tone:nervous
+Daniel: After you went home, yesterday, I stayed at the office working on an important case until 9. #tone:neutral
+Daniel: I realized how late it was only because my stomach started growling. #tone:tired
+Paul: Boss... #tone:sigh
+Daniel: When I got home I microwaved something to eat. But it had to be expired or something, because I had a stomachache all night... #tone:tired
+Paul: What are you doing here then? You should have stayed at home! #tone:firm
+Daniel: No, I'm fine now. After I found out what happened, I had to come here. #tone:serious
+Paul: Oh, Boss, you really are a hero! #tone:happy
+Daniel: (<Italic>I had to be quite insistent to get this case, but that doesn't matter. I have to solve it.</>) #tone:serious
+===
+
+title: CD_PaulMoore_HowDidTheFireStart_ENG
+name: How Did The Fire Start?
+tag: EventFlags.Candlestick.PickedUp, EventFlags.MaryLighter.PickedUp 
+---
+Paul: Is something on your mind, boss? You seem troubled. #tone:question
+Daniel: I found two suspicious pieces of evidence, and I'd like to discuss them with you. #tone:neutral
+Paul: I'm here to help! #tone:happy
+Daniel: We already know the fire wasn't an accident, so someone must have started it inside Richard's study. #tone:thinking
+Daniel: It probably started by the window, because that side's more damaged. #tone:serious
+Daniel: We also know Richard was hit across the temple with a blunt object, and that he remained unconscious in the flames. #tone:neutral
+Daniel: And whoever caused the fire had the house keys too, because the study door was locked. #tone:thinking
+Daniel: But at present my question is: how did the fire start? #tone:question
+Paul: Do you have any ideas, boss?? #tone:question
+Daniel: Yes. I can think of two possibilities. #tone:serious
+<<SetTag EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed true>>
+===
+
+title: CD_PaulMoore_TheCandlestick_ENG
+name: The Candlestick
+tag: EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed
+---
+Daniel: On the study floor, next to the desk, I found a candlestick. #tone:neutral
+Daniel: It'd be logical to think this is what was used to start the fire. The position, the shape... It's perfect. #tone:thinking
+Daniel: The culprit could have started the fire and hit Richard with this alone. But the most obvious path is often the wrong one too. #tone:serious
+Daniel: It's exactly when things fit together so perfectly, that the truth is actually a lot more complicated. #tone:sigh
+Paul: But it's still a plausible murder weapon. And we don't know if the crime was premeditated. #tone:thinking
+Paul: If it wasn't, maybe the culprit panicked and didn't hide the weapon. #tone:serious
+Daniel: ...You've got a point. #tone:nervous
+Daniel: But unless we find the culprit or some decisive evidence, it's not something we can be sure of. #tone:sigh
+Paul: I can always help you with the investigation... #tone:happy
+Daniel: No. #tone:serious
+Paul: Aww... #tone:sad
+===
+
+title: CD_PaulMoore_TheLighter_ENG
+name: The Lighter
+tag: EventFlags.Paul.Dialogues.HowDidTheFireStart.Completed
+---
+Daniel: I found a lighter under Mary and Richard's bed. I hope I don't have to explain why it's suspicious. #tone:neutral
+Daniel: It could have simply fallen, but that'd be an absurd coincidence. #tone:thinking
+Daniel: A lighter hidden under a bed the morning after a house caught fire... It's strange. #tone:serious
+Paul: But in this case, what would the blunt object used to hit Richard be? #tone:thinking
+Daniel: It could be anything, even the candlestick. The weapons don't exclude each other. #tone:neutral
+Paul: You're right. Thinking about it, it's easier to start a fire with a lighter than using a candlestick. #tone:thinking
+Paul: But there are still too many unanswered questions. #tone:neutral
+Daniel: ...Yes. I'll search for other clues. #tone:neutral
+Daniel: (<Italic>And find an explanation as to why this is the murder weapon.</>) #tone:serious
+===
+
+title: CD_PaulMoore_WhoIsTheCulprit_ENG
+name: Who Is The Culprit?
+tag: EventFlags.ForgedLighter.Obtained, EventFlags.MelissaSecretDiary.PickedUp, EventFlags.Case.Mary.Solved, EventFlags.Case.Melissa.Solved
+---
+Daniel: Could you help me to understand who is the culprit, Paul?. #tone:serious
+Paul: Ooh, really? I'm at your service, boss! #tone:happy
+Daniel: I gathered a lot of evidence and talked with both Mary and Melissa. My conclusion is that either could be the culprit. #tone:serious
+Paul: How? A wife that kills her husband or a daughter that kills her father? #tone:surprised 
+Paul: I don't know what's worse... #tone:sad
+Daniel: ... #tone:nervous
+Daniel: I know it's hard to believe, but they were the only people in the house when the fire started. #tone:grim
+Daniel: No matter how awful it is, one of these hypotheses is the truth, and I want to discuss them with you. #tone:serious
+Paul: Of course... #tone:nervous
+<<SetTag EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed true>>
+===
+
+title: CD_PaulMoore_MelissaIsTheCulprit_ENG
+name: Melissa Is The Culprit
+tag: EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed
+---
+Daniel: Melissa and Richard had an argument the night of the murder. #tone:neutral
+Daniel: He found out about her relationship with a boy he didn't approve of. Their fight was a serious one. #tone:serious
+Daniel: Melissa was so furious that she wished for her father's death. She wrote everything in her diary. #tone:grim
+Paul: Don't you find it a bit too childish as a motive...? #tone:uncertain
+Daniel: It doesn't change the fact that she wanted her father to die, and he did, that same night. #tone:serious
+Paul: ... #tone:nervous
+Daniel: Enraged, Melissa went to her father's study, knocked him out with the candlestick, and then started the fire. #tone:thinking
+Daniel: Then, after locking the study door, she faked waking up and followed her mother to the living room. #tone:thinking
+Paul: And why would Melissa have left the candlestick in the study? #tone:question
+Daniel: Maybe she regretted what she did immediately after. She panicked, and left the candlestick on the floor . #tone:thinking
+Paul: It's hard to believe this... #tone:grim
+Daniel: I know, but it's possible. #tone:serious
+===
+
+title: CD_PaulMoore_MaryIsTheCulprit_ENG
+name: Mary Is The Culprit
+tag: EventFlags.Paul.Dialogues.WhoIsTheCulprit.Completed
+---
+Daniel: Mary's motive is simple: years of ill-treatment from Richard toward both her and Melissa. #tone:serious
+Daniel: But even if Richard had died, Mary would have inherited nothing. And tough it looks like this clears her name, it's actually the opposite. #tone:thinking
+Daniel: Mary only cares about Melissa and, in her eyes, the sole way for Melissa to be truly happy is having her father's inheritance. #tone:serious
+Paul: ... #tone:uncertain
+Daniel: Mary, furious after Melissa and Richard's argument, took her lighter and started the fire in the study, after knocking out her husband. #tone:serious
+Daniel: Then she went back to her bedroom and hid the lighter under the bed. #tone:thinking
+Paul: And she had the clarity to hide the murder weapon? #tone:question
+Daniel: Mary is... Surprisingly strong. And a lighter is a lot easier to hide than a candlestick. #tone:neutral
+Paul: But she called the firefighters... #tone:nervous
+Daniel: It doesn't mean anything. Do you know how many people do that hoping to convince others they're innocent? #tone:serious
+Paul: Boss... #tone:sad
+Daniel: I know how that sounds, but trust me. We mustn't underestimate Mary. #tone:serious
+===
+
+
