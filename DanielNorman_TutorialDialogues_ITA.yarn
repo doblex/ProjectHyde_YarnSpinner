@@ -29,24 +29,24 @@ title: TD_DanielNorman_Notebook_ITA
 tag: HintSys.Tutorial.Notebook.Open
 ---
 //Alla prima apertura del notebook
-Daniel: (<Italic>Questo è il mio <Bold>Notebook</>. Qui posso scrivere tutto quello che ritengo rilevante. Posso aprirlo e chiuderlo premendo Q.</>) #tone:neutral
-Daniel: (<Italic>Perché qualcosa venga registrato nel <Bold>Notebook</> devo farne una <Bold>Nota</>.</>) #tone:neutral
-Daniel: (<Italic>Posso fare una <Bold>Nota</> di qualsiasi cosa: persone, oggetti... Anche quelli che ho già aggiunto all'Inventario. Basta passarci sopra e premere la rotella del mouse</>) #tone:thinking
-Daniel: (<Italic>Dovrei fare una <Bold>Nota</> ogni volta che posso. Non si sa mai cosa potrebbe tornarmi utile...</>) #tone:thinking
+Daniel: (<Italic>Questo è il mio </><Bold>Notebook</><Italic>. Qui posso scrivere tutto quello che ritengo rilevante. Posso aprirlo e chiuderlo premendo Q.</>) #tone:neutral
+Daniel: (<Italic>Perché qualcosa venga registrato nel </><Bold>Notebook</><Italic> devo farne una </><Bold>Nota</><Italic>.</>) #tone:neutral
+Daniel: (<Italic>Posso fare una </><Bold>Nota</><Italic> di qualsiasi cosa: persone, oggetti... Anche quelli che ho già aggiunto all'Inventario. Basta passarci sopra e premere la rotella del mouse</>) #tone:thinking
+Daniel: (<Italic>Dovrei fare una </><Bold>Nota</><Italic> ogni volta che posso. Non si sa mai cosa potrebbe tornarmi utile...</>) #tone:thinking
 ===
 
 title: TD_DanielNorman_NotebookBookmarks_ITA
 ---
-Daniel: (<Italic>Questa è la scheda <Bold>Bookmarks</> del mio <Bold>Notebook</>. Qui saranno raccolte tutte le <Bold>Note</> degli oggetti.</>) #tone:neutral
-Daniel: (<Italic>Ogni Nota di ogni oggetto avrà due sezioni: un <Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</>) #tone:neutral
+Daniel: (<Italic>Questa è la scheda </><Bold>Bookmarks</><Italic> del mio </><Bold>Notebook</><Italic>. Qui saranno raccolte tutte le </><Bold>Note</><Italic> degli oggetti.</>) #tone:neutral
+Daniel: (<Italic>Ogni Nota di ogni oggetto avrà due sezioni: un </><Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</>) #tone:neutral
 Daniel: (<Italic>Nella prima sezione potrò rileggere tutti i dialoghi relativi a quell'oggetto. Nella seconda, invece, potrò scrivere liberamente tutto ciò che ritengo importante.</>) #tone:thinking
 Daniel: (<Italic>Posso segnarmi i dettagli, o le domande senza risposta, in modo da non scordarmeli.</>) #tone:neutral
 ===
 
 title: TD_DanielNorman_NotebookPeople_ITA
 ---
-Daniel: (<Italic>Questa è la scheda <Bold>People</> del mio <Bold>Notebook</>. Qui saranno raccolte le <Bold>Note</> delle persone collegate al crimine.</>) #tone:neutral
-Daniel: (<Italic>Ogni Nota di ogni persona avrà due sezioni: un <Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</>) #tone:neutral
+Daniel: (<Italic>Questa è la scheda </><Bold>People</><Italic> del mio </><Bold>Notebook</><Italic>. Qui saranno raccolte le </><Bold>Note</><Italic> delle persone collegate al crimine.</>) #tone:neutral
+Daniel: (<Italic>Ogni Nota di ogni persona avrà due sezioni: un </><Bold>registro dei dialoghi</><Italic> e una in cui potrò </><Bold>scrivere</><Italic>.</>) #tone:neutral
 Daniel: (<Italic>Nella prima sezione potrò rileggere le testimonianze delle persone. Nella seconda, invece, potrò scrivere liberamente tutto ciò che ritengo importante.</>) #tone:thinking
 Daniel: (<Italic>Ogni volta che completerò un dialogo con qualcuno, verrà automaticamente aggiunto alla sua sezione.</>) #tone:neutral
 Daniel: (<Italic>Mi risparmierà la seccatura di dover parlare coi testimoni troppo spesso.</>) #tone:sigh
@@ -54,19 +54,24 @@ Daniel: (<Italic>Mi risparmierà la seccatura di dover parlare coi testimoni tro
 
 title: TD_DanielNorman_NotebookCase_ITA
 ---
-Daniel: (<Italic>Questa è la scheda <Bold>Case</> del mio <Bold>Notebook</>. Qui potrò fare delle ipotesi in base agli indizi che ho raccolto.</>) #tone:neutral
+Daniel: (<Italic>Questa è la scheda </><Bold>Case</><Italic> del mio </><Bold>Notebook</><Italic>. Qui potrò fare delle ipotesi in base agli indizi che ho raccolto.</>) #tone:neutral
 Daniel: (<Italic>Una volta fatta una Nota, potrò selezionarla assieme ad altre due e provare a costruire un caso.</>) #tone:neutral
-Daniel: (<Italic>Potrò usarla per <Bold>ipotizzare come i sospettati potrebbero aver commesso il crimine</>, o per capire come <Bold>risolvere alcuni puzzle</>.</>) #tone:thinking
-Daniel: (<Italic><Bold>Se il caso che costruisco sarà giusto, si sbloccheranno nuove interazioni con l'ambiente</>. Quindi farei bene a sperimentare.</>) #tone:serious
+Daniel: (<Italic>Potrò usarla per </><Bold>ipotizzare come i sospettati potrebbero aver commesso il crimine</><Italic>, o per capire come </><Bold>risolvere alcuni puzzle</><Italic>.</>) #tone:thinking
+Daniel: (<Bold>Se il caso che costruisco sarà giusto, si sbloccheranno nuove interazioni con l'ambiente</><Italic>. Quindi farei bene a sperimentare.</>) #tone:serious
+===
+
+title: TD_DanielNorman_ItemAdded_ITA
+---
+//Al primo oggetto che si aggiunge all'inventario
+Daniel: (<Italic>L'oggetto che ho appena raccolto è stato aggiunto al mio </><Bold>Inventario</><Italic>. Posso aprirlo e chiuderlo premendo E.</>) #tone:neutral
 ===
 
 title: TD_DanielNorman_Inventory_ITA
 ---
-//Al primo oggetto che si aggiunge all'inventario
-Daniel: (<Italic>L'oggetto che ho appena raccolto è stato aggiunto al mio <Bold>Inventario</>. Posso aprirlo e chiuderlo premendo E.</>) #tone:neutral
+//Alla prima apertura dell'inventario
 Daniel: (<Italic>Nell'inventario saranno aggiunti tutti gli oggetti che raccoglierò. Potrò riordinarli come voglio e ispezionarli da vicino nella finestra a destra.</>) #tone:neutral
-Daniel: (<Italic>Potrò anche combinare alcuni oggetti tra loro. Per farlo, basterà premere il tasto <Bold>Combine</> in basso a sinistra.</>) #tone:thinking
-Daniel: (<Italic>Finché quell'opzione sarà selezionata, <Bold>se trascinerò un oggetto sopra ad un altro invece che scambiarli di posto proverò a combinarli</>.</>) #tone:thinking
+Daniel: (<Italic>Potrò anche combinare alcuni oggetti tra loro. Per farlo, basterà premere il tasto </><Bold>Combine</><Italic> in basso a sinistra.</>) #tone:thinking
+Daniel: (<Italic>Finché quell'opzione sarà selezionata, </><Bold>se trascinerò un oggetto sopra ad un altro invece che scambiarli di posto proverò a combinarli</>.) #tone:thinking
 Daniel: (<Italic>Se due oggetti sono combinabili tra loro, spariranno dall'inventario e al loro posto rimarrà il risultato della combinazione</>) #tone:neutral
 Daniel: (<Italic>Questa cosa mi tornerà molto utile più avanti.</>) #tone:serious
 ===
