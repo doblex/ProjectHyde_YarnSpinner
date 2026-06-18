@@ -19,8 +19,8 @@ Melissa: But that's only natural, right? Not everyone is perfect like him, or me
 Daniel: ...I see. Did he act that way with you too? #tone:question
 Melissa: ...I am his heir. Dad had high expectations, and I had to meet them. When he got angry it was because he knew I could do better. #tone:nervous
 Melissa: But it didn't happen often. Everyone can tell success is in my blood. #tone:laugh //nell'ultima frase Melissa si sta vantando, non è sarcastica o retorica. E' proprio un "dalle mie azioni tutti riescono a vedere che sono la migliore in tutto."
-Daniel: (<Italic>I can see she took the best parts of his father...</>) #tone:sarcastic
-Daniel: (<Italic>I should dig more into her relationship with him.</>) #tone:thinking
+Daniel: <Italic>I can see she took the best parts of his father...</> #tone:sarcastic
+Daniel: <Italic>I should dig more into her relationship with him.</> #tone:thinking
 <<SetTag EventFlags.Melissa.Dialogues.AboutTheVictim.Completed true>>
 ===
 
@@ -38,8 +38,8 @@ Melissa: What about me? #tone:question
 Daniel: Did your father make you angry as of late? #tone:question
 Melissa: A-Ahah, Mr. Detective, why would I ever be angry with my father? I have no reason to do so. #tone:nervous
 Melissa: Now, if you are done with these useless questions, go and do your job! #tone:angry
-Daniel: (<Italic>She cut this too short. There's something she doesn't want to tell me.</>) #tone:thinking
-Daniel: (<Italic>I don't think I'll manage to get something out of her now. I need to find something that will force her to speak.</>) #tone:serious
+Daniel: <Italic>She cut this too short. There's something she doesn't want to tell me.</> #tone:thinking
+Daniel: <Italic>I don't think I'll manage to get something out of her now. I need to find something that will force her to speak.</> #tone:serious
 <<SetTag EventFlags.Melissa.Dialogues.YouAndYourFather.Completed true>>
 ===
 
@@ -58,7 +58,7 @@ Melissa: Think of my mother. She always tells me yes. With dad... it was a diffe
 Melissa: He couldn't tell me to stop doing something he never knew I started. #tone:laugh
 Daniel: So did you keep secrets with your father? #tone:question
 Melissa: Every girl has her secrets. Men will never understand. #tone:laugh
-Daniel: (<Italic>I don't think she'll tell me more. Better change the subject.</>) #tone:sigh
+Daniel: <Italic>I don't think she'll tell me more. Better change the subject.</> #tone:sigh
 <<SetTag EventFlags.Melissa.Dialogues.AboutYou.Completed true>>
 ===
 
@@ -71,12 +71,12 @@ Melissa: I-I wouldn't put it like that. Dad wasn't bad. Just demanding. #tone:sa
 Daniel: ...I apologize, that didn't come out well. Can we talk about your mother? #tone:serious
 Melissa: Mom? She can actually be described as good. #tone:happy
 Melissa: She always humors me, even when dad doesn't. And she taught me so many things. #tone:neutral
-Daniel: (<Italic>So I was right...</>) #tone:tired
+Daniel: <Italic>So I was right...</> #tone:tired
 Daniel: What did Mary teach you? #tone:question
 Melissa: Oh, nothing that could be useful to you. You are a man. #tone:laugh
 Melissa: Let's just say women are required to look after many more things, like their looks. #tone:neutral
 Melissa: Unfortunately society doesn't require that of men. #tone:laugh
-Daniel: (<Italic>What-- Did a girl half my age just mock me?!</>) #tone:surprised
+Daniel: <Italic>What-- Did a girl half my age just mock me?!</> #tone:surprised
 Melissa: Oh, but there is one thing not even she managed to teach me. #tone:neutral
 Daniel: What would that be? #tone:question
 Melissa: That true love exists. #tone:laugh
@@ -100,7 +100,7 @@ Melissa: He didn't care for festivities. He only cared about how good I was. #to
 Melissa: So I just needed to be the best. If I was dad would gift me a doll, and then I would know he... he truly... #tone:sad //è una frase lasciata a metà. Melissa stava dicendo "e io sarei potuta essere sicura che lui mi volesse davvero bene"
 Daniel: ... #tone:grim
 Melissa: A-anyways, this is the reason. Now leave me and my dolls alone and go do your job! #tone:haughty
-Daniel: (<Italic>So these dolls are really important. It could be useful to remember this.</>) #tone:thinking
+Daniel: <Italic>So these dolls are really important. It could be useful to remember this.</> #tone:thinking
 ===
 
 title: CD_MelissaJohnson_YourAlibi_ENG
@@ -162,7 +162,7 @@ Melissa: And tonight... There was the fire, and we couldn't find dad, and when t
 Melissa: I-I thought it was my fault, because I really did wish for him to die. #tone:nervous
 Melissa: But it wasn't me! I would never hurt my dad! #tone:scared
 Daniel: ...
-Daniel: (<Italic>So this is the truth...</>) #tone:serious
+Daniel: <Italic>So this is the truth...</> #tone:serious
 Daniel: Thank you for your honesty, Melissa. And I'm sorry for having pressured you. #tone:serious
 Melissa: ... #tone:nervous
 Daniel: I'm one step closer to solving the case. #tone:serious

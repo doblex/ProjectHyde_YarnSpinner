@@ -1,8 +1,8 @@
 title: ID_Observation_BrokenGlass_Interacted_ITA
 ---
-Daniel: (<Italic>Quello che rimane di un bicchiere andato in pezzi. È caduto durante la colluttazione avvenuta poco prima che la stanza fosse divorata dalle fiamme.</>) #tone:neutral
+Daniel: <Italic>Quello che rimane di un bicchiere andato in pezzi. È caduto durante la colluttazione avvenuta poco prima che la stanza fosse divorata dalle fiamme.</> #tone:neutral
 //Deve essere lasciato ambiguo il momento preciso in cui il bicchiere è caduto e il sesso della persona con cui la colluttazione è avvenuta.
-Daniel: (<Italic>Irrimediabilmente distrutto, come la vita di Richard e quella della sua famiglia.</>) #tone:grim
+Daniel: <Italic>Irrimediabilmente distrutto, come la vita di Richard e quella della sua famiglia.</> #tone:grim
 Daniel: ... #tone:distressed
 Daniel: Devo chiudere questo caso in fretta. #tone:serious
 ===
@@ -11,12 +11,12 @@ Daniel: Devo chiudere questo caso in fretta. #tone:serious
 
 title: ID_Observation_VictimOutline_Interacted_ITA
 ---
-Daniel: (<Italic>Questo è dove il cadavere di Richard è stato trovato. Le fiamme lo hanno reso irriconoscibile, ma è morto prima di asfissia.</>) #tone:serious
-Daniel: (<Italic>L'aggressore l'ha colpito e lui è svenuto, rimanendo bloccato in una stanza che andava a fuoco con la porta chiusa a chiave.</>) #tone:thinking
-Daniel: (<Italic>Nessuno ha ancora scoperto se sia stato un omicidio premeditato, ma abbiamo già escluso che possa essersi trattato di un incidente.</>) #tone:distressed
-Daniel: (<Italic>Richard... È morto di una morte lenta e dolorosa. Bruciato fino all'osso. Di lui non rimane più nulla.</>) #tone:grim
-Daniel: (<Italic>...</>) #tone:distressed
-Daniel: (<Italic>Almeno non dovrò vederne il cadavere.</>) #tone:grim
+Daniel: <Italic>Questo è dove il cadavere di Richard è stato trovato. Le fiamme lo hanno reso irriconoscibile, ma è morto prima di asfissia.</> #tone:serious
+Daniel: <Italic>L'aggressore l'ha colpito e lui è svenuto, rimanendo bloccato in una stanza che andava a fuoco con la porta chiusa a chiave.</> #tone:thinking
+Daniel: <Italic>Nessuno ha ancora scoperto se sia stato un omicidio premeditato, ma abbiamo già escluso che possa essersi trattato di un incidente.</> #tone:distressed
+Daniel: <Italic>Richard... È morto di una morte lenta e dolorosa. Bruciato fino all'osso. Di lui non rimane più nulla.</> #tone:grim
+Daniel: <Italic>...</> #tone:distressed
+Daniel: <Italic>Almeno non dovrò vederne il cadavere.</> #tone:grim
 //Le ultime due battute devono essere interpretabili sia come qualcuno che era legato alla vittima e si sta ripetendo mentalmente quello che è successo per metabolizzarlo meglio, che come un possibile colpevole, vittima di Richard, che sta cercando di convincersi che la sua "prigionia" è finita.
 ===
 //FINE
@@ -24,45 +24,45 @@ Daniel: (<Italic>Almeno non dovrò vederne il cadavere.</>) #tone:grim
 
 title: ID_Observation_BurnedCurtains_Interacted_ITA
 ---
-Daniel: (<Italic>Queste sono le tende sono da cui è partito l'incendio. E infatti non ne rimane quasi niente.</>) #tone:neutral
-Daniel: (<Italic>Di solito questa stanza è ben illuminata di giorno, ma se si tirano le tende non passa neanche uno spiraglio di luce.</>) #tone:neutral
-Daniel: (<Italic>Ora qualsiasi cosa accada qui dentro lo farà alla luce del sole.</>) #tone:serious
+Daniel: <Italic>Queste sono le tende sono da cui è partito l'incendio. E infatti non ne rimane quasi niente.</> #tone:neutral
+Daniel: <Italic>Di solito questa stanza è ben illuminata di giorno, ma se si tirano le tende non passa neanche uno spiraglio di luce.</> #tone:neutral
+Daniel: <Italic>Ora qualsiasi cosa accada qui dentro lo farà alla luce del sole.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_DestroyedWindow_Interacted_ITA
 ---
-Daniel: (<Italic>La finestra dello studio di Richard è esplosa durante l'incendio.</>) #tone:neutral
-Daniel: (<Italic>Non è verosimile che qualcuno sia scappato da qui. Sarebbe bruciato prima ancora di tagliarsi coi vetri rotti.</>) #tone:thinking
-Daniel: (<Italic>Quindi il colpevole deve per forza essere uscito dalla porta, che era chiusa a chiave.</>) #tone:thinking
-Daniel: (<Italic>... Devo tenerlo a mente.</>) #tone:serious
+Daniel: <Italic>La finestra dello studio di Richard è esplosa durante l'incendio.</> #tone:neutral
+Daniel: <Italic>Non è verosimile che qualcuno sia scappato da qui. Sarebbe bruciato prima ancora di tagliarsi coi vetri rotti.</> #tone:thinking
+Daniel: <Italic>Quindi il colpevole deve per forza essere uscito dalla porta, che era chiusa a chiave.</> #tone:thinking
+Daniel: <Italic>... Devo tenerlo a mente.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_StudyChair_Interacted_ITA
 ---
-Daniel: (<Italic>Il trono di Richard, dove passava la maggior parte del suo tempo quando non era in ufficio.</>) #tone:sarcastic
-Daniel: (<Italic>Se qualcuno provasse a sedercisi ora, la sedia cederebbe sotto il peso.</>) #tone:thinking
-Daniel: (<Italic>... Un trono che non ha mai accettato nessuno se non il suo monarca.</>) #tone:grim
+Daniel: <Italic>Il trono di Richard, dove passava la maggior parte del suo tempo quando non era in ufficio.</> #tone:sarcastic
+Daniel: <Italic>Se qualcuno provasse a sedercisi ora, la sedia cederebbe sotto il peso.</> #tone:thinking
+Daniel: <Italic>... Un trono che non ha mai accettato nessuno se non il suo monarca.</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_StudyDeskDrawer_Interacted_ITA
 ---
-Daniel: (<Italic>Questo cassetto è rimasto miracolosamente intatto. Ma non ha né maniglia nè serratura.</>) #tone:thinking
-Daniel: (<Italic>Forse ha un qualche meccanismo interno, ma chissà se funzionerà ancora.</>) #tone:question
+Daniel: <Italic>Questo cassetto è rimasto miracolosamente intatto. Ma non ha né maniglia nè serratura.</> #tone:thinking
+Daniel: <Italic>Forse ha un qualche meccanismo interno, ma chissà se funzionerà ancora.</> #tone:question
 ===
 //FINE
 
 
 title: ID_Observation_Books_Interacted_ITA
 ---
-Daniel: (<Italic>Libri, libri, libri. Libri bruciati. Libri di legge. Libri di storia.</>) #tone:sarcastic
-Daniel: (<Italic>Una collezione completa di enciclopedie. E un manuale su come vincere i dibattiti.</>) #tone:neutral
-Daniel: (<Italic>... Questo avrebbe fatto meglio a bruciare.</>) #tone:distressed
+Daniel: <Italic>Libri, libri, libri. Libri bruciati. Libri di legge. Libri di storia.</> #tone:sarcastic
+Daniel: <Italic>Una collezione completa di enciclopedie. E un manuale su come vincere i dibattiti.</> #tone:neutral
+Daniel: <Italic>... Questo avrebbe fatto meglio a bruciare.</> #tone:distressed
 //"Questo" si riferisce al manuale
 ===
 //FINE
@@ -70,142 +70,142 @@ Daniel: (<Italic>... Questo avrebbe fatto meglio a bruciare.</>) #tone:distresse
 
 title: ID_Observation_Sofa_Interacted_ITA
 ---
-Daniel: (<Italic>Un divano che sembra davvero comodo.</>) #tone:neutral
-Daniel: (<Italic>In effetti... Sono un po' stanco. Non posso più permettermi di fare le ore piccole come quando avevo vent'anni...</>) #tone:tired
-Daniel: (<Italic>Se mi riposassi solo per qualche minuto...</>) #tone:thinking
-Daniel: (<Italic>No, no. Non posso. Ho un caso da risolvere. E se mi sedessi non mi alzerei più.</>) #tone:serious
+Daniel: <Italic>Un divano che sembra davvero comodo.</> #tone:neutral
+Daniel: <Italic>In effetti... Sono un po' stanco. Non posso più permettermi di fare le ore piccole come quando avevo vent'anni...</> #tone:tired
+Daniel: <Italic>Se mi riposassi solo per qualche minuto...</> #tone:thinking
+Daniel: <Italic>No, no. Non posso. Ho un caso da risolvere. E se mi sedessi non mi alzerei più.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_TV_Interacted_ITA
 ---
-Daniel: (<Italic>Un televisore moderno, coperto di polvere ovunque tranne che sulle manopole.</>) #tone:neutral
-Daniel: (<Italic>Sarà vera la storia che sono sempre i figli ad alzarsi per cambiare canale? Quindi, in questo caso, Melissa...</>) #tone:thinking
-Daniel: (<Italic>No, no. Non è possibile. Non ce la vedo.</>) #tone:serious
-Daniel: (<Italic>Ma in effetti, se c'era qualcuno in grado di convincere gli altri a fare qualcosa, era Richard...</>) #tone:grim
+Daniel: <Italic>Un televisore moderno, coperto di polvere ovunque tranne che sulle manopole.</> #tone:neutral
+Daniel: <Italic>Sarà vera la storia che sono sempre i figli ad alzarsi per cambiare canale? Quindi, in questo caso, Melissa...</> #tone:thinking
+Daniel: <Italic>No, no. Non è possibile. Non ce la vedo.</> #tone:serious
+Daniel: <Italic>Ma in effetti, se c'era qualcuno in grado di convincere gli altri a fare qualcosa, era Richard...</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_Radio_Interacted_ITA
 ---
-Daniel: (<Italic>Una radio spenta. Mi chiedo che tipo di programmi ascolti Mary.</>) #tone:neutral
-Daniel: (<Italic>...Ripensandoci, non possono che essere soap opera. Quelle serie inutilmente lunghe e complesse che possono piacere solo alle donne.</>) #tone:sercastic
+Daniel: <Italic>Una radio spenta. Mi chiedo che tipo di programmi ascolti Mary.</> #tone:neutral
+Daniel: <Italic>...Ripensandoci, non possono che essere soap opera. Quelle serie inutilmente lunghe e complesse che possono piacere solo alle donne.</> #tone:sercastic
 //Ho fatto qualche ricerca ed erano viste abbastanza male le soap opera e il fatto che le ascoltassero praticamente solo le donne non aiutava. Inoltre, erano strutturate per durare nel tempo ed era una delle prime volte che si vedeva qualcosa di così narrativamente complesso e quindi come ogni cosa nuova la gente dell'epoca pensava facesse schifo.
-Daniel: (<Italic>Superficiali e prive di sostanza esattamente come chi le ascolta.</>) #tone:neutral
+Daniel: <Italic>Superficiali e prive di sostanza esattamente come chi le ascolta.</> #tone:neutral
 ===
 //FINE
 
 
 title: ID_Observation_Centerpiece_Interacted_ITA
 ---
-Daniel: (<Italic>Uuh, ci sono dei biscotti. Beh, se li hanno lasciati così in bella vista sul tavolo, deve per forza essere un invito a prenderne uno...</>) #tone:happy
-Daniel: (<Italic>No Daniel, devi resistere. Non puoi modificare la scena del crimine.</>) #tone:distressed
-Daniel: (<Italic>Anche se il profumo di questi biscotti ti sta pregando di inquinare le prove.</>) #tone:sigh
+Daniel: <Italic>Uuh, ci sono dei biscotti. Beh, se li hanno lasciati così in bella vista sul tavolo, deve per forza essere un invito a prenderne uno...</> #tone:happy
+Daniel: <Italic>No Daniel, devi resistere. Non puoi modificare la scena del crimine.</> #tone:distressed
+Daniel: <Italic>Anche se il profumo di questi biscotti ti sta pregando di inquinare le prove.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_LivingRoomAshtray_Interacted_ITA
 ---
-Daniel: (<Italic>Un posacenere che nessuno si è degnato di pulire. Chiunque lo abbia usato aveva davvero bisogno di fumare.</>) #tone:neutral
-Daniel: (<Italic>Mi chiedo chi lo abbia riempito così tanto. Potrebbe essere stato Richard, oppure Mary. Spero non Melissa.</>) #tone:thinking
-Daniel: (<Italic>E soprattutto spero non sia stato Paul.</>) #tone:sigh
+Daniel: <Italic>Un posacenere che nessuno si è degnato di pulire. Chiunque lo abbia usato aveva davvero bisogno di fumare.</> #tone:neutral
+Daniel: <Italic>Mi chiedo chi lo abbia riempito così tanto. Potrebbe essere stato Richard, oppure Mary. Spero non Melissa.</> #tone:thinking
+Daniel: <Italic>E soprattutto spero non sia stato Paul.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_Stove_Interacted_ITA
 ---
-Daniel: (<Italic>Dei fornelli ben tenuti, ma si vede che sono utilizzati spesso.</>) #tone:neutral
-Daniel: (<Italic>La cucina sarà il regno di Mary. Meglio non toccare nulla, altrimenti dovrei sorbirmi una ramanzina infinita.</>) #tone:sigh
-Daniel: (<Italic>Oppure basta stare attento a non farsi scoprire.</>) #tone:sarcastic
+Daniel: <Italic>Dei fornelli ben tenuti, ma si vede che sono utilizzati spesso.</> #tone:neutral
+Daniel: <Italic>La cucina sarà il regno di Mary. Meglio non toccare nulla, altrimenti dovrei sorbirmi una ramanzina infinita.</> #tone:sigh
+Daniel: <Italic>Oppure basta stare attento a non farsi scoprire.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_Oven_Interacted_ITA
 ---
-Daniel: (<Italic>Un forno vuoto. Un po' ci speravo che ci fosse dentro qualcosa.</>) #tone:neutral
-Daniel: (<Italic>Come una torta. Preferibilmente dolce, e col cioccolato. Di quelle che quasi si sciolgono in bocca quando le mangi...</>) #tone:happy
-Daniel: (<Italic>No Daniel. Concentrato. Devi rimanere concentrato.</>) #tone:serious
+Daniel: <Italic>Un forno vuoto. Un po' ci speravo che ci fosse dentro qualcosa.</> #tone:neutral
+Daniel: <Italic>Come una torta. Preferibilmente dolce, e col cioccolato. Di quelle che quasi si sciolgono in bocca quando le mangi...</> #tone:happy
+Daniel: <Italic>No Daniel. Concentrato. Devi rimanere concentrato.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_RefrigeratorInside_Interacted_ITA
 ---
-Daniel: (<Italic>Il frigo è pieno di avanzi, ma sembrano comunque buoni.</>) #tone:neutral
-Daniel: (<Italic>Considerando che Mary fa la casalinga, c'è sempre qualcuno che cucina la cena.</>) #tone:thinking
-Daniel: (<Italic>Io invece ci sono giorni in cui è un traguardo se riesco a tornare a casa in tempo per cenare.</>) #tone:tired
-Daniel: (<Italic>Sia lodato chiunque abbia inventato il microonde.</>) #tone:sarcastic
+Daniel: <Italic>Il frigo è pieno di avanzi, ma sembrano comunque buoni.</> #tone:neutral
+Daniel: <Italic>Considerando che Mary fa la casalinga, c'è sempre qualcuno che cucina la cena.</> #tone:thinking
+Daniel: <Italic>Io invece ci sono giorni in cui è un traguardo se riesco a tornare a casa in tempo per cenare.</> #tone:tired
+Daniel: <Italic>Sia lodato chiunque abbia inventato il microonde.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_MelissaMakeup_Interacted_ITA
 ---
-Daniel: (<Italic>Melissa si trucca? Alla sua età?</>) #tone:surprised
-Daniel: (<Italic>Però non ci avevo fatto caso. Deve essere brava a truccarsi. O forse vuole solo sentirsi adulta e ha chiesto di avere una toeletta in camera.</>) #tone:thinking
+Daniel: <Italic>Melissa si trucca? Alla sua età?</> #tone:surprised
+Daniel: <Italic>Però non ci avevo fatto caso. Deve essere brava a truccarsi. O forse vuole solo sentirsi adulta e ha chiesto di avere una toeletta in camera.</> #tone:thinking
 ===
 //FINE
 
 
 title: ID_Observation_SchoolMaterial_Interacted_ITA
 ---
-Daniel: (<Italic>I libri di scuola di Melissa. Sono organizzati per materia, e ogni quaderno ha il nome e la classe scritti sopra. L'attenzione che ci ha messo è notevole.</>) #tone:thinking
-Daniel: (<Italic>Non mi aspettavo che Melissa fosse una studentessa così diligente.</>) #tone:surprised
+Daniel: <Italic>I libri di scuola di Melissa. Sono organizzati per materia, e ogni quaderno ha il nome e la classe scritti sopra. L'attenzione che ci ha messo è notevole.</> #tone:thinking
+Daniel: <Italic>Non mi aspettavo che Melissa fosse una studentessa così diligente.</> #tone:surprised
 ===
 //FINE
 
 
 title: ID_Observation_MelissaChair_Interacted_ITA
 ---
-Daniel: (<Italic>La sedia della scrivania di Melissa. Questo deve essere dove studia.</>) #tone:neutral
-Daniel: (<Italic>Non è una brutta sedia, ma non può essere comodo rimanerci seduti per ore ed ore a fare i compiti. Mi fa quasi pena.</>) #tone:sigh
-Daniel: (<Italic>Ma in fondo, quella che ho in ufficio io non è molto diversa. Forse dovrei lamentarmi per averne una migliore.</>) #tone:thinking
+Daniel: <Italic>La sedia della scrivania di Melissa. Questo deve essere dove studia.</> #tone:neutral
+Daniel: <Italic>Non è una brutta sedia, ma non può essere comodo rimanerci seduti per ore ed ore a fare i compiti. Mi fa quasi pena.</> #tone:sigh
+Daniel: <Italic>Ma in fondo, quella che ho in ufficio io non è molto diversa. Forse dovrei lamentarmi per averne una migliore.</> #tone:thinking
 ===
 //FINE
 
 
 title: ID_Observation_MelissaClothes_Interacted_ITA
 ---
-Daniel: (<Italic>Questi sono i vestiti di Melissa. Mi sento come se stessi osservando qualcosa di proibito.</>) #tone:distressed
-Daniel: (<Italic>C'è qualche divisa scolastica di riserva e una serie di abiti di cui non voglio sapere il prezzo.</>) #tone:tired
-Daniel: (<Italic>Anche se, cosa posso aspettarmi dalla figlia di Mary e Richard? Soltanto i vestiti migliori per la loro principessa...</>) #tone:sarcastic
+Daniel: <Italic>Questi sono i vestiti di Melissa. Mi sento come se stessi osservando qualcosa di proibito.</> #tone:distressed
+Daniel: <Italic>C'è qualche divisa scolastica di riserva e una serie di abiti di cui non voglio sapere il prezzo.</> #tone:tired
+Daniel: <Italic>Anche se, cosa posso aspettarmi dalla figlia di Mary e Richard? Soltanto i vestiti migliori per la loro principessa...</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_MelissaPillow_Interacted_ITA
 ---
-Daniel: (<Italic>Il cuscino di Melissa. C'era davvero bisogno che avesse le balze?</>) #tone:question
-Daniel: (<Italic>Ma in fondo cosa importa? Non devo dormirci io in questo letto.</>) #tone:sigh
+Daniel: <Italic>Il cuscino di Melissa. C'era davvero bisogno che avesse le balze?</> #tone:question
+Daniel: <Italic>Ma in fondo cosa importa? Non devo dormirci io in questo letto.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_MaryWardrobe_Interacted_ITA
 ---
-Daniel: (<Italic>Quest'armadio deve essere di Mary. Ha davvero bisogno di tutto questo spazio solo per dei vestiti?</>) #tone:question
-Daniel: (<Italic>Certi aspetti delle donne non li capirò mai.</>) #tone:sigh
+Daniel: <Italic>Quest'armadio deve essere di Mary. Ha davvero bisogno di tutto questo spazio solo per dei vestiti?</> #tone:question
+Daniel: <Italic>Certi aspetti delle donne non li capirò mai.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_RichardDresser_Interacted_ITA
 ---
-Daniel: (<Italic>Questa deve essere la cassettiera di Richard. Sarà grande la metà dell'armadio di Mary.</>) #tone:neutral
-Daniel: (<Italic>Ma non ho intenzione di metterci le mani. Non voglio rovistare tra la biancheria di un uomo morto. E soprattutto non voglio ritrovarmi con le sue mutande in mano.</>) #tone:grim
+Daniel: <Italic>Questa deve essere la cassettiera di Richard. Sarà grande la metà dell'armadio di Mary.</> #tone:neutral
+Daniel: <Italic>Ma non ho intenzione di metterci le mani. Non voglio rovistare tra la biancheria di un uomo morto. E soprattutto non voglio ritrovarmi con le sue mutande in mano.</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_RichardNightstand_Interacted_ITA
 ---
-Daniel: (<Italic>Uno dei comodini al lato del letto, ma non so di chi sia.</>) #tone:neutral
-Daniel: (<Italic>Aspetta, sopra c'è un libro.</> L'omicidio di Robert Ockrayd<Italic>...</>) #tone:thinking
+Daniel: <Italic>Uno dei comodini al lato del letto, ma non so di chi sia.</> #tone:neutral
+Daniel: <Italic>Aspetta, sopra c'è un libro.</> L'omicidio di Robert Ockrayd<Italic>...</> #tone:thinking
 // E' una citazione al libro "L'assassinio di Roger Ackroyd" di Agatha Christie perché il narratore lì è il colpevole e mi piaceva fare meta-narrazione
 Daniel: ... Ok, ne so quanto prima. #tone:sigh
 ===
@@ -214,17 +214,17 @@ Daniel: ... Ok, ne so quanto prima. #tone:sigh
 
 title: ID_Observation_MaryMakeup_Interacted_ITA
 ---
-Daniel: (<Italic>Questi sono i trucchi di Mary? Sono... Tanti.</>) #tone:surprised
-Daniel: (<Italic>Ora che ci penso, non credo di averla mai vista struccata.</>) #tone:thinking
-Daniel: (<Italic>E a giudicare da quante cose ci sono qui sopra, non credo che lo farò mai.</>) #tone:sigh
+Daniel: <Italic>Questi sono i trucchi di Mary? Sono... Tanti.</> #tone:surprised
+Daniel: <Italic>Ora che ci penso, non credo di averla mai vista struccata.</> #tone:thinking
+Daniel: <Italic>E a giudicare da quante cose ci sono qui sopra, non credo che lo farò mai.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_DoubleBed_Interacted_ITA
 ---
-Daniel: (<Italic>Il letto di Richard e Mary. È così grande che potrebbero dormirci comodamente anche tre persone.</>) #tone:neutral
-Daniel: (<Italic>Ma adesso che Richard non c'è più, Mary ha tutto questo spazio per sé. Di sicuro starà comoda. Sola, ma comoda.</>) #tone:sarcastic
+Daniel: <Italic>Il letto di Richard e Mary. È così grande che potrebbero dormirci comodamente anche tre persone.</> #tone:neutral
+Daniel: <Italic>Ma adesso che Richard non c'è più, Mary ha tutto questo spazio per sé. Di sicuro starà comoda. Sola, ma comoda.</> #tone:sarcastic
 ===
 //FINE
 

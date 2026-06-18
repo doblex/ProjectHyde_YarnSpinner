@@ -1,51 +1,51 @@
 title: ID_Interactable_DeskButton_Interacted_ITA
 ---
-Daniel: (<Italic>Questo... Sembra un pulsante. Ma perché dovrebbe essere qui?</>) #tone:question
-Daniel: (<Italic>Potrebbe essere collegato ad un meccanismo, ma chissà se funziona ancora dopo l'incendio.</>) #tone:thinking
-Daniel: (<Italic>Se provo a premerlo non si muove... E se trovassi qualcosa con la stessa forma?</>) #tone:thinking
+Daniel: <Italic>Questo... Sembra un pulsante. Ma perché dovrebbe essere qui?</> #tone:question
+Daniel: <Italic>Potrebbe essere collegato ad un meccanismo, ma chissà se funziona ancora dopo l'incendio.</> #tone:thinking
+Daniel: <Italic>Se provo a premerlo non si muove... E se trovassi qualcosa con la stessa forma?</> #tone:thinking
 ===
 
 title: ID_Interactable_DeskButton_NotSolved_ITA
 ---
-Daniel: (<Italic>No, niente da fare.</>) #tone:sigh
+Daniel: <Italic>No, niente da fare.</> #tone:sigh
 ===
 
 title: ID_Interactable_DeskButton_Solved_ITA
 tag: EventFlags.StudyPuzzle.Solved
 ---
-Daniel: (<Italic>...! Ha funzionato!</>) #tone:surprised
-Daniel: (<Italic>Quindi la soluzione era il candelabro... Ironico.</>) #tone:sarcastic
-Daniel: (<Italic>Ora il cassetto è aperto. Farei meglio a controllare cosa contiene.</>) #tone:serious
+Daniel: <Italic>...! Ha funzionato!</> #tone:surprised
+Daniel: <Italic>Quindi la soluzione era il candelabro... Ironico.</> #tone:sarcastic
+Daniel: <Italic>Ora il cassetto è aperto. Farei meglio a controllare cosa contiene.</> #tone:serious
 ===
 
 title: ID_Interactable_DeskButton_AlreadySolved_ITA
 ---
-Daniel: (<Italic>Un meccanismo perfetto per nascondere qualcosa di importante.</>) #tone:sarcastic
+Daniel: <Italic>Un meccanismo perfetto per nascondere qualcosa di importante.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Interactable_DresserLock_Interacted_ITA
 ---
-Daniel: (<Italic>Melissa ha chiuso un suo cassetto con un lucchetto...? Non c'è davvero modo peggiore di provare a nascondere qualcosa.</>) #tone:sigh
-Daniel: (<Italic>Ha una combinazione a quattro cifre, con numeri che vanno da uno a nove. Ma non ho idea di quale possa essere la combinazione.</>) #tone:thinking
-Daniel: (<Italic>Quella ragazzina sarà anche insopportabile, ma non è stupida. Qualsiasi sia la soluzione, non sarà facile da trovare.</>) #tone:thinking
+Daniel: <Italic>Melissa ha chiuso un suo cassetto con un lucchetto...? Non c'è davvero modo peggiore di provare a nascondere qualcosa.</> #tone:sigh
+Daniel: <Italic>Ha una combinazione a quattro cifre, con numeri che vanno da uno a nove. Ma non ho idea di quale possa essere la combinazione.</> #tone:thinking
+Daniel: <Italic>Quella ragazzina sarà anche insopportabile, ma non è stupida. Qualsiasi sia la soluzione, non sarà facile da trovare.</> #tone:thinking
 ===
 
 title: ID_Interactable_DresserLock_NotSolved_ITA
 ---
-Daniel: (<Italic>Combinazione sbagliata.</>) #tone:sigh
+Daniel: <Italic>Combinazione sbagliata.</> #tone:sigh
 ===
 
 title: ID_Interactable_DresserLock_Solved_ITA
 ---
-Daniel: (<Italic>Oh! Si è aperto. 6253... Che sia una data?</>) #tone:surprised
-Daniel: (<Italic>Non importa. Ora, vediamo cosa c'è dentro.</>) #tone:serious
+Daniel: <Italic>Oh! Si è aperto. 6253... Che sia una data?</> #tone:surprised
+Daniel: <Italic>Non importa. Ora, vediamo cosa c'è dentro.</> #tone:serious
 ===
 
 title: ID_Interactable_DresserLock_AlreadySolved_ITA
 ---
-Daniel: (<Italic>Non è stato facile trovare la soluzione. Immagino questo sia quello che si intende con "mai giudicare qualcuno dalle apparenze".</>) #tone:sigh
+Daniel: <Italic>Non è stato facile trovare la soluzione. Immagino questo sia quello che si intende con "mai giudicare qualcuno dalle apparenze".</> #tone:sigh
 ===
 //FINE
 

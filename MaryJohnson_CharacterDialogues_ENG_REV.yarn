@@ -15,8 +15,8 @@ Mary: I hope you're not trying to imply what I'm thinking. #tone:surprised
 Mary: If you're looking for a motive, I'll save you the effort. I didn't kill my husband. #tone:serious
 Mary: I can't deny that me and Richard experienced few highs and many lows, but trust me when I tell you this is the last thing I wanted. #tone:neutral
 Mary: It's more of a hassle than anything else. #tone:sigh
-Daniel: (<Italic>She speaks so lightheartedly, but this woman just became a widow.</>) #tone:thinking
-Daniel: (<Italic>Could she really not feel sad for her husband's death?</>) #tone:question
+Daniel: <Italic>She speaks so lightheartedly, but this woman just became a widow.</> #tone:thinking
+Daniel: <Italic>Could she really not feel sad for her husband's death?</> #tone:question
 <<SetTag EventFlags.Mary.Dialogues.AboutTheVictim.Completed true>>
 ===
 
@@ -37,7 +37,7 @@ Mary: So, instead of despairing over our loss, I'd rather focus on what family I
 Daniel: That's noble... And unexpected. #tone:surprised
 Mary: What? Did you expect to find me in tears? #tone:scornful
 Mary: This make-up doesn't deserve to be ruined for something like that. #tone:laugh
-Daniel: (<Italic>And yet... Something still doesn't add up...</>) #tone:thinking
+Daniel: <Italic>And yet... Something still doesn't add up...</> #tone:thinking
 <<SetTag EventFlags.Mary.Dialogues.StrangeBehavior.Completed true>>
 ===
 
@@ -48,13 +48,13 @@ tag:EventFlags.Mary.Dialogues.StrangeBehavior.Completed
 Daniel: Now that Richard isn't here anymore, who will maintain this family? #tone:question
 Mary: See? Nothing but a hassle. #tone:sigh
 Mary: Melissa is still too young to receive her inheritance, so I will look after her. #tone:neutral
-//Da quello che ho trovato, si possono gestire in vari modi le eredità se l'erede è un minore. Uno di questi è definire un tutore che gestisce tutto o finché il bambino non diventa maggiorenne, oppure finché non raggiunge un'età specificata in un documento ufficiale (tipo il testamento). Ovviamente per definire il tutore ci vuole un processo, ma date le circostanze mi sembra ovvio che Mary dia per scontato che il tutore sarà lei.
+//Da quello che ho trovato, si possono gestire in vari modi le eredità se l'erede è un minore. Uno di questi è definire un tutore che gestisce tutto o finché il bambino non diventa maggiorenne, oppure finché non raggiunge un'età specificata in un documento ufficiale tipo il testamento. Ovviamente per definire il tutore ci vuole un processo, ma date le circostanze mi sembra ovvio che Mary dia per scontato che il tutore sarà lei.
 Mary: What happens to us from here on out doesn't concern you. Just focus on finding my husband's murderer, will you? #tone:laugh
 Daniel: Yet it seems a rather pressing problem to me. Aren't you worried? #tone:question
 Mary: Maybe I'm not worried because I've already found a solution. Now, can we change topic? I'm getting tired. #tone:tired
 Daniel: ... #tone:angry
-Daniel: (<Italic>If I keep pressing her, I will only make her more upset.</>) #tone:tired
-Daniel: (<Italic>There's more to this, but she won't speak up. I'll need to find information in another way.</>) #tone:serious
+Daniel: <Italic>If I keep pressing her, I will only make her more upset.</> #tone:tired
+Daniel: <Italic>There's more to this, but she won't speak up. I'll need to find information in another way.</> #tone:serious
 <<SetTag EventFlags.Mary.Dialogues.TheFuture.Completed true>>
 ===
 
@@ -72,7 +72,7 @@ Mary: Oh, it's the same old story. #tone:tired
 Mary: Melissa's got her father's temper, and you know very well how easy it was to make Richard angry. #tone:sigh
 Mary: Their arguments have given me wrinkles. #tone:sigh
 Mary: Though I won't have to worry about that anymore. #tone:neutral
-Daniel: (<Italic>The situation at the Johnson's seems pretty tense. I should keep asking her about this.</>)
+Daniel: <Italic>The situation at the Johnson's seems pretty tense. I should keep asking her about this.</>
 <<SetTag EventFlags.Mary.Dialogues.AboutYou.Completed true>>
 ===
 
@@ -159,9 +159,9 @@ Mary: I gave him a female heir. And no matter how much we tried, I couldn't get 
 Mary: Ever since that day, he began treating me even more coldly, but I didn't care. If he wanted to maintain his image, he needed me in his life. #tone:scornful
 Mary: Melissa is the one who suffered the most, with a father like him. But it doesn't matter anymore.  #tone:sigh
 Mary: She'll inherit everything Richard owned, and she'll live happily. As a mother, I couldn't ask for more. #tone:pleased
-Daniel: (<Italic>So Richard really... He really didn't care...</>) #tone:distressed
-Daniel: (<Italic>No, I was naive to think otherwise.</>) #tone:grim
-Daniel: (<Italic>But there's still something I'd like to ask her.</>) #tone:thinking
+Daniel: <Italic>So Richard really... He really didn't care...</> #tone:distressed
+Daniel: <Italic>No, I was naive to think otherwise.</> #tone:grim
+Daniel: <Italic>But there's still something I'd like to ask her.</> #tone:thinking
 <<SetTag EventFlags.Mary.Dialogues.MelissaBirth.Completed true>>
 ===
 
@@ -175,9 +175,9 @@ Mary: If you're implying what I think, then shut your dirty mouth, darling. #ton
 Mary: I did not kill my husband. I'm just happy fate smiled at me, for once. #tone:serious 
 Mary: Now it's just me and Melissa, my true family. I want her to have the freedom I never had. #tone:relieved
 Mary: I'll stay with her for as long as she'll let me, and then I'll find another solution. But it's useless thinking about it now, is it? #tone:laugh
-Daniel: (<Italic>I don't think she lied, but the situation still favors her.</>) #tone:thinking
-Daniel: (<Italic>Mary... Maybe I misjudged her.</>) #tone:conflicted
-Daniel: (<Italic>It doesn't matter. Humans are capable of unspeakable things. I can't rule anything out.</>) #tone:serious
+Daniel: <Italic>I don't think she lied, but the situation still favors her.</> #tone:thinking
+Daniel: <Italic>Mary... Maybe I misjudged her.</> #tone:conflicted
+Daniel: <Italic>It doesn't matter. Humans are capable of unspeakable things. I can't rule anything out.</> #tone:serious
 ===
 
 title: CD_MaryJohnson_DoYouSmoke_ITA
@@ -195,5 +195,5 @@ Daniel: I'm sorry Mary, I don't smoke. #tone:sigh
 Mary: Oh darling, you only live once. Let loose a little. #tone:laugh
 Daniel: No thank you. #tone:neutral
 Mary: So serious! A shame, if you were a bit friendlier I'm sure you'd be really popular with the ladies. #tone:sigh
-Daniel: (<Italic>If those ladies are like you, then I'm fine.</>) #tone:sarcastic
+Daniel: <Italic>If those ladies are like you, then I'm fine.</> #tone:sarcastic
 ===

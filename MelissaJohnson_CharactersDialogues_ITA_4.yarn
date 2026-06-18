@@ -19,8 +19,8 @@ Melissa: Ma è una cosa naturale no? Non tutti possono essere perfetti come me e
 Daniel: ...Capisco. E si comportava in questo modo anche con te? #tone:question
 Melissa: ...Io sono la sua erede. Papà si aspettava molto da me, e io dovevo essere all'altezza. Se si arrabbiava era solo perché sapeva che potevo fare meglio. #tone:nervous
 Melissa: Ma non succedeva spesso. Si vede che il successo mi scorre nel sangue. #tone:laugh //nell'ultima frase Melissa si sta vantando, non è sarcastica o retorica. E' proprio un "dalle mie azioni tutti riescono a vedere che sono la migliore in tutto."
-Daniel: (<Italic>Vedo che ha ereditato il meglio dal padre...</>) #tone:sarcastic
-Daniel: (<Italic>Dovrei chiederle maggiori informazioni sulla relazione che aveva con lui.</>) #tone:thinking
+Daniel: <Italic>Vedo che ha ereditato il meglio dal padre...</> #tone:sarcastic
+Daniel: <Italic>Dovrei chiederle maggiori informazioni sulla relazione che aveva con lui.</> #tone:thinking
 <<SetTag EventFlags.Melissa.Dialogues.AboutTheVictim.Completed true>>
 ===
 
@@ -38,8 +38,8 @@ Melissa: Io cosa? #tone:question
 Daniel: Tuo padre ha fatto arrabbiare te ultimamente? #tone:question
 Melissa: A-Ahah, Mr. Detective, perché mai avrei dovuto essere arrabbiata con papà? Ovviamente non ne avevo alcun motivo. #tone:nervous
 Melissa: Adesso, se hai finito con questo inutile interrogatorio, torna a fare il tuo lavoro! #tone:angry
-Daniel: (<Italic>Ha chiuso il discorso troppo in fretta. C'è qualcosa che non vuole dirmi.</>) #tone:thinking
-Daniel: (<Italic>Ma non credo che riuscirò a farla parlare adesso. Devo trovare qualcosa che la obblighi a farlo.</>) #tone:serious
+Daniel: <Italic>Ha chiuso il discorso troppo in fretta. C'è qualcosa che non vuole dirmi.</> #tone:thinking
+Daniel: <Italic>Ma non credo che riuscirò a farla parlare adesso. Devo trovare qualcosa che la obblighi a farlo.</> #tone:serious
 <<SetTag EventFlags.Melissa.Dialogues.YouAndYourFather.Completed true>>
 ===
 
@@ -58,7 +58,7 @@ Melissa: Prendi la mamma. Lei mi dice sempre di sì. Con papà era un'altra stor
 Melissa: Non può sgridarmi se non sa che sto facendo qualcosa che non approva. #tone:laugh
 Daniel: Quindi avevi dei segreti con tuo padre? #tone:question
 Melissa: Tutte le ragazze li hanno. E non sono cose che i maschi possono capire. #tone:laugh
-Daniel: (<Italic>Non credo che mi dirà altro, per adesso. Cambiamo argomento.</>) #tone:sigh
+Daniel: <Italic>Non credo che mi dirà altro, per adesso. Cambiamo argomento.</> #tone:sigh
 <<SetTag EventFlags.Melissa.Dialogues.AboutYou.Completed true>>
 ===
 
@@ -71,12 +71,12 @@ Melissa: N-Non direi. Papà non era cattivo. Solo esigente. #tone:nervous
 Daniel: ...Scusa, mi sono espresso male. Puoi parlarmi di Mary? #tone:serious
 Melissa: La mamma? Lei sì che puoi definirla buona. #tone:happy
 Melissa: Mi accontenta sempre, anche quando papà non è d'accordo. E mi ha insegnato un sacco di cose. #tone:neutral
-Daniel: (<Italic>Quindi avevo ragione...</>) #tone:tired
+Daniel: <Italic>Quindi avevo ragione...</> #tone:tired
 Daniel: Che tipo di cose? #tone:question
 Melissa: Oh, non ti sarebbero utili. In fondo sei un maschio. #tone:laugh
 Melissa: Diciamo che le ragazze devono stare attente a molte più cose, come il loro aspetto. #tone:neutral
 Melissa: Ma purtroppo la società non richiede lo stesso agli uomini. #tone:laugh
-Daniel: (<Italic>Cosa-- Mi sono appena fatto prendere in giro da una ragazzina con la metà dei miei anni?!</>) #tone:surprised
+Daniel: <Italic>Cosa-- Mi sono appena fatto prendere in giro da una ragazzina con la metà dei miei anni?!</> #tone:surprised
 Melissa: Oh, ma c'è qualcosa che neanche lei mi ha insegnato. #tone:neutral
 Daniel: E sarebbe? #tone:question
 Melissa: Che il vero amore esiste. #tone:laugh
@@ -100,7 +100,7 @@ Melissa: Per lui non erano importanti le feste. Importava solo quanto ero brava.
 Melissa: Quindi bastava che fossi la migliore. Così papà mi avrebbe fatto un altro regalo, e io sarei potuta essere sicura che mi volesse davvero... #tone:sad //è una frase lasciata a metà. Melissa stava dicendo "e io sarei potuta essere sicura che lui mi volesse davvero bene"
 Daniel: ... #tone:grim
 Melissa: C-Comunque, questo è il motivo. Ora lascia in pace me e le mie bambole e torna a fare il tuo lavoro! #tone:haughty
-Daniel: (<Italic>Quindi queste bambole sono davvero importanti. Potrebbero essermi utili in futuro.</>) #tone:thinking
+Daniel: <Italic>Quindi queste bambole sono davvero importanti. Potrebbero essermi utili in futuro.</> #tone:thinking
 ===
 
 title: CD_MelissaJohnson_YourAlibi_ITA
@@ -163,7 +163,7 @@ Melissa: E poi questa notte... C'era l'incendio, e papà non si trovava, e quand
 Melissa: H-Ho pensato che fosse colpa mia, perché lo avevo desiderato davvero. #tone:nervous
 Melissa: Ma non sono stata io! Non potrei mai fare del male a mio papà! #tone:scared
 Daniel: ... #tone:distressed
-Daniel: (<Italic>Quindi questa è la verità...</>) #tone:serious
+Daniel: <Italic>Quindi questa è la verità...</> #tone:serious
 Daniel: Grazie per l'onestà, Melissa, e scusa se ti ho pressato in quel modo. #tone:serious
 Melissa: ... #tone:nervous
 Daniel: Grazie a te, sono un passo più vicino a risolvere il caso. #tone:serious

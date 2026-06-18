@@ -1,8 +1,8 @@
 title: ID_Observation_BrokenGlass_Interacted_ENG
 ---
-Daniel: (<Italic>What remains of a broken glass. It fell during the fight that happened just before the room was destroyed by flames.</>) #tone:neutral
+Daniel: <Italic>What remains of a broken glass. It fell during the fight that happened just before the room was destroyed by flames.</> #tone:neutral
 //Deve essere lasciato ambiguo il momento preciso in cui il bicchiere è caduto e il sesso della persona con cui la colluttazione è avvenuta.
-Daniel: (<Italic>Destroyed beyond repair, like Richard's life... and the ones of his relatives.</>) #tone:grim
+Daniel: <Italic>Destroyed beyond repair, like Richard's life... and the ones of his relatives.</> #tone:grim
 Daniel: ... #tone:distressed
 Daniel: I need to close this case quickly. #tone:serious
 ===
@@ -11,12 +11,12 @@ Daniel: I need to close this case quickly. #tone:serious
 
 title: ID_Observation_VictimOutline_Interacted_ENG
 ---
-Daniel: (<Italic>This is where Richard's body was found. The flames made him unrecognizable, but he did die of asphyxiation.</>) #tone:serious
-Daniel: (<Italic>The aggressor hit him and he passed out, stuck in a locked room that was set on fire.</>) #tone:thinking
-Daniel: (<Italic>It was certainly murder, but it is yet to be determined of which degree.</>) #tone:distressed
-Daniel: (<Italic>Richard... died a slow and painful death. Burnt to the bones. Nothing of him remains.</>) #tone:grim
-Daniel: (<Italic>...</>) #tone:distressed
-Daniel: (<Italic>At least I don't have to see the body.</>) #tone:grim
+Daniel: <Italic>This is where Richard's body was found. The flames made him unrecognizable, but he did die of asphyxiation.</> #tone:serious
+Daniel: <Italic>The aggressor hit him and he passed out, stuck in a locked room that was set on fire.</> #tone:thinking
+Daniel: <Italic>It was certainly murder, but it is yet to be determined of which degree.</> #tone:distressed
+Daniel: <Italic>Richard... died a slow and painful death. Burnt to the bones. Nothing of him remains.</> #tone:grim
+Daniel: <Italic>...</> #tone:distressed
+Daniel: <Italic>At least I don't have to see the body.</> #tone:grim
 //Le ultime due battute devono essere interpretabili sia come qualcuno che era legato alla vittima e si sta ripetendo mentalmente quello che è successo per metabolizzarlo meglio, che come un possibile colpevole, vittima di Richard, che sta cercando di convincersi che la sua "prigionia" è finita.
 ===
 //FINE
@@ -24,45 +24,45 @@ Daniel: (<Italic>At least I don't have to see the body.</>) #tone:grim
 
 title: ID_Observation_BurnedCurtains_Interacted_ENG
 ---
-Daniel: (<Italic>The fire started from these curtains. No wonders pretty much nothing remains of them.</>) #tone:neutral
-Daniel: (<Italic>Usually this room is filled by daylight, but the curtains were able to block it all.</>) #tone:neutral
-Daniel: (<Italic>Now everything that happens here will happen in broad daylight.</>) #tone:serious
+Daniel: <Italic>The fire started from these curtains. No wonders pretty much nothing remains of them.</> #tone:neutral
+Daniel: <Italic>Usually this room is filled by daylight, but the curtains were able to block it all.</> #tone:neutral
+Daniel: <Italic>Now everything that happens here will happen in broad daylight.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_DestroyedWindow_Interacted_ENG
 ---
-Daniel: (<Italic>The window exploded during the fire.</>) #tone:neutral
-Daniel: (<Italic>It's not likely the aggressor would have escaped from here. They would have cut themself, if the fire didn't get them first.</>) #tone:thinking
-Daniel: (<Italic>So the culprit must have gotten out from the door, which was locked with a key.</>) #tone:thinking
-Daniel: (<Italic>... I better keep it in mind.</>) #tone:serious
+Daniel: <Italic>The window exploded during the fire.</> #tone:neutral
+Daniel: <Italic>It's not likely the aggressor would have escaped from here. They would have cut themself, if the fire didn't get them first.</> #tone:thinking
+Daniel: <Italic>So the culprit must have gotten out from the door, which was locked with a key.</> #tone:thinking
+Daniel: <Italic>... I better keep it in mind.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_StudyChair_Interacted_ENG
 ---
-Daniel: (<Italic>Richard's throne, he spent most of his time here if he was in his study.</>) #tone:sarcastic
-Daniel: (<Italic>If someone was to sit down on it now it would break, bringing the fool to the floor with it.</>) #tone:thinking
-Daniel: (<Italic>... A throne that doesn't take kindly to usurpers.</>) #tone:grim
+Daniel: <Italic>Richard's throne, he spent most of his time here if he was in his study.</> #tone:sarcastic
+Daniel: <Italic>If someone was to sit down on it now it would break, bringing the fool to the floor with it.</> #tone:thinking
+Daniel: <Italic>... A throne that doesn't take kindly to usurpers.</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_StudyDeskDrawer_Interacted_ENG
 ---
-Daniel: (<Italic>This drawer seems to have magically survived, but it doesn't have a handle nor a keyhole.</>) #tone:thinking
-Daniel: (<Italic>Maybe there's some internal mechanism. I wonder if it still works.</>) #tone:question
+Daniel: <Italic>This drawer seems to have magically survived, but it doesn't have a handle nor a keyhole.</> #tone:thinking
+Daniel: <Italic>Maybe there's some internal mechanism. I wonder if it still works.</> #tone:question
 ===
 //FINE
 
 
 title: ID_Observation_Books_Interacted_ENG
 ---
-Daniel: (<Italic>Books, books, books. Burnt books. Law books. History books.</>) #tone:sarcastic
-Daniel: (<Italic>An entire encyclopedia. And a book on how to win debates.</>) #tone:neutral
-Daniel: (<Italic>...The last one should have burned.</>) #tone:distressed
+Daniel: <Italic>Books, books, books. Burnt books. Law books. History books.</> #tone:sarcastic
+Daniel: <Italic>An entire encyclopedia. And a book on how to win debates.</> #tone:neutral
+Daniel: <Italic>...The last one should have burned.</> #tone:distressed
 //"Questo" si riferisce al manuale
 ===
 //FINE
@@ -70,141 +70,141 @@ Daniel: (<Italic>...The last one should have burned.</>) #tone:distressed
 
 title: ID_Observation_Sofa_Interacted_ENG
 ---
-Daniel: (<Italic>A really comfy sofa.</>) #tone:neutral
-Daniel: (<Italic>Thinking about it... I am tired. I really can't afford to seel as little as I did when I was twenty...</>) #tone:tired
-Daniel: (<Italic>If I rested for only a couple of minutes...</>) #tone:thinking
-Daniel: (<Italic>No, no. I can't. I have a case to close. Were I to sit I would never stand up again.</>) #tone:serious 
+Daniel: <Italic>A really comfy sofa.</> #tone:neutral
+Daniel: <Italic>Thinking about it... I am tired. I really can't afford to seel as little as I did when I was twenty...</> #tone:tired
+Daniel: <Italic>If I rested for only a couple of minutes...</> #tone:thinking
+Daniel: <Italic>No, no. I can't. I have a case to close. Were I to sit I would never stand up again.</> #tone:serious 
 ===
 //FINE
 
 
 title: ID_Observation_TV_Interacted_ENG
 ---
-Daniel: (<Italic>A modern TV, covered in dust except for the knobs.</>) #tone:neutral
-Daniel: (<Italic>I wonder if the idea of children being the ones that stand up to change the channel is true. In this household that would be Melissa...</>) #tone:thinking
-Daniel: (<Italic>No, no. That's not possible. I just can't see her doing something like that. It is funny to think about it.</>) #tone:serious
-Daniel: (<Italic>Still, if there was someone able to convince people to do things for him, it was Richard...</>) #tone:grim
+Daniel: <Italic>A modern TV, covered in dust except for the knobs.</> #tone:neutral
+Daniel: <Italic>I wonder if the idea of children being the ones that stand up to change the channel is true. In this household that would be Melissa...</> #tone:thinking
+Daniel: <Italic>No, no. That's not possible. I just can't see her doing something like that. It is funny to think about it.</> #tone:serious
+Daniel: <Italic>Still, if there was someone able to convince people to do things for him, it was Richard...</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_Radio_Interacted_ENG
 ---
-Daniel: (<Italic>A radio, silent and clean. I think Mary uses it a lot. I wonder what transmission she listens to.</>) #tone:neutral
-Daniel: (<Italic>...If I had to guess, she listens to soap operas. The ones so long and overly complex only women can like them.</>) #tone:sercastic
-Daniel: (<Italic>Superficial just like the people who listen to it.</>) #tone:neutral
+Daniel: <Italic>A radio, silent and clean. I think Mary uses it a lot. I wonder what transmission she listens to.</> #tone:neutral
+Daniel: <Italic>...If I had to guess, she listens to soap operas. The ones so long and overly complex only women can like them.</> #tone:sercastic
+Daniel: <Italic>Superficial just like the people who listen to it.</> #tone:neutral
 ===
 //FINE
 
 
 title: ID_Observation_Centerpiece_Interacted_ENG
 ---
-Daniel: (<Italic>Uuh, there's some cookies. Beh, if they left it here on the table, it must be to offer them...</>) #tone:happy
-Daniel: (<Italic>No Daniel, you must be strong. You can't disturb the crime scene.</>) #tone:distressed
-Daniel: (<Italic>Still that smell is really begging me to tamper with evidence.</>) #tone:sigh
+Daniel: <Italic>Uuh, there's some cookies. Beh, if they left it here on the table, it must be to offer them...</> #tone:happy
+Daniel: <Italic>No Daniel, you must be strong. You can't disturb the crime scene.</> #tone:distressed
+Daniel: <Italic>Still that smell is really begging me to tamper with evidence.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_LivingRoomAshtray_Interacted_ENG
 ---
-Daniel: (<Italic>An ashtray no one bothered to clean. Whoever used it must have really needed the smoke.</>) #tone:neutral
-Daniel: (<Italic>I wonder who smoke so much. Could have been either Richard or Mary. I hope it wasn't Melissa.</>) #tone:thinking
-Daniel: (<Italic>And it better not have been Paul.</>) #tone:sigh
+Daniel: <Italic>An ashtray no one bothered to clean. Whoever used it must have really needed the smoke.</> #tone:neutral
+Daniel: <Italic>I wonder who smoke so much. Could have been either Richard or Mary. I hope it wasn't Melissa.</> #tone:thinking
+Daniel: <Italic>And it better not have been Paul.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_Stove_Interacted_ENG
 ---
-Daniel: (<Italic>Some well kept stoves, but you can see they are used often.</>) #tone:neutral
-Daniel: (<Italic>This must have been Mary's queendom. Better leave it untouched, I don't want to deal with one of her earful.</>) #tone:sigh
-Daniel: (<Italic>Or... I could just be careful not to get noticed.</>) #tone:sarcastic
+Daniel: <Italic>Some well kept stoves, but you can see they are used often.</> #tone:neutral
+Daniel: <Italic>This must have been Mary's queendom. Better leave it untouched, I don't want to deal with one of her earful.</> #tone:sigh
+Daniel: <Italic>Or... I could just be careful not to get noticed.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_Oven_Interacted_ENG
 ---
-Daniel: (<Italic>An empty oven. I did wish to find something in it.</>) #tone:neutral
-Daniel: (<Italic>Like a pie. One of the sweet ones. A chocolate one. Those that melt in your mouth...</>) #tone:happy
-Daniel: (<Italic>No Daniel. Focus. You must focus. This is an important case.</>) #tone:serious
+Daniel: <Italic>An empty oven. I did wish to find something in it.</> #tone:neutral
+Daniel: <Italic>Like a pie. One of the sweet ones. A chocolate one. Those that melt in your mouth...</> #tone:happy
+Daniel: <Italic>No Daniel. Focus. You must focus. This is an important case.</> #tone:serious
 ===
 //FINE
 
 
 title: ID_Observation_RefrigeratorInside_Interacted_ENG
 ---
-Daniel: (<Italic>The fridge's full of leftovers. They do still look good.</>) #tone:neutral
-Daniel: (<Italic>Considering Mary is an housewives, dinner is always homemade.</>) #tone:thinking
-Daniel: (<Italic>There's day where for it's a win to even get home in time for dinner.</>) #tone:tired
-Daniel: (<Italic>Blessed be the inventor of the microwave.</>) #tone:sarcastic
+Daniel: <Italic>The fridge's full of leftovers. They do still look good.</> #tone:neutral
+Daniel: <Italic>Considering Mary is an housewives, dinner is always homemade.</> #tone:thinking
+Daniel: <Italic>There's day where for it's a win to even get home in time for dinner.</> #tone:tired
+Daniel: <Italic>Blessed be the inventor of the microwave.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_MelissaMakeup_Interacted_ENG
 ---
-Daniel: (<Italic>Melissa wears makeup? At her age?</>) #tone:surprised
-Daniel: (<Italic>I didn't even notice. She either is really into natural looking makeup or she just wanted to feel like an adult and asked for a vanity.</>) #tone:thinking
+Daniel: <Italic>Melissa wears makeup? At her age?</> #tone:surprised
+Daniel: <Italic>I didn't even notice. She either is really into natural looking makeup or she just wanted to feel like an adult and asked for a vanity.</> #tone:thinking
 ===
 //FINE
 
 
 title: ID_Observation_SchoolMaterial_Interacted_ENG
 ---
-Daniel: (<Italic>Melissa's school material. They are organized by subject, and each notebook has her name and class written on it. She really put a lot of care in this.</>) #tone:thinking
-Daniel: (<Italic>I didn't think her such a diligent student.</>) #tone:surprised
+Daniel: <Italic>Melissa's school material. They are organized by subject, and each notebook has her name and class written on it. She really put a lot of care in this.</> #tone:thinking
+Daniel: <Italic>I didn't think her such a diligent student.</> #tone:surprised
 ===
 //FINE
 
 
 title: ID_Observation_MelissaChair_Interacted_ENG
 ---
-Daniel: (<Italic>Melissa's chair. This must be where she studies.</>) #tone:neutral
-Daniel: (<Italic>It's not that it is a bad chair, but she can't be comfortable when she sits on it for hours. I almost feel bad.</>) #tone:sigh
-Daniel: (<Italic>Almost, the one I have in my office is even worse. Maybe I should try to get a better one.</>) #tone:thinking
+Daniel: <Italic>Melissa's chair. This must be where she studies.</> #tone:neutral
+Daniel: <Italic>It's not that it is a bad chair, but she can't be comfortable when she sits on it for hours. I almost feel bad.</> #tone:sigh
+Daniel: <Italic>Almost, the one I have in my office is even worse. Maybe I should try to get a better one.</> #tone:thinking
 ===
 //FINE
 
 
 title: ID_Observation_MelissaClothes_Interacted_ENG
 ---
-Daniel: (<Italic>These are Melissa's clothes. I feel like I'm watching something forbidden.</>) #tone:distressed
-Daniel: (<Italic>There's some spare school uniforms and a bunch of clothes I don't want to know the price of.</>) #tone:tired
-Daniel: (<Italic>But still, what should I have expected from Mary and Richard's daughter? Only the best clothes for their princess...</>) #tone:sarcastic
+Daniel: <Italic>These are Melissa's clothes. I feel like I'm watching something forbidden.</> #tone:distressed
+Daniel: <Italic>There's some spare school uniforms and a bunch of clothes I don't want to know the price of.</> #tone:tired
+Daniel: <Italic>But still, what should I have expected from Mary and Richard's daughter? Only the best clothes for their princess...</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Observation_MelissaPillow_Interacted_ENG
 ---
-Daniel: (<Italic>Melissa's pillow. Did it really need the ruffles?</>) #tone:question
-Daniel: (<Italic>But, why should I care? I don't have to sleep in this bed.</>) #tone:sigh
+Daniel: <Italic>Melissa's pillow. Did it really need the ruffles?</> #tone:question
+Daniel: <Italic>But, why should I care? I don't have to sleep in this bed.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_MaryWardrobe_Interacted_ENG
 ---
-Daniel: (<Italic>This wardrobe must be Mary's. Does she really need that much space?</>) #tone:question
-Daniel: (<Italic>I'll never get this side of women.</>) #tone:sigh
+Daniel: <Italic>This wardrobe must be Mary's. Does she really need that much space?</> #tone:question
+Daniel: <Italic>I'll never get this side of women.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_RichardDresser_Interacted_ENG
 ---
-Daniel: (<Italic>This dresser must be Richard's. It's half the size of the wardrobe.</>) #tone:neutral
-Daniel: (<Italic>I'm not looking inside that. I don't feel good going through a dead man's laundry. Most importantly I don't want to end up touching his boxers.</>) #tone:grim
+Daniel: <Italic>This dresser must be Richard's. It's half the size of the wardrobe.</> #tone:neutral
+Daniel: <Italic>I'm not looking inside that. I don't feel good going through a dead man's laundry. Most importantly I don't want to end up touching his boxers.</> #tone:grim
 ===
 //FINE
 
 
 title: ID_Observation_RichardNightstand_Interacted_ENG
 ---
-Daniel: (<Italic>One of the nightstands by the bed. I don't know who uses it.</>) #tone:neutral
-Daniel: (<Italic>There's a book on here.<i/> The murder Robert Ockrayd<Italic>...</>) #tone:thinking
+Daniel: <Italic>One of the nightstands by the bed. I don't know who uses it.</> #tone:neutral
+Daniel: <Italic>There's a book on here.<i/> The murder Robert Ockrayd<Italic>...</> #tone:thinking
 // E' una citazione al libro "L'assassinio di Roger Ackroyd" di Agatha Christie perché il narratore lì è il colpevole e mi piaceva fare meta-narrazione
 Daniel: ... Ok, I have no more of an idea about the owner of the nightstand. #tone:sigh
 ===
@@ -213,17 +213,17 @@ Daniel: ... Ok, I have no more of an idea about the owner of the nightstand. #to
 
 title: ID_Observation_MaryMakeup_Interacted_ENG
 ---
-Daniel: (<Italic>Are all of these Mary's? There's... so much makeup.</>) #tone:surprised
-Daniel: (<Italic>Now that I think about it, I don't think I have ever seen her without makeup.</>) #tone:thinking
-Daniel: (<Italic>And judging by her vanity, I don't think I'll ever see it.</>) #tone:sigh
+Daniel: <Italic>Are all of these Mary's? There's... so much makeup.</> #tone:surprised
+Daniel: <Italic>Now that I think about it, I don't think I have ever seen her without makeup.</> #tone:thinking
+Daniel: <Italic>And judging by her vanity, I don't think I'll ever see it.</> #tone:sigh
 ===
 //FINE
 
 
 title: ID_Observation_DoubleBed_Interacted_ENG
 ---
-Daniel: (<Italic>Richard and Mary's bed. It's so big three people could easily fit in here.</>) #tone:neutral
-Daniel: (<Italic>Now that Richard is gone, Mary will have all of this for herself. She'll be comfortable. Alone, but comfortable.</>) #tone:sarcastic
+Daniel: <Italic>Richard and Mary's bed. It's so big three people could easily fit in here.</> #tone:neutral
+Daniel: <Italic>Now that Richard is gone, Mary will have all of this for herself. She'll be comfortable. Alone, but comfortable.</> #tone:sarcastic
 ===
 //FINE
 

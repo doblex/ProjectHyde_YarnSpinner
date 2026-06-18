@@ -1,50 +1,50 @@
 title: ID_Interactable_DeskButton_Interacted_ENG
 ---
-Daniel: (<Italic>This... Looks like a button. But why should a button be here?</>) #tone:question
-Daniel: (<Italic>Maybe it's connected to some kind of mechanism, but who knows if it still works after the fire.</>) #tone:thinking
-Daniel: (<Italic>If I push it, it doesn't move... But what if I found something with the same shape?</>) #tone:thinking
+Daniel: <Italic>This... Looks like a button. But why should a button be here?</> #tone:question
+Daniel: <Italic>Maybe it's connected to some kind of mechanism, but who knows if it still works after the fire.</> #tone:thinking
+Daniel: <Italic>If I push it, it doesn't move... But what if I found something with the same shape?</> #tone:thinking
 ===
 
 title: ID_Interactable_DeskButton_NotSolved_ENG
 ---
-Daniel: (<Italic>Still nothing.</>) #tone:sigh
+Daniel: <Italic>Still nothing.</> #tone:sigh
 ===
 
 title: ID_Interactable_DeskButton_Solved_ENG
 ---
-Daniel: (<Italic>...! It worked!</>) #tone:surprised
-Daniel: (<Italic>So the candlestick was the solution... Ironic.</>) #tone:sarcastic
-Daniel: (<Italic>Now the drawer's open. I should look inside.</>) #tone:serious
+Daniel: <Italic>...! It worked!</> #tone:surprised
+Daniel: <Italic>So the candlestick was the solution... Ironic.</> #tone:sarcastic
+Daniel: <Italic>Now the drawer's open. I should look inside.</> #tone:serious
 ===
 
 title: ID_Interactable_DeskButton_AlreadySolved_ENG
 ---
-Daniel: (<Italic>A perfect mechanism to hide important things.</>) #tone:sarcastic
+Daniel: <Italic>A perfect mechanism to hide important things.</> #tone:sarcastic
 ===
 //FINE
 
 
 title: ID_Interactable_DresserLock_Interacted_ENG
 ---
-Daniel: (<Italic>Melissa locked this drawer with a locker...? There's really no worst way to hide something.</>) #tone:sigh
-Daniel: (<Italic>It has a 4-digit combination, with numbers going from 1 to 9. But I have no idea what's the combination.</>) #tone:thinking
-Daniel: (<Italic>That girl may be unbearable, but she's not stupid. Whatever is the solution, it won't be easy to find it.</>) #tone:thinking
+Daniel: <Italic>Melissa locked this drawer with a locker...? There's really no worst way to hide something.</> #tone:sigh
+Daniel: <Italic>It has a 4-digit combination, with numbers going from 1 to 9. But I have no idea what's the combination.</> #tone:thinking
+Daniel: <Italic>That girl may be unbearable, but she's not stupid. Whatever is the solution, it won't be easy to find it.</> #tone:thinking
 ===
 
 title: ID_Interactable_DresserLock_NotSolved_ENG
 ---
-Daniel: (<Italic>Wrong combination.</>) #tone:sigh
+Daniel: <Italic>Wrong combination.</> #tone:sigh
 ===
 
 title: ID_Interactable_DresserLock_Solved_ENG
 ---
-Daniel: (<Italic>Oh! It's open. 6253... Is it a date?</>) #tone:surprised
-Daniel: (<Italic>Doesn't matter. Now, let's see what's inside.</>) #tone:serious
+Daniel: <Italic>Oh! It's open. 6253... Is it a date?</> #tone:surprised
+Daniel: <Italic>Doesn't matter. Now, let's see what's inside.</> #tone:serious
 ===
 
 title: ID_Interactable_DresserLock_AlreadySolved_ENG
 ---
-Daniel: (<Italic>It wasn't easy to find the solution. I guess that's what they mean when they say "don't judge a book by its cover".</>) #tone:sigh
+Daniel: <Italic>It wasn't easy to find the solution. I guess that's what they mean when they say "don't judge a book by its cover".</> #tone:sigh
 ===
 //FINE
 

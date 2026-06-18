@@ -59,8 +59,8 @@ Paul: Proprio perché il nostro compito è quello di trovare i veri colpevoli do
 Paul: Se siamo i primi a non fidarci, neanche gli altri si fideranno mai di noi, e non ci diranno mai la verità. #tone:serious
 Paul: Ma se tutti collaborano, sono sicuro che sia possibile trovare il vero colpevole e punirlo secondo la legge. #tone:firm
 Paul: Quindi, capo, mi permetta di svolgere con lei queste indagini! #tone:happy
-Daniel: (<Italic>Questa sua ingenua innocenza... Quanto tempo ci vorrà prima che apra gli occhi?</>) #tone:angry
-Daniel: (<Italic>Non riesce a riconoscere una bugia neanche quando gli viene detta in faccia. Ma una persona come lui può essere pericolosa. È meglio tenerselo vicino...</>) #tone:thinking
+Daniel: <Italic>Questa sua ingenua innocenza... Quanto tempo ci vorrà prima che apra gli occhi?</> #tone:angry
+Daniel: <Italic>Non riesce a riconoscere una bugia neanche quando gli viene detta in faccia. Ma una persona come lui può essere pericolosa. È meglio tenerselo vicino...</> #tone:thinking
 Daniel: Quando la smetterai di parlare come i supereroi dei tuoi fumetti, certo, potrai aiutarmi. #tone:sarcastic
 Paul: Aww... #tone:sad
 Daniel: Ma avere qualcuno con cui confrontarsi fa sempre comodo. Se scoprirò qualcosa verrò a parlarne con te. #tone:neutral
@@ -86,7 +86,7 @@ Daniel: Quando sono arrivato a casa mi sono scaldato qualcosa al microonde. Ma n
 Paul: Cosa ci fa qui allora? Sarebbe dovuto rimanere a casa! #tone:firm
 Daniel: No, ora sto bene. Dopo aver saputo quello che era successo non potevo non venire. #tone:serious
 Paul: Oh, capo, lei sì che è un vero eroe! #tone:happy
-Daniel: (<Italic>Ho dovuto insistere per farmi affidare questo caso, ma poco importa. Devo risolverlo.</>) #tone:serious
+Daniel: <Italic>Ho dovuto insistere per farmi affidare questo caso, ma poco importa. Devo risolverlo.</> #tone:serious
 ===
 
 title: CD_PaulMoore_HowDidTheFireStart_ITA
@@ -135,7 +135,7 @@ Daniel: Potrebbe essere di tutto, anche lo stesso candelabro. Un'arma non esclud
 Paul: Ha ragione. In effetti, mi sembra più facile appiccare un incendio con un accendino che con un candelabro. #tone:thinking
 Paul: Ma penso comunque che questa strada lasci ancora troppe domande senza risposta. #tone:neutral
 Daniel: ...Sì. Dovrò investigare di meglio. #tone:neutral
-Daniel: (<Italic>E trovare una spiegazione a perché questa è l'arma del delitto.</>) #tone:serious
+Daniel: <Italic>E trovare una spiegazione a perché questa è l'arma del delitto.</> #tone:serious
 ===
 
 title: CD_PaulMoore_WhoIsTheCulprit_ITA

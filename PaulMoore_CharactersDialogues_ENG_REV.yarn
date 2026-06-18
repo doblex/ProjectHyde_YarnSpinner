@@ -59,8 +59,8 @@ Paul: It's exactly because our job is to find the real culprit that we have to t
 Paul: If we don't trust others, they won't trust us either, and so they'll never tell us the truth. #tone:serious
 Paul: But if we all work together, I'm sure we can find the real culprit and punish them according to the law. #tone:firm
 Paul: So, boss, let's investigate together! #tone:happy
-Daniel: (<Italic>His naive innocence... How long will it take for him to open his eyes?</>) #tone:angry
-Daniel: (<Italic>He can't recognize a lie even when you tell him directly. But people like him can be dangerous. Better to keep him close...</>) #tone:thinking
+Daniel: <Italic>His naive innocence... How long will it take for him to open his eyes?</> #tone:angry
+Daniel: <Italic>He can't recognize a lie even when you tell him directly. But people like him can be dangerous. Better to keep him close...</> #tone:thinking
 Daniel: Once you stop speaking like the superheroes from your comics, of course, we will. #tone:sarcastic
 Paul: Aww... #tone:sad
 Daniel: But talking with someone with different views is always useful. If I find something out, I'll tell you. #tone:neutral
@@ -86,7 +86,7 @@ Daniel: When I got home I microwaved something to eat. But it had to be expired 
 Paul: What are you doing here then? You should have stayed at home! #tone:firm
 Daniel: No, I'm fine now. After I found out what happened, I had to come here. #tone:serious
 Paul: Oh, Boss, you really are a hero! #tone:happy
-Daniel: (<Italic>I had to be quite insistent to get this case, but that doesn't matter. I have to solve it.</>) #tone:serious
+Daniel: <Italic>I had to be quite insistent to get this case, but that doesn't matter. I have to solve it.</> #tone:serious
 ===
 
 title: CD_PaulMoore_HowDidTheFireStart_ENG
@@ -135,7 +135,7 @@ Daniel: It could be anything, even the candlestick. The weapons don't exclude ea
 Paul: You're right. Thinking about it, it's easier to start a fire with a lighter than using a candlestick. #tone:thinking
 Paul: But there are still too many unanswered questions. #tone:neutral
 Daniel: ...Yes. I'll search for other clues. #tone:neutral
-Daniel: (<Italic>And find an explanation as to why this is the murder weapon.</>) #tone:serious
+Daniel: <Italic>And find an explanation as to why this is the murder weapon.</> #tone:serious
 ===
 
 title: CD_PaulMoore_WhoIsTheCulprit_ENG
