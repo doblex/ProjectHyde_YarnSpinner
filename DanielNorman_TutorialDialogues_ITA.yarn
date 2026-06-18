@@ -24,6 +24,7 @@ Daniel: <Italic>Se voglio avere più informazioni dovrò parlare con sua moglie 
 Daniel: <Italic>Posso andare da loro muovendomi con WASD, e parlarci premendo il tasto sx del mouse quando il puntatore è su di loro.</> #tone:neutral
 Daniel: <Italic>Dovrò anche raccogliere le prove. Premendo shift saranno evidenziati tutti gli oggetti interagibili, e potrò raccoglierli sempre premendo il tasto sx del mouse.</> #tone:neutral
 Daniel: Bene, cominciamo. #tone:serious
+<<BurnIn true>>
 ===
 
 title: TD_DanielNorman_Notebook_ITA
@@ -85,6 +86,7 @@ Daniel: Chiunque sceglierò, oggi un innocente verrà condannato per un crimine 
 Daniel: Ma se questo è il prezzo da pagare per la libertà... #tone:distressed
 Daniel: Sono disposto a sporcarmi le mani un'ultima volta. Solo un'ultima volta. #tone:grim
 Daniel: Nessuno scoprirà mai il vero assassino di Richard Johnson. #tone:serious
+<<BurnIn false>>
 ===
 
 title: TD_DanielNorman_MaryCaseSolved_ITA
