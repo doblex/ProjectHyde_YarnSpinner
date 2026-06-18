@@ -24,7 +24,6 @@ Daniel: <Italic>Se voglio avere più informazioni dovrò parlare con sua moglie 
 Daniel: <Italic>Posso andare da loro muovendomi con WASD, e parlarci premendo il tasto sx del mouse quando il puntatore è su di loro.</> #tone:neutral
 Daniel: <Italic>Dovrò anche raccogliere le prove. Premendo shift saranno evidenziati tutti gli oggetti interagibili, e potrò raccoglierli sempre premendo il tasto sx del mouse.</> #tone:neutral
 Daniel: Bene, cominciamo. #tone:serious
-<<BurnIn true>>
 ===
 
 title: TD_DanielNorman_Notebook_ITA
@@ -117,5 +116,4 @@ title: TD_DanielNorman_NewInteractionUnlocked_ITA
 ---
 Daniel: <Italic>Ora che so qualcosa in più, dovrei andare a ricontrollare in giro.</> #tone:thinking
 Daniel: <Italic>Alcuni oggetti che mi sembravano inutili potrebbero aver acquisito una certa importanza.</> #tone:neutral
-<<ShowHint HintSys.Hint.Object.Unlocked>>
 ===
