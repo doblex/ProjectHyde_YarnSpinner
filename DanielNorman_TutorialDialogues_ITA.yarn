@@ -85,7 +85,7 @@ Daniel: Chiunque sceglierò, oggi un innocente verrà condannato per un crimine 
 Daniel: Ma se questo è il prezzo da pagare per la libertà... #tone:distressed
 Daniel: Sono disposto a sporcarmi le mani un'ultima volta. Solo un'ultima volta. #tone:grim
 Daniel: Nessuno scoprirà mai il vero assassino di Richard Johnson. #tone:serious
-<<BurnIn false>>
+<<EndDemo>>
 ===
 
 title: TD_DanielNorman_MaryCaseSolved_ITA

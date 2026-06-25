@@ -170,6 +170,7 @@ Paul: E perché Melissa avrebbe lasciato il candelabro nello studio? #tone:quest
 Daniel: Forse si pentita di ciò che ha fatto subito dopo e, persa la lucidità, ha lasciato cadere il candelabro a terra. #tone:thinking
 Paul: È difficile da credere... #tone:uncertain
 Daniel: Lo so, ma è una possibilità. #tone:serious
+<<SetTag EventFlags.EndGame.MelissaIsTheCulprit true>>
 ===
 
 title: CD_PaulMoore_MaryIsTheCulprit_ITA
@@ -188,6 +189,7 @@ Paul: Ma è stata lei a chiamare i soccorsi... #tone:nervous
 Daniel: Non significa nulla. Sai quanti colpevoli chiamano i soccorsi sperando di convincere gli altri che sono innocenti? #tone:serious
 Paul: Capo... #tone:sad
 Daniel: So come suona, ma credimi. Non dobbiamo sottovalutare Mary. #tone:serious
+<<SetTag EventFlags.EndGame.MaryIsTheCulprit true>>
 ===
 
 
