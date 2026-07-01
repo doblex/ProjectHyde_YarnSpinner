@@ -21,8 +21,8 @@ Daniel: <Italic>Eccomi nella residenza Johnson...</> #tone:neutral
 Daniel: <Italic>Ieri notte questa casa è andata a fuoco e un uomo è morto nell'incendio.</> #tone:serious
 Daniel: Richard... #tone:grim
 Daniel: <Italic>Se voglio avere più informazioni dovrò parlare con sua moglie e sua figlia. Non so chi delle due sia peggio...</> #tone:tired
-Daniel: <Italic>Posso andare da loro muovendomi con WASD, e parlarci premendo il tasto sx del mouse quando il puntatore è su di loro.</> #tone:neutral
-Daniel: <Italic>Dovrò anche raccogliere le prove. Premendo shift saranno evidenziati tutti gli oggetti interagibili, e potrò raccoglierli sempre premendo il tasto sx del mouse.</> #tone:neutral
+Daniel: <Italic>Posso andare da loro muovendomi con </> <img id="WASD"/> <Italic> , e parlarci premendo </> <img id="MouseLeft"/> <Italic> quando il puntatore è su di loro.</> #tone:neutral
+Daniel: <Italic>Dovrò anche raccogliere le prove. Premendo </> <img id="Shift"/> <Italic> saranno evidenziati tutti gli oggetti interagibili, e potrò raccoglierli sempre premendo</> <img id="MouseLeft"/> <Italic>.</> #tone:neutral
 Daniel: Bene, cominciamo. #tone:serious
 ===
 
@@ -30,9 +30,9 @@ title: TD_DanielNorman_Notebook_ITA
 tag: HintSys.Tutorial.Notebook.Open
 ---
 //Alla prima apertura del notebook
-Daniel: <Italic>Questo è il mio </><Bold>Notebook</><Italic>. Qui posso scrivere tutto quello che ritengo rilevante. Posso aprirlo e chiuderlo premendo Q.</> #tone:neutral
+Daniel: <Italic>Questo è il mio </><Bold>Notebook</><Italic>. Qui posso scrivere tutto quello che ritengo rilevante. Posso aprirlo e chiuderlo premendo </> <img id="Q"/> <Italic>.</> #tone:neutral
 Daniel: <Italic>Perché qualcosa venga registrato nel </><Bold>Notebook</><Italic> devo farne una </><Bold>Nota</><Italic>.</> #tone:neutral
-Daniel: <Italic>Posso fare una </><Bold>Nota</><Italic> di qualsiasi cosa: persone, oggetti... Anche quelli che ho già aggiunto all'Inventario. Basta passarci sopra e premere la rotella del mouse</> #tone:thinking
+Daniel: <Italic>Posso fare una </><Bold>Nota</><Italic> di qualsiasi cosa: persone, oggetti... Anche quelli che ho già aggiunto all'Inventario. Basta passarci sopra e premere </> <img id="MouseWheel"/> #tone:thinking
 Daniel: <Italic>Dovrei fare una </><Bold>Nota</><Italic> ogni volta che posso. Non si sa mai cosa potrebbe tornarmi utile...</> #tone:thinking
 ===
 
@@ -64,7 +64,7 @@ Daniel: <Bold>Se il caso che costruisco sarà giusto, si sbloccheranno nuove int
 title: TD_DanielNorman_ItemAdded_ITA
 ---
 //Al primo oggetto che si aggiunge all'inventario
-Daniel: <Italic>L'oggetto che ho appena raccolto è stato aggiunto al mio </><Bold>Inventario</><Italic>. Posso aprirlo e chiuderlo premendo E.</> #tone:neutral
+Daniel: <Italic>L'oggetto che ho appena raccolto è stato aggiunto al mio </><Bold>Inventario</><Italic>. Posso aprirlo e chiuderlo premendo </> <img id="E"/> <Italic>.</> #tone:neutral
 ===
 
 title: TD_DanielNorman_Inventory_ITA
