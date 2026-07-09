@@ -39,7 +39,7 @@ Daniel: <Italic>Dovrei fare una </><Bold>Nota</><Italic> ogni volta che posso. N
 title: TD_DanielNorman_NotebookBookmarks_ITA
 ---
 Daniel: <Italic>Questa è la scheda </><Bold>Bookmarks</><Italic> del mio </><Bold>Notebook</><Italic>. Qui saranno raccolte tutte le </><Bold>Note</><Italic> degli oggetti.</> #tone:neutral
-Daniel: <Italic>Ogni Nota di ogni oggetto avrà due sezioni: un </><Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>.</> #tone:neutral
+Daniel: <Italic>Ogni Nota di ogni oggetto avrà due sezioni: un </><Bold>registro dei dialoghi</> e una in cui potrò <Bold>scrivere</>. #tone:neutral
 Daniel: <Italic>Nella prima sezione potrò rileggere tutti i dialoghi relativi a quell'oggetto. Nella seconda, invece, potrò scrivere liberamente tutto ciò che ritengo importante.</> #tone:thinking
 Daniel: <Italic>Posso segnarmi i dettagli, o le domande senza risposta, in modo da non scordarmeli.</> #tone:neutral
 ===
@@ -58,7 +58,7 @@ title: TD_DanielNorman_NotebookCase_ITA
 Daniel: <Italic>Questa è la scheda </><Bold>Case</><Italic> del mio </><Bold>Notebook</><Italic>. Qui potrò fare delle ipotesi in base agli indizi che ho raccolto.</> #tone:neutral
 Daniel: <Italic>Una volta fatta una Nota, potrò selezionarla assieme ad altre due e provare a costruire un caso.</> #tone:neutral
 Daniel: <Italic>Potrò usarla per </><Bold>ipotizzare come i sospettati potrebbero aver commesso il crimine</><Italic>, o per capire come </><Bold>risolvere alcuni puzzle</><Italic>.</> #tone:thinking
-Daniel: <Bold>Se il caso che costruisco sarà giusto, si sbloccheranno nuove interazioni con l'ambiente</><Italic>. Quindi farei bene a sperimentare.</> #tone:serious
+Daniel: <Bold>Se il caso che costruisco sara' giusto, si sbloccheranno nuove interazioni con l'ambiente</><Italic>. Quindi farei bene a sperimentare.</> #tone:serious
 ===
 
 title: TD_DanielNorman_ItemAdded_ITA
@@ -80,6 +80,7 @@ Daniel: <Italic>Questa cosa mi tornerà molto utile più avanti.</> #tone:seriou
 title: TD_DanielNorman_Finale_ITA
 ---
 //Dopo aver completato sia il dialogo CD_PaulMoore_MaryIsTheCulprit_ITA e CD_PaulMoore_MelissaIsTheCulprit_ITA
+<<BurnIn false>>
 Daniel: Chi delle due incolperò alla fine? Mary o Melissa? #tone:conflicted
 Daniel: Chiunque sceglierò, oggi un innocente verrà condannato per un crimine che non ha commesso. #tone:grim
 Daniel: Ma se questo è il prezzo da pagare per la libertà... #tone:distressed
